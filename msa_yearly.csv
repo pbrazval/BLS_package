@@ -1,0 +1,3565 @@
+,MSA,Year,Value
+0,"Anniston-Oxford-Jacksonville, AL",2018,4.6
+13,"Anniston-Oxford-Jacksonville, AL",2017,5.1
+26,"Anniston-Oxford-Jacksonville, AL",2016,6.6
+39,"Anniston-Oxford-Jacksonville, AL",2015,7.1
+52,"Anniston-Oxford-Jacksonville, AL",2014,7.9
+65,"Anniston-Oxford-Jacksonville, AL",2013,8.9
+78,"Anniston-Oxford-Jacksonville, AL",2012,9.1
+91,"Anniston-Oxford-Jacksonville, AL",2011,10.3
+104,"Anniston-Oxford-Jacksonville, AL",2010,11.2
+117,"Auburn-Opelika, AL",2018,3.6
+130,"Auburn-Opelika, AL",2017,4.1
+143,"Auburn-Opelika, AL",2016,5.2
+156,"Auburn-Opelika, AL",2015,5.3
+169,"Auburn-Opelika, AL",2014,5.6
+182,"Auburn-Opelika, AL",2013,6.0
+195,"Auburn-Opelika, AL",2012,7.0
+208,"Auburn-Opelika, AL",2011,8.0
+221,"Auburn-Opelika, AL",2010,8.9
+234,"Birmingham-Hoover, AL",2018,3.5
+247,"Birmingham-Hoover, AL",2017,4.1
+260,"Birmingham-Hoover, AL",2016,5.5
+273,"Birmingham-Hoover, AL",2015,5.5
+286,"Birmingham-Hoover, AL",2014,5.9
+299,"Birmingham-Hoover, AL",2013,6.4
+312,"Birmingham-Hoover, AL",2012,7.2
+325,"Birmingham-Hoover, AL",2011,8.7
+338,"Birmingham-Hoover, AL",2010,9.7
+351,"Daphne-Fairhope-Foley, AL",2018,3.6
+364,"Daphne-Fairhope-Foley, AL",2017,4.2
+377,"Daphne-Fairhope-Foley, AL",2016,5.4
+390,"Daphne-Fairhope-Foley, AL",2015,5.6
+403,"Daphne-Fairhope-Foley, AL",2014,6.1
+416,"Daphne-Fairhope-Foley, AL",2013,6.7
+429,"Daphne-Fairhope-Foley, AL",2012,7.7
+442,"Daphne-Fairhope-Foley, AL",2011,9.0
+455,"Daphne-Fairhope-Foley, AL",2010,9.9
+468,"Decatur, AL",2018,3.6
+481,"Decatur, AL",2017,4.4
+494,"Decatur, AL",2016,5.8
+507,"Decatur, AL",2015,6.3
+520,"Decatur, AL",2014,6.9
+533,"Decatur, AL",2013,7.3
+546,"Decatur, AL",2012,8.3
+559,"Decatur, AL",2011,9.7
+572,"Decatur, AL",2010,11.0
+585,"Dothan, AL",2018,4.0
+598,"Dothan, AL",2017,4.5
+611,"Dothan, AL",2016,5.9
+624,"Dothan, AL",2015,6.3
+637,"Dothan, AL",2014,6.8
+650,"Dothan, AL",2013,7.1
+663,"Dothan, AL",2012,7.8
+676,"Dothan, AL",2011,8.8
+689,"Dothan, AL",2010,9.4
+702,"Florence-Muscle Shoals, AL",2018,4.3
+715,"Florence-Muscle Shoals, AL",2017,5.0
+728,"Florence-Muscle Shoals, AL",2016,6.6
+741,"Florence-Muscle Shoals, AL",2015,7.3
+754,"Florence-Muscle Shoals, AL",2014,7.5
+767,"Florence-Muscle Shoals, AL",2013,7.6
+780,"Florence-Muscle Shoals, AL",2012,8.3
+793,"Florence-Muscle Shoals, AL",2011,9.5
+806,"Florence-Muscle Shoals, AL",2010,10.4
+819,"Gadsden, AL",2018,4.1
+832,"Gadsden, AL",2017,4.7
+845,"Gadsden, AL",2016,5.9
+858,"Gadsden, AL",2015,6.2
+871,"Gadsden, AL",2014,7.0
+884,"Gadsden, AL",2013,7.7
+897,"Gadsden, AL",2012,8.5
+910,"Gadsden, AL",2011,10.0
+923,"Gadsden, AL",2010,10.8
+936,"Huntsville, AL",2018,3.5
+949,"Huntsville, AL",2017,4.0
+962,"Huntsville, AL",2016,5.2
+975,"Huntsville, AL",2015,5.5
+988,"Huntsville, AL",2014,6.1
+1001,"Huntsville, AL",2013,6.4
+1014,"Huntsville, AL",2012,7.1
+1027,"Huntsville, AL",2011,8.3
+1040,"Huntsville, AL",2010,8.5
+1053,"Mobile, AL",2018,4.6
+1066,"Mobile, AL",2017,5.3
+1079,"Mobile, AL",2016,6.6
+1092,"Mobile, AL",2015,6.9
+1105,"Mobile, AL",2014,7.7
+1118,"Mobile, AL",2013,8.7
+1131,"Mobile, AL",2012,9.4
+1144,"Mobile, AL",2011,10.7
+1157,"Mobile, AL",2010,11.1
+1170,"Montgomery, AL",2018,3.9
+1183,"Montgomery, AL",2017,4.3
+1196,"Montgomery, AL",2016,5.5
+1209,"Montgomery, AL",2015,5.9
+1222,"Montgomery, AL",2014,6.6
+1235,"Montgomery, AL",2013,7.2
+1248,"Montgomery, AL",2012,8.0
+1261,"Montgomery, AL",2011,9.4
+1274,"Montgomery, AL",2010,9.7
+1287,"Tuscaloosa, AL",2018,3.8
+1300,"Tuscaloosa, AL",2017,4.4
+1313,"Tuscaloosa, AL",2016,5.8
+1326,"Tuscaloosa, AL",2015,5.7
+1339,"Tuscaloosa, AL",2014,6.2
+1352,"Tuscaloosa, AL",2013,7.0
+1365,"Tuscaloosa, AL",2012,7.7
+1378,"Tuscaloosa, AL",2011,8.8
+1391,"Tuscaloosa, AL",2010,9.7
+1404,"Anchorage, AK",2018,5.4
+1417,"Anchorage, AK",2017,6.0
+1430,"Anchorage, AK",2016,5.9
+1443,"Anchorage, AK",2015,5.5
+1456,"Anchorage, AK",2014,5.7
+1469,"Anchorage, AK",2013,5.9
+1482,"Anchorage, AK",2012,6.2
+1495,"Anchorage, AK",2011,6.8
+1508,"Anchorage, AK",2010,7.4
+1521,"Fairbanks, AK",2018,5.2
+1534,"Fairbanks, AK",2017,5.7
+1547,"Fairbanks, AK",2016,5.6
+1560,"Fairbanks, AK",2015,5.3
+1573,"Fairbanks, AK",2014,5.7
+1586,"Fairbanks, AK",2013,5.9
+1599,"Fairbanks, AK",2012,6.2
+1612,"Fairbanks, AK",2011,6.6
+1625,"Fairbanks, AK",2010,6.9
+1638,"Flagstaff, AZ",2018,5.5
+1651,"Flagstaff, AZ",2017,5.6
+1664,"Flagstaff, AZ",2016,6.1
+1677,"Flagstaff, AZ",2015,6.5
+1690,"Flagstaff, AZ",2014,7.1
+1703,"Flagstaff, AZ",2013,8.2
+1716,"Flagstaff, AZ",2012,8.6
+1729,"Flagstaff, AZ",2011,9.5
+1742,"Flagstaff, AZ",2010,9.8
+1755,"Lake Havasu City-Kingman, AZ",2018,5.7
+1768,"Lake Havasu City-Kingman, AZ",2017,6.0
+1781,"Lake Havasu City-Kingman, AZ",2016,6.7
+1794,"Lake Havasu City-Kingman, AZ",2015,8.0
+1807,"Lake Havasu City-Kingman, AZ",2014,8.7
+1820,"Lake Havasu City-Kingman, AZ",2013,10.4
+1833,"Lake Havasu City-Kingman, AZ",2012,11.0
+1846,"Lake Havasu City-Kingman, AZ",2011,12.2
+1859,"Lake Havasu City-Kingman, AZ",2010,12.9
+1872,"Phoenix-Mesa-Scottsdale, AZ",2018,4.2
+1885,"Phoenix-Mesa-Scottsdale, AZ",2017,4.3
+1898,"Phoenix-Mesa-Scottsdale, AZ",2016,4.7
+1911,"Phoenix-Mesa-Scottsdale, AZ",2015,5.2
+1924,"Phoenix-Mesa-Scottsdale, AZ",2014,5.9
+1937,"Phoenix-Mesa-Scottsdale, AZ",2013,6.7
+1950,"Phoenix-Mesa-Scottsdale, AZ",2012,7.4
+1963,"Phoenix-Mesa-Scottsdale, AZ",2011,8.6
+1976,"Phoenix-Mesa-Scottsdale, AZ",2010,9.5
+1989,"Prescott, AZ",2018,4.4
+2002,"Prescott, AZ",2017,4.6
+2015,"Prescott, AZ",2016,5.0
+2028,"Prescott, AZ",2015,5.6
+2041,"Prescott, AZ",2014,6.4
+2054,"Prescott, AZ",2013,7.8
+2067,"Prescott, AZ",2012,8.6
+2080,"Prescott, AZ",2011,9.8
+2093,"Prescott, AZ",2010,10.6
+2106,"Sierra Vista-Douglas, AZ",2018,5.6
+2119,"Sierra Vista-Douglas, AZ",2017,5.6
+2132,"Sierra Vista-Douglas, AZ",2016,6.3
+2145,"Sierra Vista-Douglas, AZ",2015,7.3
+2158,"Sierra Vista-Douglas, AZ",2014,8.4
+2171,"Sierra Vista-Douglas, AZ",2013,9.3
+2184,"Sierra Vista-Douglas, AZ",2012,9.0
+2197,"Sierra Vista-Douglas, AZ",2011,9.5
+2210,"Sierra Vista-Douglas, AZ",2010,9.3
+2223,"Tucson, AZ",2018,4.4
+2236,"Tucson, AZ",2017,4.6
+2249,"Tucson, AZ",2016,5.0
+2262,"Tucson, AZ",2015,5.5
+2275,"Tucson, AZ",2014,6.0
+2288,"Tucson, AZ",2013,6.8
+2301,"Tucson, AZ",2012,7.4
+2314,"Tucson, AZ",2011,8.4
+2327,"Tucson, AZ",2010,9.3
+2340,"Yuma, AZ",2018,16.9
+2353,"Yuma, AZ",2017,17.2
+2366,"Yuma, AZ",2016,19.1
+2379,"Yuma, AZ",2015,21.8
+2392,"Yuma, AZ",2014,22.9
+2405,"Yuma, AZ",2013,25.6
+2418,"Yuma, AZ",2012,23.9
+2431,"Yuma, AZ",2011,24.1
+2444,"Yuma, AZ",2010,25.0
+2457,"Fayetteville-Springdale-Rogers, AR-MO",2018,2.7
+2470,"Fayetteville-Springdale-Rogers, AR-MO",2017,2.8
+2483,"Fayetteville-Springdale-Rogers, AR-MO",2016,2.9
+2496,"Fayetteville-Springdale-Rogers, AR-MO",2015,3.7
+2509,"Fayetteville-Springdale-Rogers, AR-MO",2014,4.5
+2522,"Fayetteville-Springdale-Rogers, AR-MO",2013,5.4
+2535,"Fayetteville-Springdale-Rogers, AR-MO",2012,5.6
+2548,"Fayetteville-Springdale-Rogers, AR-MO",2011,6.2
+2561,"Fayetteville-Springdale-Rogers, AR-MO",2010,6.5
+2574,"Fort Smith, AR-OK",2018,3.7
+2587,"Fort Smith, AR-OK",2017,4.1
+2600,"Fort Smith, AR-OK",2016,4.6
+2613,"Fort Smith, AR-OK",2015,5.3
+2626,"Fort Smith, AR-OK",2014,5.9
+2639,"Fort Smith, AR-OK",2013,7.6
+2652,"Fort Smith, AR-OK",2012,7.8
+2665,"Fort Smith, AR-OK",2011,8.4
+2678,"Fort Smith, AR-OK",2010,8.2
+2691,"Hot Springs, AR",2018,4.0
+2704,"Hot Springs, AR",2017,4.1
+2717,"Hot Springs, AR",2016,4.3
+2730,"Hot Springs, AR",2015,5.4
+2743,"Hot Springs, AR",2014,6.2
+2756,"Hot Springs, AR",2013,7.4
+2769,"Hot Springs, AR",2012,7.6
+2782,"Hot Springs, AR",2011,8.3
+2795,"Hot Springs, AR",2010,8.1
+2808,"Jonesboro, AR",2018,3.1
+2821,"Jonesboro, AR",2017,3.2
+2834,"Jonesboro, AR",2016,3.4
+2847,"Jonesboro, AR",2015,4.6
+2860,"Jonesboro, AR",2014,5.6
+2873,"Jonesboro, AR",2013,6.7
+2886,"Jonesboro, AR",2012,6.9
+2899,"Jonesboro, AR",2011,7.4
+2912,"Jonesboro, AR",2010,7.5
+2925,"Little Rock-North Little Rock-Conway, AR",2018,3.3
+2938,"Little Rock-North Little Rock-Conway, AR",2017,3.3
+2951,"Little Rock-North Little Rock-Conway, AR",2016,3.5
+2964,"Little Rock-North Little Rock-Conway, AR",2015,4.4
+2977,"Little Rock-North Little Rock-Conway, AR",2014,5.3
+2990,"Little Rock-North Little Rock-Conway, AR",2013,6.2
+3003,"Little Rock-North Little Rock-Conway, AR",2012,6.4
+3016,"Little Rock-North Little Rock-Conway, AR",2011,6.9
+3029,"Little Rock-North Little Rock-Conway, AR",2010,6.9
+3042,"Pine Bluff, AR",2018,4.9
+3055,"Pine Bluff, AR",2017,5.0
+3068,"Pine Bluff, AR",2016,5.4
+3081,"Pine Bluff, AR",2015,6.7
+3094,"Pine Bluff, AR",2014,8.2
+3107,"Pine Bluff, AR",2013,9.6
+3120,"Pine Bluff, AR",2012,9.3
+3133,"Pine Bluff, AR",2011,10.3
+3146,"Pine Bluff, AR",2010,9.8
+3159,"Bakersfield, CA",2018,8.1
+3172,"Bakersfield, CA",2017,9.3
+3185,"Bakersfield, CA",2016,10.4
+3198,"Bakersfield, CA",2015,10.3
+3211,"Bakersfield, CA",2014,10.5
+3224,"Bakersfield, CA",2013,11.9
+3237,"Bakersfield, CA",2012,13.4
+3250,"Bakersfield, CA",2011,15.1
+3263,"Bakersfield, CA",2010,16.0
+3276,"Chico, CA",2018,5.1
+3289,"Chico, CA",2017,5.8
+3302,"Chico, CA",2016,6.6
+3315,"Chico, CA",2015,7.2
+3328,"Chico, CA",2014,8.7
+3341,"Chico, CA",2013,10.4
+3354,"Chico, CA",2012,12.3
+3367,"Chico, CA",2011,13.9
+3380,"Chico, CA",2010,14.2
+3393,"El Centro, CA",2018,18.9
+3406,"El Centro, CA",2017,19.7
+3419,"El Centro, CA",2016,24.2
+3432,"El Centro, CA",2015,24.6
+3445,"El Centro, CA",2014,24.3
+3458,"El Centro, CA",2013,25.3
+3471,"El Centro, CA",2012,27.7
+3484,"El Centro, CA",2011,29.3
+3497,"El Centro, CA",2010,29.4
+3510,"Fresno, CA",2018,7.6
+3523,"Fresno, CA",2017,8.6
+3536,"Fresno, CA",2016,9.5
+3549,"Fresno, CA",2015,10.3
+3562,"Fresno, CA",2014,11.7
+3575,"Fresno, CA",2013,13.4
+3588,"Fresno, CA",2012,15.4
+3601,"Fresno, CA",2011,16.8
+3614,"Fresno, CA",2010,17.1
+3627,"Hanford-Corcoran, CA",2018,7.9
+3640,"Hanford-Corcoran, CA",2017,9.0
+3653,"Hanford-Corcoran, CA",2016,10.0
+3666,"Hanford-Corcoran, CA",2015,10.6
+3679,"Hanford-Corcoran, CA",2014,12.1
+3692,"Hanford-Corcoran, CA",2013,13.6
+3705,"Hanford-Corcoran, CA",2012,15.1
+3718,"Hanford-Corcoran, CA",2011,16.2
+3731,"Hanford-Corcoran, CA",2010,16.5
+3744,"Los Angeles-Long Beach-Anaheim, CA",2018,4.2
+3757,"Los Angeles-Long Beach-Anaheim, CA",2017,4.5
+3770,"Los Angeles-Long Beach-Anaheim, CA",2016,5.0
+3783,"Los Angeles-Long Beach-Anaheim, CA",2015,6.2
+3796,"Los Angeles-Long Beach-Anaheim, CA",2014,7.6
+3809,"Los Angeles-Long Beach-Anaheim, CA",2013,9.0
+3822,"Los Angeles-Long Beach-Anaheim, CA",2012,10.3
+3835,"Los Angeles-Long Beach-Anaheim, CA",2011,11.5
+3848,"Los Angeles-Long Beach-Anaheim, CA",2010,12.0
+3861,"Madera, CA",2018,7.1
+3874,"Madera, CA",2017,8.2
+3887,"Madera, CA",2016,9.3
+3900,"Madera, CA",2015,10.6
+3913,"Madera, CA",2014,11.3
+3926,"Madera, CA",2013,12.7
+3939,"Madera, CA",2012,14.7
+3952,"Madera, CA",2011,16.4
+3965,"Madera, CA",2010,17.0
+3978,"Merced, CA",2018,8.5
+3991,"Merced, CA",2017,9.4
+4004,"Merced, CA",2016,10.6
+4017,"Merced, CA",2015,11.4
+4030,"Merced, CA",2014,13.0
+4043,"Merced, CA",2013,14.7
+4056,"Merced, CA",2012,16.6
+4069,"Merced, CA",2011,17.9
+4082,"Merced, CA",2010,18.4
+4095,"Modesto, CA",2018,6.5
+4108,"Modesto, CA",2017,7.5
+4121,"Modesto, CA",2016,8.6
+4134,"Modesto, CA",2015,9.6
+4147,"Modesto, CA",2014,11.3
+4160,"Modesto, CA",2013,13.1
+4173,"Modesto, CA",2012,15.1
+4186,"Modesto, CA",2011,16.8
+4199,"Modesto, CA",2010,17.3
+4212,"Napa, CA",2018,3.0
+4225,"Napa, CA",2017,3.7
+4238,"Napa, CA",2016,4.3
+4251,"Napa, CA",2015,4.6
+4264,"Napa, CA",2014,5.7
+4277,"Napa, CA",2013,7.0
+4290,"Napa, CA",2012,8.6
+4303,"Napa, CA",2011,10.0
+4316,"Napa, CA",2010,10.6
+4329,"Oxnard-Thousand Oaks-Ventura, CA",2018,3.9
+4342,"Oxnard-Thousand Oaks-Ventura, CA",2017,4.5
+4355,"Oxnard-Thousand Oaks-Ventura, CA",2016,5.2
+4368,"Oxnard-Thousand Oaks-Ventura, CA",2015,5.7
+4381,"Oxnard-Thousand Oaks-Ventura, CA",2014,6.7
+4394,"Oxnard-Thousand Oaks-Ventura, CA",2013,8.0
+4407,"Oxnard-Thousand Oaks-Ventura, CA",2012,9.2
+4420,"Oxnard-Thousand Oaks-Ventura, CA",2011,10.4
+4433,"Oxnard-Thousand Oaks-Ventura, CA",2010,11.1
+4446,"Redding, CA",2018,5.0
+4459,"Redding, CA",2017,5.8
+4472,"Redding, CA",2016,7.0
+4485,"Redding, CA",2015,7.8
+4498,"Redding, CA",2014,9.7
+4511,"Redding, CA",2013,12.0
+4524,"Redding, CA",2012,14.4
+4537,"Redding, CA",2011,16.2
+4550,"Redding, CA",2010,17.2
+4563,"Riverside-San Bernardino-Ontario, CA",2018,4.3
+4576,"Riverside-San Bernardino-Ontario, CA",2017,5.1
+4589,"Riverside-San Bernardino-Ontario, CA",2016,6.0
+4602,"Riverside-San Bernardino-Ontario, CA",2015,6.6
+4615,"Riverside-San Bernardino-Ontario, CA",2014,8.2
+4628,"Riverside-San Bernardino-Ontario, CA",2013,10.0
+4641,"Riverside-San Bernardino-Ontario, CA",2012,11.7
+4654,"Riverside-San Bernardino-Ontario, CA",2011,13.3
+4667,"Riverside-San Bernardino-Ontario, CA",2010,14.0
+4680,"Sacramento--Roseville--Arden-Arcade, CA",2018,3.8
+4693,"Sacramento--Roseville--Arden-Arcade, CA",2017,4.6
+4706,"Sacramento--Roseville--Arden-Arcade, CA",2016,5.3
+4719,"Sacramento--Roseville--Arden-Arcade, CA",2015,5.9
+4732,"Sacramento--Roseville--Arden-Arcade, CA",2014,7.2
+4745,"Sacramento--Roseville--Arden-Arcade, CA",2013,8.8
+4758,"Sacramento--Roseville--Arden-Arcade, CA",2012,10.5
+4771,"Sacramento--Roseville--Arden-Arcade, CA",2011,12.0
+4784,"Sacramento--Roseville--Arden-Arcade, CA",2010,12.7
+4797,"Salinas, CA",2018,6.4
+4810,"Salinas, CA",2017,7.2
+4823,"Salinas, CA",2016,7.7
+4836,"Salinas, CA",2015,8.2
+4849,"Salinas, CA",2014,9.2
+4862,"Salinas, CA",2013,10.4
+4875,"Salinas, CA",2012,11.8
+4888,"Salinas, CA",2011,12.9
+4901,"Salinas, CA",2010,13.0
+4914,"San Diego-Carlsbad, CA",2018,3.4
+4927,"San Diego-Carlsbad, CA",2017,4.0
+4940,"San Diego-Carlsbad, CA",2016,4.7
+4953,"San Diego-Carlsbad, CA",2015,5.2
+4966,"San Diego-Carlsbad, CA",2014,6.5
+4979,"San Diego-Carlsbad, CA",2013,7.9
+4992,"San Diego-Carlsbad, CA",2012,9.3
+5005,"San Diego-Carlsbad, CA",2011,10.5
+5018,"San Diego-Carlsbad, CA",2010,11.0
+5031,"San Francisco-Oakland-Hayward, CA",2018,2.8
+5044,"San Francisco-Oakland-Hayward, CA",2017,3.4
+5057,"San Francisco-Oakland-Hayward, CA",2016,3.8
+5070,"San Francisco-Oakland-Hayward, CA",2015,4.3
+5083,"San Francisco-Oakland-Hayward, CA",2014,5.3
+5096,"San Francisco-Oakland-Hayward, CA",2013,6.5
+5109,"San Francisco-Oakland-Hayward, CA",2012,7.9
+5122,"San Francisco-Oakland-Hayward, CA",2011,9.3
+5135,"San Francisco-Oakland-Hayward, CA",2010,10.1
+5148,"San Jose-Sunnyvale-Santa Clara, CA",2018,2.7
+5161,"San Jose-Sunnyvale-Santa Clara, CA",2017,3.3
+5174,"San Jose-Sunnyvale-Santa Clara, CA",2016,3.9
+5187,"San Jose-Sunnyvale-Santa Clara, CA",2015,4.3
+5200,"San Jose-Sunnyvale-Santa Clara, CA",2014,5.3
+5213,"San Jose-Sunnyvale-Santa Clara, CA",2013,6.7
+5226,"San Jose-Sunnyvale-Santa Clara, CA",2012,8.2
+5239,"San Jose-Sunnyvale-Santa Clara, CA",2011,9.6
+5252,"San Jose-Sunnyvale-Santa Clara, CA",2010,10.8
+5265,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2018,3.0
+5278,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2017,3.6
+5291,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2016,4.3
+5304,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2015,4.8
+5317,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2014,5.6
+5330,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2013,6.9
+5343,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2012,8.4
+5356,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2011,9.7
+5369,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2010,10.2
+5382,"Santa Cruz-Watsonville, CA",2018,5.0
+5395,"Santa Cruz-Watsonville, CA",2017,5.7
+5408,"Santa Cruz-Watsonville, CA",2016,7.0
+5421,"Santa Cruz-Watsonville, CA",2015,7.5
+5434,"Santa Cruz-Watsonville, CA",2014,8.9
+5447,"Santa Cruz-Watsonville, CA",2013,10.4
+5460,"Santa Cruz-Watsonville, CA",2012,12.0
+5473,"Santa Cruz-Watsonville, CA",2011,13.3
+5486,"Santa Cruz-Watsonville, CA",2010,13.6
+5499,"Santa Maria-Santa Barbara, CA",2018,4.0
+5512,"Santa Maria-Santa Barbara, CA",2017,4.6
+5525,"Santa Maria-Santa Barbara, CA",2016,5.1
+5538,"Santa Maria-Santa Barbara, CA",2015,5.3
+5551,"Santa Maria-Santa Barbara, CA",2014,6.2
+5564,"Santa Maria-Santa Barbara, CA",2013,7.3
+5577,"Santa Maria-Santa Barbara, CA",2012,8.5
+5590,"Santa Maria-Santa Barbara, CA",2011,9.5
+5603,"Santa Maria-Santa Barbara, CA",2010,9.9
+5616,"Santa Rosa, CA",2018,2.8
+5629,"Santa Rosa, CA",2017,3.4
+5642,"Santa Rosa, CA",2016,4.0
+5655,"Santa Rosa, CA",2015,4.5
+5668,"Santa Rosa, CA",2014,5.7
+5681,"Santa Rosa, CA",2013,7.2
+5694,"Santa Rosa, CA",2012,9.0
+5707,"Santa Rosa, CA",2011,10.4
+5720,"Santa Rosa, CA",2010,11.1
+5733,"Stockton-Lodi, CA",2018,6.1
+5746,"Stockton-Lodi, CA",2017,7.0
+5759,"Stockton-Lodi, CA",2016,8.2
+5772,"Stockton-Lodi, CA",2015,8.9
+5785,"Stockton-Lodi, CA",2014,10.7
+5798,"Stockton-Lodi, CA",2013,12.5
+5811,"Stockton-Lodi, CA",2012,14.6
+5824,"Stockton-Lodi, CA",2011,16.5
+5837,"Stockton-Lodi, CA",2010,16.9
+5850,"Vallejo-Fairfield, CA",2018,4.0
+5863,"Vallejo-Fairfield, CA",2017,4.8
+5876,"Vallejo-Fairfield, CA",2016,5.5
+5889,"Vallejo-Fairfield, CA",2015,6.2
+5902,"Vallejo-Fairfield, CA",2014,7.6
+5915,"Vallejo-Fairfield, CA",2013,9.2
+5928,"Vallejo-Fairfield, CA",2012,10.9
+5941,"Vallejo-Fairfield, CA",2011,12.4
+5954,"Vallejo-Fairfield, CA",2010,12.8
+5967,"Visalia-Porterville, CA",2018,9.8
+5980,"Visalia-Porterville, CA",2017,10.5
+5993,"Visalia-Porterville, CA",2016,11.2
+6006,"Visalia-Porterville, CA",2015,11.7
+6019,"Visalia-Porterville, CA",2014,13.3
+6032,"Visalia-Porterville, CA",2013,14.5
+6045,"Visalia-Porterville, CA",2012,16.4
+6058,"Visalia-Porterville, CA",2011,17.4
+6071,"Visalia-Porterville, CA",2010,17.6
+6084,"Yuba City, CA",2018,7.2
+6097,"Yuba City, CA",2017,8.3
+6110,"Yuba City, CA",2016,9.3
+6123,"Yuba City, CA",2015,10.2
+6136,"Yuba City, CA",2014,12.2
+6149,"Yuba City, CA",2013,14.2
+6162,"Yuba City, CA",2012,16.5
+6175,"Yuba City, CA",2011,18.0
+6188,"Yuba City, CA",2010,18.5
+6201,"Boulder, CO",2018,2.6
+6214,"Boulder, CO",2017,2.2
+6227,"Boulder, CO",2016,2.6
+6240,"Boulder, CO",2015,3.1
+6253,"Boulder, CO",2014,4.1
+6266,"Boulder, CO",2013,5.4
+6279,"Boulder, CO",2012,6.3
+6292,"Boulder, CO",2011,6.7
+6305,"Boulder, CO",2010,7.4
+6318,"Springs, CO",2018,3.6
+6331,"Springs, CO",2017,3.0
+6344,"Springs, CO",2016,3.6
+6357,"Springs, CO",2015,4.4
+6370,"Springs, CO",2014,6.0
+6383,"Springs, CO",2013,7.8
+6396,"Springs, CO",2012,9.0
+6409,"Springs, CO",2011,9.4
+6422,"Springs, CO",2010,9.8
+6435,"Denver-Aurora-Lakewood, CO",2018,2.9
+6448,"Denver-Aurora-Lakewood, CO",2017,2.5
+6461,"Denver-Aurora-Lakewood, CO",2016,3.0
+6474,"Denver-Aurora-Lakewood, CO",2015,3.6
+6487,"Denver-Aurora-Lakewood, CO",2014,4.8
+6500,"Denver-Aurora-Lakewood, CO",2013,6.5
+6513,"Denver-Aurora-Lakewood, CO",2012,7.8
+6526,"Denver-Aurora-Lakewood, CO",2011,8.6
+6539,"Denver-Aurora-Lakewood, CO",2010,9.1
+6552,"Fort Collins, CO",2018,2.6
+6565,"Fort Collins, CO",2017,2.3
+6578,"Fort Collins, CO",2016,2.7
+6591,"Fort Collins, CO",2015,3.2
+6604,"Fort Collins, CO",2014,4.2
+6617,"Fort Collins, CO",2013,5.7
+6630,"Fort Collins, CO",2012,6.8
+6643,"Fort Collins, CO",2011,7.4
+6656,"Fort Collins, CO",2010,8.1
+6669,"Grand Junction, CO",2018,3.7
+6682,"Grand Junction, CO",2017,3.7
+6695,"Grand Junction, CO",2016,5.1
+6708,"Grand Junction, CO",2015,5.3
+6721,"Grand Junction, CO",2014,6.2
+6734,"Grand Junction, CO",2013,8.6
+6747,"Grand Junction, CO",2012,9.8
+6760,"Grand Junction, CO",2011,10.6
+6773,"Grand Junction, CO",2010,11.4
+6786,"Greeley, CO",2018,2.8
+6799,"Greeley, CO",2017,2.5
+6812,"Greeley, CO",2016,3.3
+6825,"Greeley, CO",2015,3.7
+6838,"Greeley, CO",2014,4.4
+6851,"Greeley, CO",2013,6.5
+6864,"Greeley, CO",2012,7.9
+6877,"Greeley, CO",2011,8.9
+6890,"Greeley, CO",2010,9.6
+6903,"Pueblo, CO",2018,4.5
+6916,"Pueblo, CO",2017,4.0
+6929,"Pueblo, CO",2016,4.6
+6942,"Pueblo, CO",2015,5.4
+6955,"Pueblo, CO",2014,7.3
+6968,"Pueblo, CO",2013,9.7
+6981,"Pueblo, CO",2012,10.8
+6994,"Pueblo, CO",2011,10.9
+7007,"Pueblo, CO",2010,10.9
+7020,"Bridgeport-Stamford-Norwalk, CT ",2018,3.9
+7033,"Bridgeport-Stamford-Norwalk, CT ",2017,4.4
+7046,"Bridgeport-Stamford-Norwalk, CT ",2016,4.8
+7059,"Bridgeport-Stamford-Norwalk, CT ",2015,5.5
+7072,"Bridgeport-Stamford-Norwalk, CT ",2014,6.4
+7085,"Bridgeport-Stamford-Norwalk, CT ",2013,7.7
+7098,"Bridgeport-Stamford-Norwalk, CT ",2012,8.0
+7111,"Bridgeport-Stamford-Norwalk, CT ",2011,8.7
+7124,"Bridgeport-Stamford-Norwalk, CT ",2010,9.1
+7137,"Danbury, CT ",2018,3.3
+7150,"Danbury, CT ",2017,3.7
+7163,"Danbury, CT ",2016,4.0
+7176,"Danbury, CT ",2015,4.5
+7189,"Danbury, CT ",2014,5.3
+7202,"Danbury, CT ",2013,6.4
+7215,"Danbury, CT ",2012,6.9
+7228,"Danbury, CT ",2011,7.4
+7241,"Danbury, CT ",2010,8.1
+7254,"Hartford-West Hartford-East Hartford, CT ",2018,3.9
+7267,"Hartford-West Hartford-East Hartford, CT ",2017,4.4
+7280,"Hartford-West Hartford-East Hartford, CT ",2016,4.9
+7293,"Hartford-West Hartford-East Hartford, CT ",2015,5.6
+7306,"Hartford-West Hartford-East Hartford, CT ",2014,6.6
+7319,"Hartford-West Hartford-East Hartford, CT ",2013,7.9
+7332,"Hartford-West Hartford-East Hartford, CT ",2012,8.3
+7345,"Hartford-West Hartford-East Hartford, CT ",2011,9.0
+7358,"Hartford-West Hartford-East Hartford, CT ",2010,9.6
+7371,"New Haven, CT ",2018,3.8
+7384,"New Haven, CT ",2017,4.4
+7397,"New Haven, CT ",2016,4.8
+7410,"New Haven, CT ",2015,5.6
+7423,"New Haven, CT ",2014,6.7
+7436,"New Haven, CT ",2013,8.1
+7449,"New Haven, CT ",2012,8.6
+7462,"New Haven, CT ",2011,9.3
+7475,"New Haven, CT ",2010,9.7
+7488,"Norwich-New London-Westerly, CT-RI ",2018,3.8
+7501,"Norwich-New London-Westerly, CT-RI ",2017,4.3
+7514,"Norwich-New London-Westerly, CT-RI ",2016,5.0
+7527,"Norwich-New London-Westerly, CT-RI ",2015,6.1
+7540,"Norwich-New London-Westerly, CT-RI ",2014,7.2
+7553,"Norwich-New London-Westerly, CT-RI ",2013,8.7
+7566,"Norwich-New London-Westerly, CT-RI ",2012,9.1
+7579,"Norwich-New London-Westerly, CT-RI ",2011,9.4
+7592,"Norwich-New London-Westerly, CT-RI ",2010,9.7
+7605,"Waterbury, CT ",2018,4.9
+7618,"Waterbury, CT ",2017,5.5
+7631,"Waterbury, CT ",2016,6.0
+7644,"Waterbury, CT ",2015,7.1
+7657,"Waterbury, CT ",2014,8.3
+7670,"Waterbury, CT ",2013,9.9
+7683,"Waterbury, CT ",2012,10.2
+7696,"Waterbury, CT ",2011,11.1
+7709,"Waterbury, CT ",2010,12.0
+7722,"Dover, DE",2018,4.1
+7735,"Dover, DE",2017,4.9
+7748,"Dover, DE",2016,4.9
+7761,"Dover, DE",2015,5.3
+7774,"Dover, DE",2014,6.3
+7787,"Dover, DE",2013,7.3
+7800,"Dover, DE",2012,7.8
+7813,"Dover, DE",2011,8.3
+7826,"Dover, DE",2010,9.2
+7839,"Salisbury, MD-DE",2018,4.7
+7852,"Salisbury, MD-DE",2017,5.4
+7865,"Salisbury, MD-DE",2016,5.6
+7878,"Salisbury, MD-DE",2015,6.3
+7891,"Salisbury, MD-DE",2014,7.2
+7904,"Salisbury, MD-DE",2013,8.3
+7917,"Salisbury, MD-DE",2012,8.8
+7930,"Salisbury, MD-DE",2011,9.5
+7943,"Salisbury, MD-DE",2010,10.0
+7956,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018,3.2
+7969,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017,3.6
+7982,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2016,3.8
+7995,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2015,4.4
+8008,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2014,5.0
+8021,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2013,5.5
+8034,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2012,5.7
+8047,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2011,6.2
+8060,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2010,6.6
+8073,"Cape Coral-Fort Myers, FL",2018,3.6
+8086,"Cape Coral-Fort Myers, FL",2017,4.2
+8099,"Cape Coral-Fort Myers, FL",2016,4.7
+8112,"Cape Coral-Fort Myers, FL",2015,5.2
+8125,"Cape Coral-Fort Myers, FL",2014,6.2
+8138,"Cape Coral-Fort Myers, FL",2013,7.6
+8151,"Cape Coral-Fort Myers, FL",2012,9.1
+8164,"Cape Coral-Fort Myers, FL",2011,10.8
+8177,"Cape Coral-Fort Myers, FL",2010,12.1
+8190,"Crestview-Fort Walton Beach-Destin, FL",2018,3.1
+8203,"Crestview-Fort Walton Beach-Destin, FL",2017,3.6
+8216,"Crestview-Fort Walton Beach-Destin, FL",2016,4.1
+8229,"Crestview-Fort Walton Beach-Destin, FL",2015,4.6
+8242,"Crestview-Fort Walton Beach-Destin, FL",2014,5.3
+8255,"Crestview-Fort Walton Beach-Destin, FL",2013,6.1
+8268,"Crestview-Fort Walton Beach-Destin, FL",2012,7.1
+8281,"Crestview-Fort Walton Beach-Destin, FL",2011,8.0
+8294,"Crestview-Fort Walton Beach-Destin, FL",2010,8.4
+8307,"Deltona-Daytona Beach-Ormond Beach, FL",2018,3.9
+8320,"Deltona-Daytona Beach-Ormond Beach, FL",2017,4.6
+8333,"Deltona-Daytona Beach-Ormond Beach, FL",2016,5.2
+8346,"Deltona-Daytona Beach-Ormond Beach, FL",2015,6.0
+8359,"Deltona-Daytona Beach-Ormond Beach, FL",2014,7.1
+8372,"Deltona-Daytona Beach-Ormond Beach, FL",2013,8.6
+8385,"Deltona-Daytona Beach-Ormond Beach, FL",2012,9.8
+8398,"Deltona-Daytona Beach-Ormond Beach, FL",2011,11.3
+8411,"Deltona-Daytona Beach-Ormond Beach, FL",2010,11.9
+8424,"Gainesville, FL",2018,3.4
+8437,"Gainesville, FL",2017,3.9
+8450,"Gainesville, FL",2016,4.4
+8463,"Gainesville, FL",2015,4.7
+8476,"Gainesville, FL",2014,5.4
+8489,"Gainesville, FL",2013,6.1
+8502,"Gainesville, FL",2012,7.0
+8515,"Gainesville, FL",2011,7.7
+8528,"Gainesville, FL",2010,7.9
+8541,"Homosassa Springs, FL",2018,5.4
+8554,"Homosassa Springs, FL",2017,6.0
+8567,"Homosassa Springs, FL",2016,6.8
+8580,"Homosassa Springs, FL",2015,7.6
+8593,"Homosassa Springs, FL",2014,8.8
+8606,"Homosassa Springs, FL",2013,10.1
+8619,"Homosassa Springs, FL",2012,11.1
+8632,"Homosassa Springs, FL",2011,12.5
+8645,"Homosassa Springs, FL",2010,13.3
+8658,"Jacksonville, FL",2018,3.5
+8671,"Jacksonville, FL",2017,4.1
+8684,"Jacksonville, FL",2016,4.7
+8697,"Jacksonville, FL",2015,5.4
+8710,"Jacksonville, FL",2014,6.4
+8723,"Jacksonville, FL",2013,7.3
+8736,"Jacksonville, FL",2012,8.5
+8749,"Jacksonville, FL",2011,9.7
+8762,"Jacksonville, FL",2010,10.4
+8775,"Lakeland-Winter Haven, FL",2018,4.3
+8788,"Lakeland-Winter Haven, FL",2017,4.9
+8801,"Lakeland-Winter Haven, FL",2016,5.6
+8814,"Lakeland-Winter Haven, FL",2015,6.4
+8827,"Lakeland-Winter Haven, FL",2014,7.4
+8840,"Lakeland-Winter Haven, FL",2013,8.6
+8853,"Lakeland-Winter Haven, FL",2012,9.9
+8866,"Lakeland-Winter Haven, FL",2011,11.2
+8879,"Lakeland-Winter Haven, FL",2010,11.8
+8892,"Miami-Fort Lauderdale-West Palm Beach, FL",2018,3.7
+8905,"Miami-Fort Lauderdale-West Palm Beach, FL",2017,4.4
+8918,"Miami-Fort Lauderdale-West Palm Beach, FL",2016,5.0
+8931,"Miami-Fort Lauderdale-West Palm Beach, FL",2015,5.6
+8944,"Miami-Fort Lauderdale-West Palm Beach, FL",2014,6.4
+8957,"Miami-Fort Lauderdale-West Palm Beach, FL",2013,7.4
+8970,"Miami-Fort Lauderdale-West Palm Beach, FL",2012,8.2
+8983,"Miami-Fort Lauderdale-West Palm Beach, FL",2011,9.7
+8996,"Miami-Fort Lauderdale-West Palm Beach, FL",2010,10.9
+9009,"Naples-Immokalee-Marco Island, FL",2018,3.6
+9022,"Naples-Immokalee-Marco Island, FL",2017,4.2
+9035,"Naples-Immokalee-Marco Island, FL",2016,4.7
+9048,"Naples-Immokalee-Marco Island, FL",2015,5.3
+9061,"Naples-Immokalee-Marco Island, FL",2014,6.1
+9074,"Naples-Immokalee-Marco Island, FL",2013,7.4
+9087,"Naples-Immokalee-Marco Island, FL",2012,8.7
+9100,"Naples-Immokalee-Marco Island, FL",2011,10.1
+9113,"Naples-Immokalee-Marco Island, FL",2010,11.3
+9126,"North Port-Sarasota-Bradenton, FL",2018,3.5
+9139,"North Port-Sarasota-Bradenton, FL",2017,4.0
+9152,"North Port-Sarasota-Bradenton, FL",2016,4.6
+9165,"North Port-Sarasota-Bradenton, FL",2015,5.1
+9178,"North Port-Sarasota-Bradenton, FL",2014,6.0
+9191,"North Port-Sarasota-Bradenton, FL",2013,7.1
+9204,"North Port-Sarasota-Bradenton, FL",2012,8.5
+9217,"North Port-Sarasota-Bradenton, FL",2011,10.1
+9230,"North Port-Sarasota-Bradenton, FL",2010,11.2
+9243,"Ocala, FL",2018,4.5
+9256,"Ocala, FL",2017,5.1
+9269,"Ocala, FL",2016,5.9
+9282,"Ocala, FL",2015,6.6
+9295,"Ocala, FL",2014,7.5
+9308,"Ocala, FL",2013,8.9
+9321,"Ocala, FL",2012,10.5
+9334,"Ocala, FL",2011,12.3
+9347,"Ocala, FL",2010,13.2
+9360,"Orlando-Kissimmee-Sanford, FL",2018,3.4
+9373,"Orlando-Kissimmee-Sanford, FL",2017,3.9
+9386,"Orlando-Kissimmee-Sanford, FL",2016,4.5
+9399,"Orlando-Kissimmee-Sanford, FL",2015,5.2
+9412,"Orlando-Kissimmee-Sanford, FL",2014,6.2
+9425,"Orlando-Kissimmee-Sanford, FL",2013,7.3
+9438,"Orlando-Kissimmee-Sanford, FL",2012,8.7
+9451,"Orlando-Kissimmee-Sanford, FL",2011,10.0
+9464,"Orlando-Kissimmee-Sanford, FL",2010,10.7
+9477,"Palm Bay-Melbourne-Titusville, FL",2018,3.6
+9490,"Palm Bay-Melbourne-Titusville, FL",2017,4.4
+9503,"Palm Bay-Melbourne-Titusville, FL",2016,5.2
+9516,"Palm Bay-Melbourne-Titusville, FL",2015,6.0
+9529,"Palm Bay-Melbourne-Titusville, FL",2014,7.2
+9542,"Palm Bay-Melbourne-Titusville, FL",2013,8.7
+9555,"Palm Bay-Melbourne-Titusville, FL",2012,9.7
+9568,"Palm Bay-Melbourne-Titusville, FL",2011,10.9
+9581,"Palm Bay-Melbourne-Titusville, FL",2010,10.9
+9594,"Panama City, FL",2018,4.2
+9607,"Panama City, FL",2017,4.2
+9620,"Panama City, FL",2016,4.8
+9633,"Panama City, FL",2015,5.5
+9646,"Panama City, FL",2014,6.5
+9659,"Panama City, FL",2013,7.6
+9672,"Panama City, FL",2012,8.9
+9685,"Panama City, FL",2011,10.2
+9698,"Panama City, FL",2010,10.2
+9711,"Pensacola-Ferry Pass-Brent, FL",2018,3.6
+9724,"Pensacola-Ferry Pass-Brent, FL",2017,4.2
+9737,"Pensacola-Ferry Pass-Brent, FL",2016,4.8
+9750,"Pensacola-Ferry Pass-Brent, FL",2015,5.4
+9763,"Pensacola-Ferry Pass-Brent, FL",2014,6.3
+9776,"Pensacola-Ferry Pass-Brent, FL",2013,7.3
+9789,"Pensacola-Ferry Pass-Brent, FL",2012,8.4
+9802,"Pensacola-Ferry Pass-Brent, FL",2011,9.3
+9815,"Pensacola-Ferry Pass-Brent, FL",2010,9.5
+9828,"Port St. Lucie, FL",2018,4.2
+9841,"Port St. Lucie, FL",2017,4.9
+9854,"Port St. Lucie, FL",2016,5.5
+9867,"Port St. Lucie, FL",2015,6.1
+9880,"Port St. Lucie, FL",2014,7.5
+9893,"Port St. Lucie, FL",2013,9.4
+9906,"Port St. Lucie, FL",2012,10.3
+9919,"Port St. Lucie, FL",2011,11.6
+9932,"Port St. Lucie, FL",2010,12.3
+9945,"Punta Gorda, FL",2018,4.2
+9958,"Punta Gorda, FL",2017,4.8
+9971,"Punta Gorda, FL",2016,5.4
+9984,"Punta Gorda, FL",2015,6.1
+9997,"Punta Gorda, FL",2014,7.1
+10010,"Punta Gorda, FL",2013,8.4
+10023,"Punta Gorda, FL",2012,9.8
+10036,"Punta Gorda, FL",2011,11.3
+10049,"Punta Gorda, FL",2010,12.4
+10062,"Sebastian-Vero Beach, FL",2018,4.5
+10075,"Sebastian-Vero Beach, FL",2017,5.1
+10088,"Sebastian-Vero Beach, FL",2016,6.1
+10101,"Sebastian-Vero Beach, FL",2015,6.9
+10114,"Sebastian-Vero Beach, FL",2014,8.1
+10127,"Sebastian-Vero Beach, FL",2013,10.0
+10140,"Sebastian-Vero Beach, FL",2012,11.3
+10153,"Sebastian-Vero Beach, FL",2011,12.6
+10166,"Sebastian-Vero Beach, FL",2010,13.5
+10179,"Sebring, FL",2018,5.0
+10192,"Sebring, FL",2017,5.7
+10205,"Sebring, FL",2016,6.6
+10218,"Sebring, FL",2015,7.6
+10231,"Sebring, FL",2014,8.7
+10244,"Sebring, FL",2013,9.9
+10257,"Sebring, FL",2012,10.6
+10270,"Sebring, FL",2011,11.5
+10283,"Sebring, FL",2010,12.1
+10296,"Tallahassee, FL",2018,3.6
+10309,"Tallahassee, FL",2017,4.1
+10322,"Tallahassee, FL",2016,4.7
+10335,"Tallahassee, FL",2015,5.3
+10348,"Tallahassee, FL",2014,6.0
+10361,"Tallahassee, FL",2013,6.7
+10374,"Tallahassee, FL",2012,7.6
+10387,"Tallahassee, FL",2011,8.3
+10400,"Tallahassee, FL",2010,8.2
+10413,"Tampa-St. Petersburg-Clearwater, FL",2018,3.6
+10426,"Tampa-St. Petersburg-Clearwater, FL",2017,4.1
+10439,"Tampa-St. Petersburg-Clearwater, FL",2016,4.6
+10452,"Tampa-St. Petersburg-Clearwater, FL",2015,5.3
+10465,"Tampa-St. Petersburg-Clearwater, FL",2014,6.2
+10478,"Tampa-St. Petersburg-Clearwater, FL",2013,7.2
+10491,"Tampa-St. Petersburg-Clearwater, FL",2012,8.5
+10504,"Tampa-St. Petersburg-Clearwater, FL",2011,9.9
+10517,"Tampa-St. Petersburg-Clearwater, FL",2010,10.7
+10530,"The Villages, FL",2018,5.3
+10543,"The Villages, FL",2017,6.2
+10556,"The Villages, FL",2016,7.2
+10569,"The Villages, FL",2015,7.8
+10582,"The Villages, FL",2014,8.6
+10595,"The Villages, FL",2013,9.7
+10608,"The Villages, FL",2012,10.9
+10621,"The Villages, FL",2011,12.2
+10634,"The Villages, FL",2010,12.9
+10647,"Albany, GA",2018,5.0
+10660,"Albany, GA",2017,5.5
+10673,"Albany, GA",2016,6.3
+10686,"Albany, GA",2015,7.1
+10699,"Albany, GA",2014,8.4
+10712,"Albany, GA",2013,9.4
+10725,"Albany, GA",2012,10.2
+10738,"Albany, GA",2011,11.2
+10751,"Albany, GA",2010,11.9
+10764,"Athens-Clarke County, GA",2018,3.7
+10777,"Athens-Clarke County, GA",2017,4.5
+10790,"Athens-Clarke County, GA",2016,5.2
+10803,"Athens-Clarke County, GA",2015,5.8
+10816,"Athens-Clarke County, GA",2014,6.6
+10829,"Athens-Clarke County, GA",2013,7.3
+10842,"Athens-Clarke County, GA",2012,8.2
+10855,"Athens-Clarke County, GA",2011,9.0
+10868,"Athens-Clarke County, GA",2010,9.2
+10881,"Atlanta-Sandy Springs-Roswell, GA",2018,3.8
+10894,"Atlanta-Sandy Springs-Roswell, GA",2017,4.6
+10907,"Atlanta-Sandy Springs-Roswell, GA",2016,5.2
+10920,"Atlanta-Sandy Springs-Roswell, GA",2015,5.8
+10933,"Atlanta-Sandy Springs-Roswell, GA",2014,6.8
+10946,"Atlanta-Sandy Springs-Roswell, GA",2013,7.7
+10959,"Atlanta-Sandy Springs-Roswell, GA",2012,8.7
+10972,"Atlanta-Sandy Springs-Roswell, GA",2011,9.8
+10985,"Atlanta-Sandy Springs-Roswell, GA",2010,10.4
+10998,"Augusta-Richmond County, GA-SC",2018,4.2
+11011,"Augusta-Richmond County, GA-SC",2017,4.9
+11024,"Augusta-Richmond County, GA-SC",2016,5.7
+11037,"Augusta-Richmond County, GA-SC",2015,6.4
+11050,"Augusta-Richmond County, GA-SC",2014,7.3
+11063,"Augusta-Richmond County, GA-SC",2013,8.3
+11076,"Augusta-Richmond County, GA-SC",2012,9.1
+11089,"Augusta-Richmond County, GA-SC",2011,9.7
+11102,"Augusta-Richmond County, GA-SC",2010,9.8
+11115,"Brunswick, GA",2018,3.9
+11128,"Brunswick, GA",2017,4.9
+11141,"Brunswick, GA",2016,5.6
+11154,"Brunswick, GA",2015,6.4
+11167,"Brunswick, GA",2014,7.8
+11180,"Brunswick, GA",2013,8.8
+11193,"Brunswick, GA",2012,9.7
+11206,"Brunswick, GA",2011,10.8
+11219,"Brunswick, GA",2010,10.6
+11232,"Columbus, GA-AL",2018,4.7
+11245,"Columbus, GA-AL",2017,5.5
+11258,"Columbus, GA-AL",2016,6.4
+11271,"Columbus, GA-AL",2015,7.0
+11284,"Columbus, GA-AL",2014,7.8
+11297,"Columbus, GA-AL",2013,8.6
+11310,"Columbus, GA-AL",2012,9.3
+11323,"Columbus, GA-AL",2011,9.7
+11336,"Columbus, GA-AL",2010,10.1
+11349,"Dalton, GA",2018,5.0
+11362,"Dalton, GA",2017,5.7
+11375,"Dalton, GA",2016,6.5
+11388,"Dalton, GA",2015,6.8
+11401,"Dalton, GA",2014,8.3
+11414,"Dalton, GA",2013,9.9
+11427,"Dalton, GA",2012,11.0
+11440,"Dalton, GA",2011,12.2
+11453,"Dalton, GA",2010,12.5
+11466,"Gainesville, GA",2018,3.2
+11479,"Gainesville, GA",2017,3.9
+11492,"Gainesville, GA",2016,4.6
+11505,"Gainesville, GA",2015,4.9
+11518,"Gainesville, GA",2014,5.9
+11531,"Gainesville, GA",2013,6.8
+11544,"Gainesville, GA",2012,7.7
+11557,"Gainesville, GA",2011,8.8
+11570,"Gainesville, GA",2010,9.8
+11583,"Hinesville, GA",2018,4.3
+11596,"Hinesville, GA",2017,5.1
+11609,"Hinesville, GA",2016,5.8
+11622,"Hinesville, GA",2015,6.3
+11635,"Hinesville, GA",2014,7.6
+11648,"Hinesville, GA",2013,8.4
+11661,"Hinesville, GA",2012,8.7
+11674,"Hinesville, GA",2011,9.2
+11687,"Hinesville, GA",2010,9.1
+11700,"Macon-Bibb County, GA",2018,4.4
+11713,"Macon-Bibb County, GA",2017,5.2
+11726,"Macon-Bibb County, GA",2016,5.9
+11739,"Macon-Bibb County, GA",2015,6.6
+11752,"Macon-Bibb County, GA",2014,7.7
+11765,"Macon-Bibb County, GA",2013,8.9
+11778,"Macon-Bibb County, GA",2012,10.0
+11791,"Macon-Bibb County, GA",2011,11.0
+11804,"Macon-Bibb County, GA",2010,11.5
+11817,"Rome, GA",2018,4.3
+11830,"Rome, GA",2017,5.3
+11843,"Rome, GA",2016,6.1
+11856,"Rome, GA",2015,6.8
+11869,"Rome, GA",2014,7.9
+11882,"Rome, GA",2013,9.4
+11895,"Rome, GA",2012,10.8
+11908,"Rome, GA",2011,12.0
+11921,"Rome, GA",2010,12.0
+11934,"Savannah, GA",2018,3.7
+11947,"Savannah, GA",2017,4.4
+11960,"Savannah, GA",2016,5.2
+11973,"Savannah, GA",2015,5.8
+11986,"Savannah, GA",2014,7.1
+11999,"Savannah, GA",2013,8.0
+12012,"Savannah, GA",2012,8.9
+12025,"Savannah, GA",2011,9.8
+12038,"Savannah, GA",2010,9.9
+12051,"Valdosta, GA",2018,4.1
+12064,"Valdosta, GA",2017,4.7
+12077,"Valdosta, GA",2016,5.3
+12090,"Valdosta, GA",2015,6.0
+12103,"Valdosta, GA",2014,7.3
+12116,"Valdosta, GA",2013,8.0
+12129,"Valdosta, GA",2012,9.0
+12142,"Valdosta, GA",2011,9.8
+12155,"Valdosta, GA",2010,9.8
+12168,"Warner Robins, GA",2018,4.3
+12181,"Warner Robins, GA",2017,4.9
+12194,"Warner Robins, GA",2016,5.7
+12207,"Warner Robins, GA",2015,6.3
+12220,"Warner Robins, GA",2014,7.3
+12233,"Warner Robins, GA",2013,8.0
+12246,"Warner Robins, GA",2012,8.4
+12259,"Warner Robins, GA",2011,9.0
+12272,"Warner Robins, GA",2010,9.2
+12285,"Kahului-Wailuku-Lahaina, HI",2018,2.3
+12298,"Kahului-Wailuku-Lahaina, HI",2017,2.3
+12311,"Kahului-Wailuku-Lahaina, HI",2016,3.0
+12324,"Kahului-Wailuku-Lahaina, HI",2015,3.5
+12337,"Kahului-Wailuku-Lahaina, HI",2014,4.3
+12350,"Kahului-Wailuku-Lahaina, HI",2013,5.0
+12363,"Kahului-Wailuku-Lahaina, HI",2012,6.3
+12376,"Kahului-Wailuku-Lahaina, HI",2011,7.9
+12389,"Kahului-Wailuku-Lahaina, HI",2010,8.3
+12402,"Urban Honolulu, HI",2018,2.3
+12415,"Urban Honolulu, HI",2017,2.1
+12428,"Urban Honolulu, HI",2016,2.7
+12441,"Urban Honolulu, HI",2015,3.2
+12454,"Urban Honolulu, HI",2014,4.0
+12467,"Urban Honolulu, HI",2013,4.3
+12480,"Urban Honolulu, HI",2012,5.3
+12493,"Urban Honolulu, HI",2011,5.9
+12506,"Urban Honolulu, HI",2010,5.9
+12519,"Boise City, ID",2018,2.8
+12532,"Boise City, ID",2017,3.1
+12545,"Boise City, ID",2016,3.5
+12558,"Boise City, ID",2015,3.8
+12571,"Boise City, ID",2014,4.3
+12584,"Boise City, ID",2013,6.6
+12597,"Boise City, ID",2012,7.3
+12610,"Boise City, ID",2011,8.2
+12623,"Boise City, ID",2010,9.0
+12636,"Coeur d'Alene, ID",2018,3.5
+12649,"Coeur d'Alene, ID",2017,3.9
+12662,"Coeur d'Alene, ID",2016,4.5
+12675,"Coeur d'Alene, ID",2015,4.7
+12688,"Coeur d'Alene, ID",2014,5.3
+12701,"Coeur d'Alene, ID",2013,8.1
+12714,"Coeur d'Alene, ID",2012,9.0
+12727,"Coeur d'Alene, ID",2011,10.0
+12740,"Coeur d'Alene, ID",2010,10.7
+12753,"Falls, ID",2018,2.4
+12766,"Falls, ID",2017,2.7
+12779,"Falls, ID",2016,3.1
+12792,"Falls, ID",2015,3.2
+12805,"Falls, ID",2014,3.8
+12818,"Falls, ID",2013,6.0
+12831,"Falls, ID",2012,6.5
+12844,"Falls, ID",2011,6.8
+12857,"Falls, ID",2010,6.8
+12870,"Lewiston, ID-WA",2018,3.3
+12883,"Lewiston, ID-WA",2017,3.3
+12896,"Lewiston, ID-WA",2016,3.7
+12909,"Lewiston, ID-WA",2015,3.8
+12922,"Lewiston, ID-WA",2014,4.2
+12935,"Lewiston, ID-WA",2013,5.8
+12948,"Lewiston, ID-WA",2012,6.3
+12961,"Lewiston, ID-WA",2011,6.8
+12974,"Lewiston, ID-WA",2010,7.2
+12987,"Pocatello, ID",2018,2.8
+13000,"Pocatello, ID",2017,3.1
+13013,"Pocatello, ID",2016,3.5
+13026,"Pocatello, ID",2015,3.7
+13039,"Pocatello, ID",2014,4.1
+13052,"Pocatello, ID",2013,6.5
+13065,"Pocatello, ID",2012,7.1
+13078,"Pocatello, ID",2011,7.4
+13091,"Pocatello, ID",2010,7.8
+13104,"Twin Falls, ID",2018,2.7
+13117,"Twin Falls, ID",2017,3.0
+13130,"Twin Falls, ID",2016,3.2
+13143,"Twin Falls, ID",2015,3.4
+13156,"Twin Falls, ID",2014,3.8
+13169,"Twin Falls, ID",2013,6.3
+13182,"Twin Falls, ID",2012,7.0
+13195,"Twin Falls, ID",2011,7.7
+13208,"Twin Falls, ID",2010,8.2
+13221,"Bloomington, IL",2018,4.2
+13234,"Bloomington, IL",2017,4.2
+13247,"Bloomington, IL",2016,5.1
+13260,"Bloomington, IL",2015,4.8
+13273,"Bloomington, IL",2014,5.6
+13286,"Bloomington, IL",2013,6.7
+13299,"Bloomington, IL",2012,6.5
+13312,"Bloomington, IL",2011,6.8
+13325,"Bloomington, IL",2010,7.3
+13338,"Carbondale-Marion, IL",2018,4.8
+13351,"Carbondale-Marion, IL",2017,4.8
+13364,"Carbondale-Marion, IL",2016,5.8
+13377,"Carbondale-Marion, IL",2015,5.9
+13390,"Carbondale-Marion, IL",2014,6.8
+13403,"Carbondale-Marion, IL",2013,8.5
+13416,"Carbondale-Marion, IL",2012,8.3
+13429,"Carbondale-Marion, IL",2011,8.6
+13442,"Carbondale-Marion, IL",2010,9.1
+13455,"Champaign-Urbana, IL",2018,4.3
+13468,"Champaign-Urbana, IL",2017,4.3
+13481,"Champaign-Urbana, IL",2016,5.0
+13494,"Champaign-Urbana, IL",2015,5.1
+13507,"Champaign-Urbana, IL",2014,5.8
+13520,"Champaign-Urbana, IL",2013,7.2
+13533,"Champaign-Urbana, IL",2012,7.1
+13546,"Champaign-Urbana, IL",2011,7.6
+13559,"Champaign-Urbana, IL",2010,8.3
+13572,"Chicago-Naperville-Elgin, IL-IN-WI",2018,4.1
+13585,"Chicago-Naperville-Elgin, IL-IN-WI",2017,4.9
+13598,"Chicago-Naperville-Elgin, IL-IN-WI",2016,5.8
+13611,"Chicago-Naperville-Elgin, IL-IN-WI",2015,6.0
+13624,"Chicago-Naperville-Elgin, IL-IN-WI",2014,7.2
+13637,"Chicago-Naperville-Elgin, IL-IN-WI",2013,9.1
+13650,"Chicago-Naperville-Elgin, IL-IN-WI",2012,9.2
+13663,"Chicago-Naperville-Elgin, IL-IN-WI",2011,10.0
+13676,"Chicago-Naperville-Elgin, IL-IN-WI",2010,10.6
+13689,"Danville, IL",2018,6.1
+13702,"Danville, IL",2017,6.5
+13715,"Danville, IL",2016,7.3
+13728,"Danville, IL",2015,7.1
+13741,"Danville, IL",2014,8.6
+13754,"Danville, IL",2013,10.6
+13767,"Danville, IL",2012,9.3
+13780,"Danville, IL",2011,10.0
+13793,"Danville, IL",2010,11.6
+13806,"Davenport-Moline-Rock Island, IA-IL",2018,4.1
+13819,"Davenport-Moline-Rock Island, IA-IL",2017,4.4
+13832,"Davenport-Moline-Rock Island, IA-IL",2016,5.4
+13845,"Davenport-Moline-Rock Island, IA-IL",2015,5.5
+13858,"Davenport-Moline-Rock Island, IA-IL",2014,6.2
+13871,"Davenport-Moline-Rock Island, IA-IL",2013,7.0
+13884,"Davenport-Moline-Rock Island, IA-IL",2012,6.9
+13897,"Davenport-Moline-Rock Island, IA-IL",2011,7.4
+13910,"Davenport-Moline-Rock Island, IA-IL",2010,8.3
+13923,"Decatur, IL",2018,5.5
+13936,"Decatur, IL",2017,5.5
+13949,"Decatur, IL",2016,6.6
+13962,"Decatur, IL",2015,7.0
+13975,"Decatur, IL",2014,8.6
+13988,"Decatur, IL",2013,11.2
+14001,"Decatur, IL",2012,9.9
+14014,"Decatur, IL",2011,10.0
+14027,"Decatur, IL",2010,11.2
+14040,"Kankakee, IL",2018,5.5
+14053,"Kankakee, IL",2017,5.5
+14066,"Kankakee, IL",2016,6.5
+14079,"Kankakee, IL",2015,6.9
+14092,"Kankakee, IL",2014,8.2
+14105,"Kankakee, IL",2013,10.5
+14118,"Kankakee, IL",2012,10.7
+14131,"Kankakee, IL",2011,11.7
+14144,"Kankakee, IL",2010,12.7
+14157,"Peoria, IL",2018,5.1
+14170,"Peoria, IL",2017,5.5
+14183,"Peoria, IL",2016,6.6
+14196,"Peoria, IL",2015,6.5
+14209,"Peoria, IL",2014,7.2
+14222,"Peoria, IL",2013,9.0
+14235,"Peoria, IL",2012,7.8
+14248,"Peoria, IL",2011,8.6
+14261,"Peoria, IL",2010,10.1
+14274,"Rockford, IL",2018,5.7
+14287,"Rockford, IL",2017,6.5
+14300,"Rockford, IL",2016,6.6
+14313,"Rockford, IL",2015,7.0
+14326,"Rockford, IL",2014,8.3
+14339,"Rockford, IL",2013,10.4
+14352,"Rockford, IL",2012,10.6
+14365,"Rockford, IL",2011,11.9
+14378,"Rockford, IL",2010,14.1
+14391,"Springfield, IL",2018,4.4
+14404,"Springfield, IL",2017,4.4
+14417,"Springfield, IL",2016,5.0
+14430,"Springfield, IL",2015,5.3
+14443,"Springfield, IL",2014,6.1
+14456,"Springfield, IL",2013,7.5
+14469,"Springfield, IL",2012,7.4
+14482,"Springfield, IL",2011,7.5
+14495,"Springfield, IL",2010,7.9
+14508,"Bloomington, IN",2018,3.6
+14521,"Bloomington, IN",2017,3.7
+14534,"Bloomington, IN",2016,4.7
+14547,"Bloomington, IN",2015,5.1
+14560,"Bloomington, IN",2014,6.0
+14573,"Bloomington, IN",2013,7.1
+14586,"Bloomington, IN",2012,7.6
+14599,"Bloomington, IN",2011,7.9
+14612,"Bloomington, IN",2010,8.2
+14625,"Columbus, IN",2018,2.6
+14638,"Columbus, IN",2017,2.7
+14651,"Columbus, IN",2016,3.3
+14664,"Columbus, IN",2015,3.6
+14677,"Columbus, IN",2014,4.4
+14690,"Columbus, IN",2013,5.9
+14703,"Columbus, IN",2012,6.3
+14716,"Columbus, IN",2011,7.4
+14729,"Columbus, IN",2010,9.3
+14742,"Elkhart-Goshen, IN",2018,2.6
+14755,"Elkhart-Goshen, IN",2017,2.5
+14768,"Elkhart-Goshen, IN",2016,3.4
+14781,"Elkhart-Goshen, IN",2015,3.9
+14794,"Elkhart-Goshen, IN",2014,5.1
+14807,"Elkhart-Goshen, IN",2013,7.1
+14820,"Elkhart-Goshen, IN",2012,8.8
+14833,"Elkhart-Goshen, IN",2011,10.5
+14846,"Elkhart-Goshen, IN",2010,13.0
+14859,"Evansville, IN-KY",2018,3.1
+14872,"Evansville, IN-KY",2017,3.3
+14885,"Evansville, IN-KY",2016,4.1
+14898,"Evansville, IN-KY",2015,4.2
+14911,"Evansville, IN-KY",2014,5.3
+14924,"Evansville, IN-KY",2013,6.8
+14937,"Evansville, IN-KY",2012,7.3
+14950,"Evansville, IN-KY",2011,7.7
+14963,"Evansville, IN-KY",2010,8.7
+14976,"Fort Wayne, IN",2018,3.1
+14989,"Fort Wayne, IN",2017,3.2
+15002,"Fort Wayne, IN",2016,4.1
+15015,"Fort Wayne, IN",2015,4.5
+15028,"Fort Wayne, IN",2014,5.6
+15041,"Fort Wayne, IN",2013,7.3
+15054,"Fort Wayne, IN",2012,8.2
+15067,"Fort Wayne, IN",2011,9.1
+15080,"Fort Wayne, IN",2010,10.5
+15093,"Indianapolis-Carmel-Anderson, IN",2018,3.2
+15106,"Indianapolis-Carmel-Anderson, IN",2017,3.3
+15119,"Indianapolis-Carmel-Anderson, IN",2016,4.0
+15132,"Indianapolis-Carmel-Anderson, IN",2015,4.5
+15145,"Indianapolis-Carmel-Anderson, IN",2014,5.7
+15158,"Indianapolis-Carmel-Anderson, IN",2013,7.2
+15171,"Indianapolis-Carmel-Anderson, IN",2012,7.9
+15184,"Indianapolis-Carmel-Anderson, IN",2011,8.6
+15197,"Indianapolis-Carmel-Anderson, IN",2010,9.3
+15210,"Kokomo, IN",2018,4.0
+15223,"Kokomo, IN",2017,3.8
+15236,"Kokomo, IN",2016,4.6
+15249,"Kokomo, IN",2015,5.0
+15262,"Kokomo, IN",2014,6.3
+15275,"Kokomo, IN",2013,8.0
+15288,"Kokomo, IN",2012,8.9
+15301,"Kokomo, IN",2011,10.2
+15314,"Kokomo, IN",2010,12.3
+15327,"Lafayette-West Lafayette, IN",2018,3.2
+15340,"Lafayette-West Lafayette, IN",2017,3.2
+15353,"Lafayette-West Lafayette, IN",2016,4.0
+15366,"Lafayette-West Lafayette, IN",2015,4.2
+15379,"Lafayette-West Lafayette, IN",2014,5.0
+15392,"Lafayette-West Lafayette, IN",2013,6.6
+15405,"Lafayette-West Lafayette, IN",2012,6.9
+15418,"Lafayette-West Lafayette, IN",2011,7.4
+15431,"Lafayette-West Lafayette, IN",2010,8.7
+15444,"City-La Porte, IN",2018,4.3
+15457,"City-La Porte, IN",2017,4.4
+15470,"City-La Porte, IN",2016,5.8
+15483,"City-La Porte, IN",2015,6.2
+15496,"City-La Porte, IN",2014,7.6
+15509,"City-La Porte, IN",2013,9.1
+15522,"City-La Porte, IN",2012,9.6
+15535,"City-La Porte, IN",2011,10.2
+15548,"City-La Porte, IN",2010,11.7
+15561,"Muncie, IN",2018,4.0
+15574,"Muncie, IN",2017,4.2
+15587,"Muncie, IN",2016,5.1
+15600,"Muncie, IN",2015,5.7
+15613,"Muncie, IN",2014,7.0
+15626,"Muncie, IN",2013,8.5
+15639,"Muncie, IN",2012,9.2
+15652,"Muncie, IN",2011,9.9
+15665,"Muncie, IN",2010,11.2
+15678,"South Bend-Mishawaka, IN-MI",2018,3.6
+15691,"South Bend-Mishawaka, IN-MI",2017,3.7
+15704,"South Bend-Mishawaka, IN-MI",2016,4.5
+15717,"South Bend-Mishawaka, IN-MI",2015,5.0
+15730,"South Bend-Mishawaka, IN-MI",2014,6.6
+15743,"South Bend-Mishawaka, IN-MI",2013,8.5
+15756,"South Bend-Mishawaka, IN-MI",2012,9.2
+15769,"South Bend-Mishawaka, IN-MI",2011,9.8
+15782,"South Bend-Mishawaka, IN-MI",2010,11.2
+15795,"Terre Haute, IN",2018,4.4
+15808,"Terre Haute, IN",2017,4.2
+15821,"Terre Haute, IN",2016,5.4
+15834,"Terre Haute, IN",2015,6.1
+15847,"Terre Haute, IN",2014,7.5
+15860,"Terre Haute, IN",2013,9.2
+15873,"Terre Haute, IN",2012,9.8
+15886,"Terre Haute, IN",2011,10.2
+15899,"Terre Haute, IN",2010,11.0
+15912,"Ames, IA",2018,1.6
+15925,"Ames, IA",2017,2.0
+15938,"Ames, IA",2016,2.3
+15951,"Ames, IA",2015,2.5
+15964,"Ames, IA",2014,2.9
+15977,"Ames, IA",2013,3.3
+15990,"Ames, IA",2012,3.6
+16003,"Ames, IA",2011,4.0
+16016,"Ames, IA",2010,4.3
+16029,"Cedar Rapids, IA",2018,2.8
+16042,"Cedar Rapids, IA",2017,3.3
+16055,"Cedar Rapids, IA",2016,3.7
+16068,"Cedar Rapids, IA",2015,3.8
+16081,"Cedar Rapids, IA",2014,4.4
+16094,"Cedar Rapids, IA",2013,5.0
+16107,"Cedar Rapids, IA",2012,5.3
+16120,"Cedar Rapids, IA",2011,5.8
+16133,"Cedar Rapids, IA",2010,6.1
+16146,"Des Moines-West Des Moines, IA",2018,2.4
+16159,"Des Moines-West Des Moines, IA",2017,2.9
+16172,"Des Moines-West Des Moines, IA",2016,3.3
+16185,"Des Moines-West Des Moines, IA",2015,3.5
+16198,"Des Moines-West Des Moines, IA",2014,4.1
+16211,"Des Moines-West Des Moines, IA",2013,4.6
+16224,"Des Moines-West Des Moines, IA",2012,5.0
+16237,"Des Moines-West Des Moines, IA",2011,5.6
+16250,"Des Moines-West Des Moines, IA",2010,5.9
+16263,"Dubuque, IA",2018,2.4
+16276,"Dubuque, IA",2017,2.9
+16289,"Dubuque, IA",2016,3.5
+16302,"Dubuque, IA",2015,3.6
+16315,"Dubuque, IA",2014,4.1
+16328,"Dubuque, IA",2013,4.5
+16341,"Dubuque, IA",2012,4.5
+16354,"Dubuque, IA",2011,5.1
+16367,"Dubuque, IA",2010,5.9
+16380,"Iowa City, IA",2018,2.0
+16393,"Iowa City, IA",2017,2.5
+16406,"Iowa City, IA",2016,2.6
+16419,"Iowa City, IA",2015,2.7
+16432,"Iowa City, IA",2014,3.1
+16445,"Iowa City, IA",2013,3.5
+16458,"Iowa City, IA",2012,3.8
+16471,"Iowa City, IA",2011,4.2
+16484,"Iowa City, IA",2010,4.4
+16497,"Sioux City, IA-NE-SD",2018,2.6
+16510,"Sioux City, IA-NE-SD",2017,3.1
+16523,"Sioux City, IA-NE-SD",2016,3.4
+16536,"Sioux City, IA-NE-SD",2015,3.5
+16549,"Sioux City, IA-NE-SD",2014,4.0
+16562,"Sioux City, IA-NE-SD",2013,4.5
+16575,"Sioux City, IA-NE-SD",2012,5.0
+16588,"Sioux City, IA-NE-SD",2011,5.5
+16601,"Sioux City, IA-NE-SD",2010,6.3
+16614,"Waterloo-Cedar Falls, IA",2018,2.7
+16627,"Waterloo-Cedar Falls, IA",2017,3.5
+16640,"Waterloo-Cedar Falls, IA",2016,4.3
+16653,"Waterloo-Cedar Falls, IA",2015,4.3
+16666,"Waterloo-Cedar Falls, IA",2014,4.7
+16679,"Waterloo-Cedar Falls, IA",2013,4.9
+16692,"Waterloo-Cedar Falls, IA",2012,5.1
+16705,"Waterloo-Cedar Falls, IA",2011,5.6
+16718,"Waterloo-Cedar Falls, IA",2010,6.1
+16731,"Lawrence, KS",2018,3.0
+16744,"Lawrence, KS",2017,3.2
+16757,"Lawrence, KS",2016,3.5
+16770,"Lawrence, KS",2015,3.7
+16783,"Lawrence, KS",2014,4.1
+16796,"Lawrence, KS",2013,4.8
+16809,"Lawrence, KS",2012,5.1
+16822,"Lawrence, KS",2011,5.6
+16835,"Lawrence, KS",2010,5.8
+16848,"Manhattan, KS",2018,2.8
+16861,"Manhattan, KS",2017,3.0
+16874,"Manhattan, KS",2016,3.4
+16887,"Manhattan, KS",2015,3.5
+16900,"Manhattan, KS",2014,3.7
+16913,"Manhattan, KS",2013,4.3
+16926,"Manhattan, KS",2012,4.4
+16939,"Manhattan, KS",2011,4.8
+16952,"Manhattan, KS",2010,5.0
+16965,"Topeka, KS",2018,3.4
+16978,"Topeka, KS",2017,3.6
+16991,"Topeka, KS",2016,4.0
+17004,"Topeka, KS",2015,4.2
+17017,"Topeka, KS",2014,4.7
+17030,"Topeka, KS",2013,5.8
+17043,"Topeka, KS",2012,6.2
+17056,"Topeka, KS",2011,6.7
+17069,"Topeka, KS",2010,7.0
+17082,"Wichita, KS",2018,3.6
+17095,"Wichita, KS",2017,4.1
+17108,"Wichita, KS",2016,4.5
+17121,"Wichita, KS",2015,4.6
+17134,"Wichita, KS",2014,5.2
+17147,"Wichita, KS",2013,6.0
+17160,"Wichita, KS",2012,6.7
+17173,"Wichita, KS",2011,7.6
+17186,"Wichita, KS",2010,8.4
+17199,"Bowling Green, KY",2018,3.8
+17212,"Bowling Green, KY",2017,4.2
+17225,"Bowling Green, KY",2016,4.1
+17238,"Bowling Green, KY",2015,4.7
+17251,"Bowling Green, KY",2014,5.9
+17264,"Bowling Green, KY",2013,7.2
+17277,"Bowling Green, KY",2012,7.4
+17290,"Bowling Green, KY",2011,8.8
+17303,"Bowling Green, KY",2010,10.0
+17316,"Elizabethtown-Fort Knox, KY",2018,4.1
+17329,"Elizabethtown-Fort Knox, KY",2017,4.6
+17342,"Elizabethtown-Fort Knox, KY",2016,4.6
+17355,"Elizabethtown-Fort Knox, KY",2015,5.0
+17368,"Elizabethtown-Fort Knox, KY",2014,6.4
+17381,"Elizabethtown-Fort Knox, KY",2013,7.9
+17394,"Elizabethtown-Fort Knox, KY",2012,8.6
+17407,"Elizabethtown-Fort Knox, KY",2011,9.6
+17420,"Elizabethtown-Fort Knox, KY",2010,10.3
+17433,"Lexington-Fayette, KY",2018,3.3
+17446,"Lexington-Fayette, KY",2017,3.7
+17459,"Lexington-Fayette, KY",2016,3.7
+17472,"Lexington-Fayette, KY",2015,3.9
+17485,"Lexington-Fayette, KY",2014,4.9
+17498,"Lexington-Fayette, KY",2013,6.0
+17511,"Lexington-Fayette, KY",2012,6.2
+17524,"Lexington-Fayette, KY",2011,7.3
+17537,"Lexington-Fayette, KY",2010,8.0
+17550,"Louisville/Jefferson County, KY-IN",2018,3.7
+17563,"Louisville/Jefferson County, KY-IN",2017,4.0
+17576,"Louisville/Jefferson County, KY-IN",2016,4.2
+17589,"Louisville/Jefferson County, KY-IN",2015,4.6
+17602,"Louisville/Jefferson County, KY-IN",2014,5.8
+17615,"Louisville/Jefferson County, KY-IN",2013,7.2
+17628,"Louisville/Jefferson County, KY-IN",2012,7.8
+17641,"Louisville/Jefferson County, KY-IN",2011,9.2
+17654,"Louisville/Jefferson County, KY-IN",2010,9.9
+17667,"Owensboro, KY",2018,4.0
+17680,"Owensboro, KY",2017,4.4
+17693,"Owensboro, KY",2016,4.5
+17706,"Owensboro, KY",2015,4.6
+17719,"Owensboro, KY",2014,5.7
+17732,"Owensboro, KY",2013,6.9
+17745,"Owensboro, KY",2012,7.1
+17758,"Owensboro, KY",2011,8.4
+17771,"Owensboro, KY",2010,9.5
+17784,"Alexandria, LA",2018,5.3
+17797,"Alexandria, LA",2017,5.7
+17810,"Alexandria, LA",2016,6.3
+17823,"Alexandria, LA",2015,6.5
+17836,"Alexandria, LA",2014,6.6
+17849,"Alexandria, LA",2013,6.6
+17862,"Alexandria, LA",2012,6.8
+17875,"Alexandria, LA",2011,7.3
+17888,"Alexandria, LA",2010,7.3
+17901,"Baton Rouge, LA",2018,4.3
+17914,"Baton Rouge, LA",2017,4.5
+17927,"Baton Rouge, LA",2016,5.2
+17940,"Baton Rouge, LA",2015,5.4
+17953,"Baton Rouge, LA",2014,5.7
+17966,"Baton Rouge, LA",2013,6.0
+17979,"Baton Rouge, LA",2012,6.5
+17992,"Baton Rouge, LA",2011,7.3
+18005,"Baton Rouge, LA",2010,7.3
+18018,"Hammond, LA",2018,5.4
+18031,"Hammond, LA",2017,5.7
+18044,"Hammond, LA",2016,6.8
+18057,"Hammond, LA",2015,7.2
+18070,"Hammond, LA",2014,7.5
+18083,"Hammond, LA",2013,7.7
+18096,"Hammond, LA",2012,8.1
+18109,"Hammond, LA",2011,9.1
+18122,"Hammond, LA",2010,9.2
+18135,"Houma-Thibodaux, LA",2018,4.8
+18148,"Houma-Thibodaux, LA",2017,5.5
+18161,"Houma-Thibodaux, LA",2016,6.7
+18174,"Houma-Thibodaux, LA",2015,5.7
+18187,"Houma-Thibodaux, LA",2014,4.7
+18200,"Houma-Thibodaux, LA",2013,4.8
+18213,"Houma-Thibodaux, LA",2012,5.1
+18226,"Houma-Thibodaux, LA",2011,5.9
+18239,"Houma-Thibodaux, LA",2010,5.9
+18252,"Lafayette, LA",2018,4.9
+18265,"Lafayette, LA",2017,5.6
+18278,"Lafayette, LA",2016,7.1
+18291,"Lafayette, LA",2015,6.4
+18304,"Lafayette, LA",2014,5.3
+18317,"Lafayette, LA",2013,5.2
+18330,"Lafayette, LA",2012,5.3
+18343,"Lafayette, LA",2011,6.2
+18356,"Lafayette, LA",2010,6.6
+18369,"Lake Charles, LA",2018,3.8
+18382,"Lake Charles, LA",2017,3.9
+18395,"Lake Charles, LA",2016,4.8
+18408,"Lake Charles, LA",2015,5.3
+18421,"Lake Charles, LA",2014,5.8
+18434,"Lake Charles, LA",2013,6.2
+18447,"Lake Charles, LA",2012,6.5
+18460,"Lake Charles, LA",2011,7.2
+18473,"Lake Charles, LA",2010,7.5
+18486,"Monroe, LA",2018,5.1
+18499,"Monroe, LA",2017,5.3
+18512,"Monroe, LA",2016,6.1
+18525,"Monroe, LA",2015,6.7
+18538,"Monroe, LA",2014,6.9
+18551,"Monroe, LA",2013,7.0
+18564,"Monroe, LA",2012,7.4
+18577,"Monroe, LA",2011,8.0
+18590,"Monroe, LA",2010,8.0
+18603,"New Orleans-Metairie, LA",2018,4.6
+18616,"New Orleans-Metairie, LA",2017,4.8
+18629,"New Orleans-Metairie, LA",2016,5.5
+18642,"New Orleans-Metairie, LA",2015,6.0
+18655,"New Orleans-Metairie, LA",2014,6.2
+18668,"New Orleans-Metairie, LA",2013,6.4
+18681,"New Orleans-Metairie, LA",2012,6.7
+18694,"New Orleans-Metairie, LA",2011,7.3
+18707,"New Orleans-Metairie, LA",2010,7.3
+18720,"Shreveport-Bossier City, LA",2018,5.1
+18733,"Shreveport-Bossier City, LA",2017,5.5
+18746,"Shreveport-Bossier City, LA",2016,6.4
+18759,"Shreveport-Bossier City, LA",2015,6.8
+18772,"Shreveport-Bossier City, LA",2014,6.9
+18785,"Shreveport-Bossier City, LA",2013,7.2
+18798,"Shreveport-Bossier City, LA",2012,7.0
+18811,"Shreveport-Bossier City, LA",2011,7.2
+18824,"Shreveport-Bossier City, LA",2010,7.3
+18837,"Bangor, ME ",2018,3.2
+18850,"Bangor, ME ",2017,3.5
+18863,"Bangor, ME ",2016,3.8
+18876,"Bangor, ME ",2015,4.2
+18889,"Bangor, ME ",2014,5.3
+18902,"Bangor, ME ",2013,6.3
+18915,"Bangor, ME ",2012,6.8
+18928,"Bangor, ME ",2011,7.3
+18941,"Bangor, ME ",2010,8.1
+18954,"Lewiston-Auburn, ME ",2018,3.0
+18967,"Lewiston-Auburn, ME ",2017,3.2
+18980,"Lewiston-Auburn, ME ",2016,3.6
+18993,"Lewiston-Auburn, ME ",2015,4.2
+19006,"Lewiston-Auburn, ME ",2014,5.4
+19019,"Lewiston-Auburn, ME ",2013,6.7
+19032,"Lewiston-Auburn, ME ",2012,7.5
+19045,"Lewiston-Auburn, ME ",2011,8.0
+19058,"Lewiston-Auburn, ME ",2010,8.9
+19071,"Portland-South Portland, ME ",2018,2.5
+19084,"Portland-South Portland, ME ",2017,2.7
+19097,"Portland-South Portland, ME ",2016,3.0
+19110,"Portland-South Portland, ME ",2015,3.5
+19123,"Portland-South Portland, ME ",2014,4.5
+19136,"Portland-South Portland, ME ",2013,5.6
+19149,"Portland-South Portland, ME ",2012,5.9
+19162,"Portland-South Portland, ME ",2011,6.4
+19175,"Portland-South Portland, ME ",2010,7.0
+19188,"Baltimore-Columbia-Towson, MD",2018,3.7
+19201,"Baltimore-Columbia-Towson, MD",2017,4.1
+19214,"Baltimore-Columbia-Towson, MD",2016,4.4
+19227,"Baltimore-Columbia-Towson, MD",2015,5.2
+19240,"Baltimore-Columbia-Towson, MD",2014,5.9
+19253,"Baltimore-Columbia-Towson, MD",2013,6.8
+19266,"Baltimore-Columbia-Towson, MD",2012,7.1
+19279,"Baltimore-Columbia-Towson, MD",2011,7.6
+19292,"Baltimore-Columbia-Towson, MD",2010,8.3
+19305,"-Lexington Park, MD",2018,3.5
+19318,"-Lexington Park, MD",2017,3.8
+19331,"-Lexington Park, MD",2016,4.1
+19344,"-Lexington Park, MD",2015,4.8
+19357,"-Lexington Park, MD",2014,5.3
+19370,"-Lexington Park, MD",2013,5.9
+19383,"-Lexington Park, MD",2012,6.1
+19396,"-Lexington Park, MD",2011,6.4
+19409,"-Lexington Park, MD",2010,6.7
+19422,"Cumberland, MD-WV",2018,5.2
+19435,"Cumberland, MD-WV",2017,5.5
+19448,"Cumberland, MD-WV",2016,6.0
+19461,"Cumberland, MD-WV",2015,6.9
+19474,"Cumberland, MD-WV",2014,7.6
+19487,"Cumberland, MD-WV",2013,8.2
+19500,"Cumberland, MD-WV",2012,8.6
+19513,"Cumberland, MD-WV",2011,9.0
+19526,"Cumberland, MD-WV",2010,9.5
+19539,"Hagerstown-Martinsburg, MD-WV",2018,4.0
+19552,"Hagerstown-Martinsburg, MD-WV",2017,4.1
+19565,"Hagerstown-Martinsburg, MD-WV",2016,4.5
+19578,"Hagerstown-Martinsburg, MD-WV",2015,5.2
+19591,"Hagerstown-Martinsburg, MD-WV",2014,6.0
+19604,"Hagerstown-Martinsburg, MD-WV",2013,6.6
+19617,"Hagerstown-Martinsburg, MD-WV",2012,7.2
+19630,"Hagerstown-Martinsburg, MD-WV",2011,8.3
+19643,"Hagerstown-Martinsburg, MD-WV",2010,9.3
+19656,"Barnstable Town, MA ",2018,4.2
+19669,"Barnstable Town, MA ",2017,4.5
+19682,"Barnstable Town, MA ",2016,4.8
+19695,"Barnstable Town, MA ",2015,5.9
+19708,"Barnstable Town, MA ",2014,6.9
+19721,"Barnstable Town, MA ",2013,8.0
+19734,"Barnstable Town, MA ",2012,8.2
+19747,"Barnstable Town, MA ",2011,8.7
+19760,"Barnstable Town, MA ",2010,9.3
+19773,"Boston-Cambridge-Nashua, MA-NH ",2018,3.1
+19786,"Boston-Cambridge-Nashua, MA-NH ",2017,3.5
+19799,"Boston-Cambridge-Nashua, MA-NH ",2016,3.6
+19812,"Boston-Cambridge-Nashua, MA-NH ",2015,4.3
+19825,"Boston-Cambridge-Nashua, MA-NH ",2014,5.2
+19838,"Boston-Cambridge-Nashua, MA-NH ",2013,6.0
+19851,"Boston-Cambridge-Nashua, MA-NH ",2012,6.1
+19864,"Boston-Cambridge-Nashua, MA-NH ",2011,6.6
+19877,"Boston-Cambridge-Nashua, MA-NH ",2010,7.4
+19890,"Leominster-Gardner, MA ",2018,4.0
+19903,"Leominster-Gardner, MA ",2017,4.4
+19916,"Leominster-Gardner, MA ",2016,4.8
+19929,"Leominster-Gardner, MA ",2015,5.7
+19942,"Leominster-Gardner, MA ",2014,6.9
+19955,"Leominster-Gardner, MA ",2013,8.2
+19968,"Leominster-Gardner, MA ",2012,8.5
+19981,"Leominster-Gardner, MA ",2011,9.2
+19994,"Leominster-Gardner, MA ",2010,9.9
+20007,"New Bedford, MA ",2018,5.3
+20020,"New Bedford, MA ",2017,5.8
+20033,"New Bedford, MA ",2016,6.0
+20046,"New Bedford, MA ",2015,7.2
+20059,"New Bedford, MA ",2014,8.7
+20072,"New Bedford, MA ",2013,10.4
+20085,"New Bedford, MA ",2012,10.1
+20098,"New Bedford, MA ",2011,10.5
+20111,"New Bedford, MA ",2010,11.4
+20124,"Pittsfield, MA ",2018,4.4
+20137,"Pittsfield, MA ",2017,4.6
+20150,"Pittsfield, MA ",2016,4.7
+20163,"Pittsfield, MA ",2015,5.5
+20176,"Pittsfield, MA ",2014,6.7
+20189,"Pittsfield, MA ",2013,7.5
+20202,"Pittsfield, MA ",2012,7.6
+20215,"Pittsfield, MA ",2011,8.0
+20228,"Pittsfield, MA ",2010,8.7
+20241,"Springfield, MA-CT ",2018,4.2
+20254,"Springfield, MA-CT ",2017,4.6
+20267,"Springfield, MA-CT ",2016,4.9
+20280,"Springfield, MA-CT ",2015,5.7
+20293,"Springfield, MA-CT ",2014,6.8
+20306,"Springfield, MA-CT ",2013,7.7
+20319,"Springfield, MA-CT ",2012,7.8
+20332,"Springfield, MA-CT ",2011,8.3
+20345,"Springfield, MA-CT ",2010,9.0
+20358,"Worcester, MA-CT ",2018,3.7
+20371,"Worcester, MA-CT ",2017,4.0
+20384,"Worcester, MA-CT ",2016,4.3
+20397,"Worcester, MA-CT ",2015,5.1
+20410,"Worcester, MA-CT ",2014,6.1
+20423,"Worcester, MA-CT ",2013,7.2
+20436,"Worcester, MA-CT ",2012,7.3
+20449,"Worcester, MA-CT ",2011,7.7
+20462,"Worcester, MA-CT ",2010,8.7
+20475,"Ann Arbor, MI",2018,3.1
+20488,"Ann Arbor, MI",2017,3.5
+20501,"Ann Arbor, MI",2016,3.7
+20514,"Ann Arbor, MI",2015,3.8
+20527,"Ann Arbor, MI",2014,4.9
+20540,"Ann Arbor, MI",2013,5.8
+20553,"Ann Arbor, MI",2012,5.9
+20566,"Ann Arbor, MI",2011,6.5
+20579,"Ann Arbor, MI",2010,7.9
+20592,"Battle Creek, MI",2018,4.2
+20605,"Battle Creek, MI",2017,4.8
+20618,"Battle Creek, MI",2016,4.8
+20631,"Battle Creek, MI",2015,5.2
+20644,"Battle Creek, MI",2014,6.3
+20657,"Battle Creek, MI",2013,7.8
+20670,"Battle Creek, MI",2012,8.2
+20683,"Battle Creek, MI",2011,9.4
+20696,"Battle Creek, MI",2010,11.4
+20709,"Bay City, MI",2018,4.8
+20722,"Bay City, MI",2017,5.5
+20735,"Bay City, MI",2016,5.5
+20748,"Bay City, MI",2015,5.8
+20761,"Bay City, MI",2014,7.2
+20774,"Bay City, MI",2013,8.6
+20787,"Bay City, MI",2012,8.6
+20800,"Bay City, MI",2011,9.4
+20813,"Bay City, MI",2010,11.2
+20826,"Detroit-Warren-Dearborn, MI",2018,4.3
+20839,"Detroit-Warren-Dearborn, MI",2017,4.5
+20852,"Detroit-Warren-Dearborn, MI",2016,5.2
+20865,"Detroit-Warren-Dearborn, MI",2015,5.8
+20878,"Detroit-Warren-Dearborn, MI",2014,8.1
+20891,"Detroit-Warren-Dearborn, MI",2013,9.7
+20904,"Detroit-Warren-Dearborn, MI",2012,10.0
+20917,"Detroit-Warren-Dearborn, MI",2011,11.0
+20930,"Detroit-Warren-Dearborn, MI",2010,13.4
+20943,"Flint, MI",2018,5.0
+20956,"Flint, MI",2017,5.6
+20969,"Flint, MI",2016,5.8
+20982,"Flint, MI",2015,6.3
+20995,"Flint, MI",2014,8.0
+21008,"Flint, MI",2013,9.8
+21021,"Flint, MI",2012,10.0
+21034,"Flint, MI",2011,11.1
+21047,"Flint, MI",2010,13.7
+21060,"Grand Rapids-, MI",2018,3.0
+21073,"Grand Rapids-, MI",2017,3.5
+21086,"Grand Rapids-, MI",2016,3.6
+21099,"Grand Rapids-, MI",2015,3.9
+21112,"Grand Rapids-, MI",2014,5.1
+21125,"Grand Rapids-, MI",2013,6.3
+21138,"Grand Rapids-, MI",2012,6.8
+21151,"Grand Rapids-, MI",2011,8.0
+21164,"Grand Rapids-, MI",2010,10.1
+21177,"Jackson, MI",2018,4.0
+21190,"Jackson, MI",2017,4.5
+21203,"Jackson, MI",2016,4.9
+21216,"Jackson, MI",2015,5.4
+21229,"Jackson, MI",2014,6.7
+21242,"Jackson, MI",2013,8.2
+21255,"Jackson, MI",2012,8.4
+21268,"Jackson, MI",2011,9.5
+21281,"Jackson, MI",2010,11.8
+21294,"Kalamazoo-Portage, MI",2018,3.8
+21307,"Kalamazoo-Portage, MI",2017,4.3
+21320,"Kalamazoo-Portage, MI",2016,4.5
+21333,"Kalamazoo-Portage, MI",2015,4.8
+21346,"Kalamazoo-Portage, MI",2014,6.1
+21359,"Kalamazoo-Portage, MI",2013,7.5
+21372,"Kalamazoo-Portage, MI",2012,7.9
+21385,"Kalamazoo-Portage, MI",2011,8.8
+21398,"Kalamazoo-Portage, MI",2010,10.5
+21411,"Lansing-East Lansing, MI",2018,3.6
+21424,"Lansing-East Lansing, MI",2017,4.1
+21437,"Lansing-East Lansing, MI",2016,4.2
+21450,"Lansing-East Lansing, MI",2015,4.5
+21463,"Lansing-East Lansing, MI",2014,5.9
+21476,"Lansing-East Lansing, MI",2013,7.1
+21489,"Lansing-East Lansing, MI",2012,7.2
+21502,"Lansing-East Lansing, MI",2011,8.0
+21515,"Lansing-East Lansing, MI",2010,9.5
+21528,"Midland, MI",2018,4.0
+21541,"Midland, MI",2017,4.6
+21554,"Midland, MI",2016,4.8
+21567,"Midland, MI",2015,4.9
+21580,"Midland, MI",2014,6.1
+21593,"Midland, MI",2013,7.6
+21606,"Midland, MI",2012,7.7
+21619,"Midland, MI",2011,8.0
+21632,"Midland, MI",2010,9.5
+21645,"Monroe, MI",2018,4.2
+21658,"Monroe, MI",2017,4.7
+21671,"Monroe, MI",2016,4.4
+21684,"Monroe, MI",2015,4.6
+21697,"Monroe, MI",2014,6.1
+21710,"Monroe, MI",2013,7.3
+21723,"Monroe, MI",2012,7.6
+21736,"Monroe, MI",2011,9.1
+21749,"Monroe, MI",2010,11.4
+21762,"Muskegon, MI",2018,4.6
+21775,"Muskegon, MI",2017,5.2
+21788,"Muskegon, MI",2016,5.5
+21801,"Muskegon, MI",2015,5.9
+21814,"Muskegon, MI",2014,7.7
+21827,"Muskegon, MI",2013,9.8
+21840,"Muskegon, MI",2012,9.9
+21853,"Muskegon, MI",2011,11.0
+21866,"Muskegon, MI",2010,14.1
+21879,"Niles-Benton Harbor, MI",2018,4.3
+21892,"Niles-Benton Harbor, MI",2017,4.8
+21905,"Niles-Benton Harbor, MI",2016,5.0
+21918,"Niles-Benton Harbor, MI",2015,5.3
+21931,"Niles-Benton Harbor, MI",2014,6.8
+21944,"Niles-Benton Harbor, MI",2013,8.6
+21957,"Niles-Benton Harbor, MI",2012,8.9
+21970,"Niles-Benton Harbor, MI",2011,9.8
+21983,"Niles-Benton Harbor, MI",2010,11.7
+21996,"Saginaw, MI",2018,4.8
+22009,"Saginaw, MI",2017,5.3
+22022,"Saginaw, MI",2016,5.4
+22035,"Saginaw, MI",2015,5.8
+22048,"Saginaw, MI",2014,7.5
+22061,"Saginaw, MI",2013,9.0
+22074,"Saginaw, MI",2012,9.1
+22087,"Saginaw, MI",2011,9.8
+22100,"Saginaw, MI",2010,11.9
+22113,"Duluth, MN-WI",2018,4.0
+22126,"Duluth, MN-WI",2017,4.6
+22139,"Duluth, MN-WI",2016,5.6
+22152,"Duluth, MN-WI",2015,5.0
+22165,"Duluth, MN-WI",2014,5.3
+22178,"Duluth, MN-WI",2013,6.2
+22191,"Duluth, MN-WI",2012,6.6
+22204,"Duluth, MN-WI",2011,7.4
+22217,"Duluth, MN-WI",2010,8.2
+22230,"Mankato-North Mankato, MN",2018,2.6
+22243,"Mankato-North Mankato, MN",2017,2.8
+22256,"Mankato-North Mankato, MN",2016,3.1
+22269,"Mankato-North Mankato, MN",2015,2.9
+22282,"Mankato-North Mankato, MN",2014,3.4
+22295,"Mankato-North Mankato, MN",2013,4.1
+22308,"Mankato-North Mankato, MN",2012,4.7
+22321,"Mankato-North Mankato, MN",2011,5.3
+22334,"Mankato-North Mankato, MN",2010,6.3
+22347,"Minneapolis-St. Paul-Bloomington, MN-WI",2018,2.9
+22360,"Minneapolis-St. Paul-Bloomington, MN-WI",2017,3.2
+22373,"Minneapolis-St. Paul-Bloomington, MN-WI",2016,3.5
+22386,"Minneapolis-St. Paul-Bloomington, MN-WI",2015,3.5
+22399,"Minneapolis-St. Paul-Bloomington, MN-WI",2014,4.0
+22412,"Minneapolis-St. Paul-Bloomington, MN-WI",2013,4.8
+22425,"Minneapolis-St. Paul-Bloomington, MN-WI",2012,5.5
+22438,"Minneapolis-St. Paul-Bloomington, MN-WI",2011,6.3
+22451,"Minneapolis-St. Paul-Bloomington, MN-WI",2010,7.3
+22464,"Rochester, MN",2018,2.7
+22477,"Rochester, MN",2017,2.9
+22490,"Rochester, MN",2016,3.2
+22503,"Rochester, MN",2015,3.3
+22516,"Rochester, MN",2014,3.8
+22529,"Rochester, MN",2013,4.3
+22542,"Rochester, MN",2012,4.7
+22555,"Rochester, MN",2011,5.6
+22568,"Rochester, MN",2010,6.3
+22581,"St. Cloud, MN",2018,3.3
+22594,"St. Cloud, MN",2017,3.5
+22607,"St. Cloud, MN",2016,3.9
+22620,"St. Cloud, MN",2015,3.9
+22633,"St. Cloud, MN",2014,4.4
+22646,"St. Cloud, MN",2013,5.2
+22659,"St. Cloud, MN",2012,5.6
+22672,"St. Cloud, MN",2011,6.5
+22685,"St. Cloud, MN",2010,7.5
+22698,"Gulfport-Biloxi-Pascagoula, MS",2018,5.2
+22711,"Gulfport-Biloxi-Pascagoula, MS",2017,5.5
+22724,"Gulfport-Biloxi-Pascagoula, MS",2016,6.1
+22737,"Gulfport-Biloxi-Pascagoula, MS",2015,6.5
+22750,"Gulfport-Biloxi-Pascagoula, MS",2014,7.3
+22763,"Gulfport-Biloxi-Pascagoula, MS",2013,8.0
+22776,"Gulfport-Biloxi-Pascagoula, MS",2012,8.5
+22789,"Gulfport-Biloxi-Pascagoula, MS",2011,9.3
+22802,"Gulfport-Biloxi-Pascagoula, MS",2010,8.8
+22815,"Hattiesburg, MS",2018,4.3
+22828,"Hattiesburg, MS",2017,4.6
+22841,"Hattiesburg, MS",2016,5.4
+22854,"Hattiesburg, MS",2015,5.8
+22867,"Hattiesburg, MS",2014,6.6
+22880,"Hattiesburg, MS",2013,7.4
+22893,"Hattiesburg, MS",2012,7.9
+22906,"Hattiesburg, MS",2011,8.9
+22919,"Hattiesburg, MS",2010,8.7
+22932,"Jackson, MS",2018,4.3
+22945,"Jackson, MS",2017,4.5
+22958,"Jackson, MS",2016,5.0
+22971,"Jackson, MS",2015,5.4
+22984,"Jackson, MS",2014,6.3
+22997,"Jackson, MS",2013,7.2
+23010,"Jackson, MS",2012,7.5
+23023,"Jackson, MS",2011,8.2
+23036,"Jackson, MS",2010,8.5
+23049,"Cape Girardeau, MO-IL",2018,3.0
+23062,"Cape Girardeau, MO-IL",2017,3.8
+23075,"Cape Girardeau, MO-IL",2016,4.7
+23088,"Cape Girardeau, MO-IL",2015,4.8
+23101,"Cape Girardeau, MO-IL",2014,5.9
+23114,"Cape Girardeau, MO-IL",2013,6.3
+23127,"Cape Girardeau, MO-IL",2012,6.2
+23140,"Cape Girardeau, MO-IL",2011,7.5
+23153,"Cape Girardeau, MO-IL",2010,7.9
+23166,"Columbia, MO",2018,2.2
+23179,"Columbia, MO",2017,2.6
+23192,"Columbia, MO",2016,3.3
+23205,"Columbia, MO",2015,3.6
+23218,"Columbia, MO",2014,4.2
+23231,"Columbia, MO",2013,4.5
+23244,"Columbia, MO",2012,4.7
+23257,"Columbia, MO",2011,5.8
+23270,"Columbia, MO",2010,6.4
+23283,"Jefferson City, MO",2018,2.6
+23296,"Jefferson City, MO",2017,3.1
+23309,"Jefferson City, MO",2016,3.8
+23322,"Jefferson City, MO",2015,4.4
+23335,"Jefferson City, MO",2014,5.3
+23348,"Jefferson City, MO",2013,5.6
+23361,"Jefferson City, MO",2012,5.8
+23374,"Jefferson City, MO",2011,6.9
+23387,"Jefferson City, MO",2010,7.4
+23400,"Joplin, MO",2018,2.8
+23413,"Joplin, MO",2017,3.4
+23426,"Joplin, MO",2016,4.2
+23439,"Joplin, MO",2015,4.5
+23452,"Joplin, MO",2014,5.3
+23465,"Joplin, MO",2013,6.0
+23478,"Joplin, MO",2012,6.2
+23491,"Joplin, MO",2011,7.9
+23504,"Joplin, MO",2010,8.6
+23517,"Kansas City, MO-KS",2018,3.3
+23530,"Kansas City, MO-KS",2017,3.8
+23543,"Kansas City, MO-KS",2016,4.3
+23556,"Kansas City, MO-KS",2015,4.8
+23569,"Kansas City, MO-KS",2014,5.6
+23582,"Kansas City, MO-KS",2013,6.3
+23595,"Kansas City, MO-KS",2012,6.6
+23608,"Kansas City, MO-KS",2011,7.8
+23621,"Kansas City, MO-KS",2010,8.6
+23634,"St. Joseph, MO-KS",2018,2.9
+23647,"St. Joseph, MO-KS",2017,3.5
+23660,"St. Joseph, MO-KS",2016,4.0
+23673,"St. Joseph, MO-KS",2015,4.6
+23686,"St. Joseph, MO-KS",2014,5.5
+23699,"St. Joseph, MO-KS",2013,6.1
+23712,"St. Joseph, MO-KS",2012,6.3
+23725,"St. Joseph, MO-KS",2011,8.0
+23738,"St. Joseph, MO-KS",2010,8.9
+23751,"St. Louis, MO-IL",2018,3.4
+23764,"St. Louis, MO-IL",2017,3.8
+23777,"St. Louis, MO-IL",2016,4.6
+23790,"St. Louis, MO-IL",2015,5.1
+23803,"St. Louis, MO-IL",2014,6.3
+23816,"St. Louis, MO-IL",2013,7.2
+23829,"St. Louis, MO-IL",2012,7.5
+23842,"St. Louis, MO-IL",2011,8.6
+23855,"St. Louis, MO-IL",2010,9.5
+23868,"Springfield, MO",2018,2.7
+23881,"Springfield, MO",2017,3.2
+23894,"Springfield, MO",2016,4.0
+23907,"Springfield, MO",2015,4.5
+23920,"Springfield, MO",2014,5.2
+23933,"Springfield, MO",2013,5.8
+23946,"Springfield, MO",2012,6.4
+23959,"Springfield, MO",2011,7.9
+23972,"Springfield, MO",2010,8.7
+23985,"Billings, MT",2018,3.4
+23998,"Billings, MT",2017,3.6
+24011,"Billings, MT",2016,3.8
+24024,"Billings, MT",2015,3.4
+24037,"Billings, MT",2014,3.7
+24050,"Billings, MT",2013,4.3
+24063,"Billings, MT",2012,4.5
+24076,"Billings, MT",2011,5.2
+24089,"Billings, MT",2010,5.8
+24102,"Great Falls, MT",2018,3.6
+24115,"Great Falls, MT",2017,3.8
+24128,"Great Falls, MT",2016,4.1
+24141,"Great Falls, MT",2015,4.1
+24154,"Great Falls, MT",2014,4.3
+24167,"Great Falls, MT",2013,5.1
+24180,"Great Falls, MT",2012,5.4
+24193,"Great Falls, MT",2011,6.1
+24206,"Great Falls, MT",2010,6.3
+24219,"Missoula, MT",2018,3.3
+24232,"Missoula, MT",2017,3.7
+24245,"Missoula, MT",2016,3.9
+24258,"Missoula, MT",2015,4.0
+24271,"Missoula, MT",2014,4.4
+24284,"Missoula, MT",2013,5.1
+24297,"Missoula, MT",2012,5.7
+24310,"Missoula, MT",2011,6.5
+24323,"Missoula, MT",2010,7.2
+24336,"Grand Island, NE",2018,3.1
+24349,"Grand Island, NE",2017,3.3
+24362,"Grand Island, NE",2016,3.5
+24375,"Grand Island, NE",2015,3.8
+24388,"Grand Island, NE",2014,3.8
+24401,"Grand Island, NE",2013,3.6
+24414,"Grand Island, NE",2012,3.7
+24427,"Grand Island, NE",2011,4.4
+24440,"Grand Island, NE",2010,4.6
+24453,"Lincoln, NE",2018,2.6
+24466,"Lincoln, NE",2017,2.7
+24479,"Lincoln, NE",2016,2.8
+24492,"Lincoln, NE",2015,2.6
+24505,"Lincoln, NE",2014,3.0
+24518,"Lincoln, NE",2013,3.4
+24531,"Lincoln, NE",2012,3.5
+24544,"Lincoln, NE",2011,4.0
+24557,"Lincoln, NE",2010,4.3
+24570,"Omaha-Council Bluffs, NE-IA",2018,3.0
+24583,"Omaha-Council Bluffs, NE-IA",2017,3.1
+24596,"Omaha-Council Bluffs, NE-IA",2016,3.2
+24609,"Omaha-Council Bluffs, NE-IA",2015,3.2
+24622,"Omaha-Council Bluffs, NE-IA",2014,3.6
+24635,"Omaha-Council Bluffs, NE-IA",2013,4.0
+24648,"Omaha-Council Bluffs, NE-IA",2012,4.3
+24661,"Omaha-Council Bluffs, NE-IA",2011,4.9
+24674,"Omaha-Council Bluffs, NE-IA",2010,5.2
+24687,"Carson City, NV",2018,4.6
+24700,"Carson City, NV",2017,5.0
+24713,"Carson City, NV",2016,6.2
+24726,"Carson City, NV",2015,7.3
+24739,"Carson City, NV",2014,8.9
+24752,"Carson City, NV",2013,10.8
+24765,"Carson City, NV",2012,12.2
+24778,"Carson City, NV",2011,13.5
+24791,"Carson City, NV",2010,13.7
+24804,"Las Vegas-Henderson-Paradise, NV",2018,4.6
+24817,"Las Vegas-Henderson-Paradise, NV",2017,5.2
+24830,"Las Vegas-Henderson-Paradise, NV",2016,5.9
+24843,"Las Vegas-Henderson-Paradise, NV",2015,6.9
+24856,"Las Vegas-Henderson-Paradise, NV",2014,8.2
+24869,"Las Vegas-Henderson-Paradise, NV",2013,10.0
+24882,"Las Vegas-Henderson-Paradise, NV",2012,11.7
+24895,"Las Vegas-Henderson-Paradise, NV",2011,13.5
+24908,"Las Vegas-Henderson-Paradise, NV",2010,14.0
+24921,"Reno, NV",2018,3.5
+24934,"Reno, NV",2017,4.2
+24947,"Reno, NV",2016,5.1
+24960,"Reno, NV",2015,6.3
+24973,"Reno, NV",2014,7.8
+24986,"Reno, NV",2013,9.8
+24999,"Reno, NV",2012,11.5
+25012,"Reno, NV",2011,12.9
+25025,"Reno, NV",2010,13.1
+25038,"Dover-Durham, NH-ME ",2018,2.4
+25051,"Dover-Durham, NH-ME ",2017,2.5
+25064,"Dover-Durham, NH-ME ",2016,2.6
+25077,"Dover-Durham, NH-ME ",2015,3.2
+25090,"Dover-Durham, NH-ME ",2014,4.1
+25103,"Dover-Durham, NH-ME ",2013,5.1
+25116,"Dover-Durham, NH-ME ",2012,5.5
+25129,"Dover-Durham, NH-ME ",2011,5.7
+25142,"Dover-Durham, NH-ME ",2010,6.3
+25155,"Manchester, NH ",2018,2.5
+25168,"Manchester, NH ",2017,2.7
+25181,"Manchester, NH ",2016,2.8
+25194,"Manchester, NH ",2015,3.3
+25207,"Manchester, NH ",2014,4.2
+25220,"Manchester, NH ",2013,5.2
+25233,"Manchester, NH ",2012,5.6
+25246,"Manchester, NH ",2011,5.5
+25259,"Manchester, NH ",2010,6.4
+25272,"Portsmouth, NH-ME ",2018,2.4
+25285,"Portsmouth, NH-ME ",2017,2.5
+25298,"Portsmouth, NH-ME ",2016,2.6
+25311,"Portsmouth, NH-ME ",2015,3.0
+25324,"Portsmouth, NH-ME ",2014,4.0
+25337,"Portsmouth, NH-ME ",2013,4.9
+25350,"Portsmouth, NH-ME ",2012,5.1
+25363,"Portsmouth, NH-ME ",2011,5.2
+25376,"Portsmouth, NH-ME ",2010,5.9
+25389,"Atlantic City-Hammonton, NJ",2018,5.7
+25402,"Atlantic City-Hammonton, NJ",2017,7.1
+25415,"Atlantic City-Hammonton, NJ",2016,7.4
+25428,"Atlantic City-Hammonton, NJ",2015,9.5
+25441,"Atlantic City-Hammonton, NJ",2014,10.5
+25454,"Atlantic City-Hammonton, NJ",2013,11.9
+25467,"Atlantic City-Hammonton, NJ",2012,12.8
+25480,"Atlantic City-Hammonton, NJ",2011,12.6
+25493,"Atlantic City-Hammonton, NJ",2010,12.5
+25506,"Ocean City, NJ",2018,8.2
+25519,"Ocean City, NJ",2017,9.1
+25532,"Ocean City, NJ",2016,9.8
+25545,"Ocean City, NJ",2015,11.0
+25558,"Ocean City, NJ",2014,12.2
+25571,"Ocean City, NJ",2013,14.5
+25584,"Ocean City, NJ",2012,15.5
+25597,"Ocean City, NJ",2011,14.9
+25610,"Ocean City, NJ",2010,14.2
+25623,"Trenton, NJ",2018,3.5
+25636,"Trenton, NJ",2017,4.0
+25649,"Trenton, NJ",2016,4.3
+25662,"Trenton, NJ",2015,4.9
+25675,"Trenton, NJ",2014,5.8
+25688,"Trenton, NJ",2013,7.4
+25701,"Trenton, NJ",2012,8.3
+25714,"Trenton, NJ",2011,8.3
+25727,"Trenton, NJ",2010,8.5
+25740,"Vineland-Bridgeton, NJ",2018,6.2
+25753,"Vineland-Bridgeton, NJ",2017,6.8
+25766,"Vineland-Bridgeton, NJ",2016,7.4
+25779,"Vineland-Bridgeton, NJ",2015,8.7
+25792,"Vineland-Bridgeton, NJ",2014,9.9
+25805,"Vineland-Bridgeton, NJ",2013,12.0
+25818,"Vineland-Bridgeton, NJ",2012,13.2
+25831,"Vineland-Bridgeton, NJ",2011,13.0
+25844,"Vineland-Bridgeton, NJ",2010,13.2
+25857,"Albuquerque, NM",2018,4.6
+25870,"Albuquerque, NM",2017,5.6
+25883,"Albuquerque, NM",2016,6.1
+25896,"Albuquerque, NM",2015,6.2
+25909,"Albuquerque, NM",2014,6.4
+25922,"Albuquerque, NM",2013,6.8
+25935,"Albuquerque, NM",2012,7.0
+25948,"Albuquerque, NM",2011,7.2
+25961,"Albuquerque, NM",2010,7.7
+25974,"Farmington, NM",2018,5.7
+25987,"Farmington, NM",2017,7.4
+26000,"Farmington, NM",2016,8.9
+26013,"Farmington, NM",2015,7.0
+26026,"Farmington, NM",2014,6.3
+26039,"Farmington, NM",2013,6.8
+26052,"Farmington, NM",2012,7.0
+26065,"Farmington, NM",2011,7.6
+26078,"Farmington, NM",2010,9.0
+26091,"Las Cruces, NM",2018,5.6
+26104,"Las Cruces, NM",2017,6.7
+26117,"Las Cruces, NM",2016,7.2
+26130,"Las Cruces, NM",2015,7.4
+26143,"Las Cruces, NM",2014,7.2
+26156,"Las Cruces, NM",2013,7.5
+26169,"Las Cruces, NM",2012,7.2
+26182,"Las Cruces, NM",2011,7.3
+26195,"Las Cruces, NM",2010,7.4
+26208,"Santa Fe, NM",2018,4.1
+26221,"Santa Fe, NM",2017,5.0
+26234,"Santa Fe, NM",2016,5.3
+26247,"Santa Fe, NM",2015,5.4
+26260,"Santa Fe, NM",2014,5.4
+26273,"Santa Fe, NM",2013,5.6
+26286,"Santa Fe, NM",2012,5.7
+26299,"Santa Fe, NM",2011,6.0
+26312,"Santa Fe, NM",2010,6.5
+26325,"Albany-Schenectady-Troy, NY",2018,3.8
+26338,"Albany-Schenectady-Troy, NY",2017,4.3
+26351,"Albany-Schenectady-Troy, NY",2016,4.2
+26364,"Albany-Schenectady-Troy, NY",2015,4.5
+26377,"Albany-Schenectady-Troy, NY",2014,5.1
+26390,"Albany-Schenectady-Troy, NY",2013,6.5
+26403,"Albany-Schenectady-Troy, NY",2012,7.4
+26416,"Albany-Schenectady-Troy, NY",2011,7.2
+26429,"Albany-Schenectady-Troy, NY",2010,7.4
+26442,"Binghamton, NY",2018,4.7
+26455,"Binghamton, NY",2017,5.4
+26468,"Binghamton, NY",2016,5.5
+26481,"Binghamton, NY",2015,5.9
+26494,"Binghamton, NY",2014,6.6
+26507,"Binghamton, NY",2013,7.8
+26520,"Binghamton, NY",2012,8.6
+26533,"Binghamton, NY",2011,8.5
+26546,"Binghamton, NY",2010,8.7
+26559,"Buffalo-Cheektowaga-Niagara Falls, NY",2018,4.5
+26572,"Buffalo-Cheektowaga-Niagara Falls, NY",2017,5.3
+26585,"Buffalo-Cheektowaga-Niagara Falls, NY",2016,5.2
+26598,"Buffalo-Cheektowaga-Niagara Falls, NY",2015,5.5
+26611,"Buffalo-Cheektowaga-Niagara Falls, NY",2014,6.3
+26624,"Buffalo-Cheektowaga-Niagara Falls, NY",2013,7.8
+26637,"Buffalo-Cheektowaga-Niagara Falls, NY",2012,8.6
+26650,"Buffalo-Cheektowaga-Niagara Falls, NY",2011,8.3
+26663,"Buffalo-Cheektowaga-Niagara Falls, NY",2010,8.7
+26676,"Elmira, NY",2018,4.6
+26689,"Elmira, NY",2017,5.5
+26702,"Elmira, NY",2016,5.8
+26715,"Elmira, NY",2015,5.9
+26728,"Elmira, NY",2014,6.3
+26741,"Elmira, NY",2013,8.1
+26754,"Elmira, NY",2012,8.5
+26767,"Elmira, NY",2011,7.9
+26780,"Elmira, NY",2010,8.6
+26793,"Glens Falls, NY",2018,4.4
+26806,"Glens Falls, NY",2017,4.9
+26819,"Glens Falls, NY",2016,5.1
+26832,"Glens Falls, NY",2015,5.3
+26845,"Glens Falls, NY",2014,6.4
+26858,"Glens Falls, NY",2013,8.0
+26871,"Glens Falls, NY",2012,8.9
+26884,"Glens Falls, NY",2011,8.6
+26897,"Glens Falls, NY",2010,8.8
+26910,"Ithaca, NY",2018,3.6
+26923,"Ithaca, NY",2017,4.3
+26936,"Ithaca, NY",2016,4.2
+26949,"Ithaca, NY",2015,4.4
+26962,"Ithaca, NY",2014,4.4
+26975,"Ithaca, NY",2013,5.3
+26988,"Ithaca, NY",2012,6.2
+27001,"Ithaca, NY",2011,6.1
+27014,"Ithaca, NY",2010,6.3
+27027,"Kingston, NY",2018,3.9
+27040,"Kingston, NY",2017,4.5
+27053,"Kingston, NY",2016,4.5
+27066,"Kingston, NY",2015,4.8
+27079,"Kingston, NY",2014,5.7
+27092,"Kingston, NY",2013,7.3
+27105,"Kingston, NY",2012,8.4
+27118,"Kingston, NY",2011,7.9
+27131,"Kingston, NY",2010,7.9
+27144,"New York-Newark-Jersey City, NY-NJ-PA",2018,3.9
+27157,"New York-Newark-Jersey City, NY-NJ-PA",2017,4.4
+27170,"New York-Newark-Jersey City, NY-NJ-PA",2016,4.8
+27183,"New York-Newark-Jersey City, NY-NJ-PA",2015,5.3
+27196,"New York-Newark-Jersey City, NY-NJ-PA",2014,6.4
+27209,"New York-Newark-Jersey City, NY-NJ-PA",2013,8.0
+27222,"New York-Newark-Jersey City, NY-NJ-PA",2012,8.8
+27235,"New York-Newark-Jersey City, NY-NJ-PA",2011,8.6
+27248,"New York-Newark-Jersey City, NY-NJ-PA",2010,9.0
+27261,"Rochester, NY",2018,4.2
+27274,"Rochester, NY",2017,4.9
+27287,"Rochester, NY",2016,4.8
+27300,"Rochester, NY",2015,5.1
+27313,"Rochester, NY",2014,5.9
+27326,"Rochester, NY",2013,7.2
+27339,"Rochester, NY",2012,8.1
+27352,"Rochester, NY",2011,7.8
+27365,"Rochester, NY",2010,8.2
+27378,"Syracuse, NY",2018,4.3
+27391,"Syracuse, NY",2017,5.0
+27404,"Syracuse, NY",2016,5.0
+27417,"Syracuse, NY",2015,5.4
+27430,"Syracuse, NY",2014,6.1
+27443,"Syracuse, NY",2013,7.6
+27456,"Syracuse, NY",2012,8.6
+27469,"Syracuse, NY",2011,8.4
+27482,"Syracuse, NY",2010,8.7
+27495,"Utica-Rome, NY",2018,4.5
+27508,"Utica-Rome, NY",2017,5.1
+27521,"Utica-Rome, NY",2016,5.1
+27534,"Utica-Rome, NY",2015,5.6
+27547,"Utica-Rome, NY",2014,6.3
+27560,"Utica-Rome, NY",2013,7.7
+27573,"Utica-Rome, NY",2012,8.5
+27586,"Utica-Rome, NY",2011,8.2
+27599,"Utica-Rome, NY",2010,8.0
+27612,"Watertown-Fort Drum, NY",2018,5.5
+27625,"Watertown-Fort Drum, NY",2017,6.5
+27638,"Watertown-Fort Drum, NY",2016,6.3
+27651,"Watertown-Fort Drum, NY",2015,6.6
+27664,"Watertown-Fort Drum, NY",2014,7.7
+27677,"Watertown-Fort Drum, NY",2013,9.5
+27690,"Watertown-Fort Drum, NY",2012,10.0
+27703,"Watertown-Fort Drum, NY",2011,9.8
+27716,"Watertown-Fort Drum, NY",2010,9.4
+27729,"Asheville, NC",2018,3.2
+27742,"Asheville, NC",2017,3.6
+27755,"Asheville, NC",2016,4.1
+27768,"Asheville, NC",2015,4.6
+27781,"Asheville, NC",2014,4.8
+27794,"Asheville, NC",2013,6.2
+27807,"Asheville, NC",2012,7.8
+27820,"Asheville, NC",2011,8.5
+27833,"Asheville, NC",2010,8.9
+27846,"Burlington, NC",2018,3.8
+27859,"Burlington, NC",2017,4.3
+27872,"Burlington, NC",2016,4.7
+27885,"Burlington, NC",2015,5.3
+27898,"Burlington, NC",2014,5.5
+27911,"Burlington, NC",2013,7.1
+27924,"Burlington, NC",2012,8.7
+27937,"Burlington, NC",2011,9.6
+27950,"Burlington, NC",2010,10.8
+27963,"Charlotte-Concord-Gastonia, NC-SC",2018,3.7
+27976,"Charlotte-Concord-Gastonia, NC-SC",2017,4.3
+27989,"Charlotte-Concord-Gastonia, NC-SC",2016,4.8
+28002,"Charlotte-Concord-Gastonia, NC-SC",2015,5.4
+28015,"Charlotte-Concord-Gastonia, NC-SC",2014,6.0
+28028,"Charlotte-Concord-Gastonia, NC-SC",2013,7.6
+28041,"Charlotte-Concord-Gastonia, NC-SC",2012,9.4
+28054,"Charlotte-Concord-Gastonia, NC-SC",2011,10.6
+28067,"Charlotte-Concord-Gastonia, NC-SC",2010,11.7
+28080,"Durham-Chapel Hill, NC",2018,3.5
+28093,"Durham-Chapel Hill, NC",2017,4.0
+28106,"Durham-Chapel Hill, NC",2016,4.5
+28119,"Durham-Chapel Hill, NC",2015,4.9
+28132,"Durham-Chapel Hill, NC",2014,5.0
+28145,"Durham-Chapel Hill, NC",2013,6.1
+28158,"Durham-Chapel Hill, NC",2012,7.5
+28171,"Durham-Chapel Hill, NC",2011,7.9
+28184,"Durham-Chapel Hill, NC",2010,8.0
+28197,"Fayetteville, NC",2018,5.2
+28210,"Fayetteville, NC",2017,5.7
+28223,"Fayetteville, NC",2016,6.4
+28236,"Fayetteville, NC",2015,7.3
+28249,"Fayetteville, NC",2014,7.9
+28262,"Fayetteville, NC",2013,9.4
+28275,"Fayetteville, NC",2012,10.8
+28288,"Fayetteville, NC",2011,10.6
+28301,"Fayetteville, NC",2010,10.0
+28314,"Goldsboro, NC",2018,4.4
+28327,"Goldsboro, NC",2017,5.0
+28340,"Goldsboro, NC",2016,5.8
+28353,"Goldsboro, NC",2015,6.0
+28366,"Goldsboro, NC",2014,6.2
+28379,"Goldsboro, NC",2013,7.5
+28392,"Goldsboro, NC",2012,8.7
+28405,"Goldsboro, NC",2011,9.0
+28418,"Goldsboro, NC",2010,9.1
+28431,"Greensboro-High Point, NC",2018,4.2
+28444,"Greensboro-High Point, NC",2017,4.7
+28457,"Greensboro-High Point, NC",2016,5.2
+28470,"Greensboro-High Point, NC",2015,5.9
+28483,"Greensboro-High Point, NC",2014,6.5
+28496,"Greensboro-High Point, NC",2013,8.2
+28509,"Greensboro-High Point, NC",2012,10.1
+28522,"Greensboro-High Point, NC",2011,10.8
+28535,"Greensboro-High Point, NC",2010,11.4
+28548,"Greenville, NC",2018,4.3
+28561,"Greenville, NC",2017,4.9
+28574,"Greenville, NC",2016,5.6
+28587,"Greenville, NC",2015,6.0
+28600,"Greenville, NC",2014,6.3
+28613,"Greenville, NC",2013,7.8
+28626,"Greenville, NC",2012,9.3
+28639,"Greenville, NC",2011,10.1
+28652,"Greenville, NC",2010,10.1
+28665,"Hickory-Lenoir-Morganton, NC",2018,3.6
+28678,"Hickory-Lenoir-Morganton, NC",2017,4.2
+28691,"Hickory-Lenoir-Morganton, NC",2016,4.8
+28704,"Hickory-Lenoir-Morganton, NC",2015,5.6
+28717,"Hickory-Lenoir-Morganton, NC",2014,6.3
+28730,"Hickory-Lenoir-Morganton, NC",2013,8.4
+28743,"Hickory-Lenoir-Morganton, NC",2012,10.6
+28756,"Hickory-Lenoir-Morganton, NC",2011,11.9
+28769,"Hickory-Lenoir-Morganton, NC",2010,13.3
+28782,"Jacksonville, NC",2018,4.9
+28795,"Jacksonville, NC",2017,5.2
+28808,"Jacksonville, NC",2016,5.5
+28821,"Jacksonville, NC",2015,5.8
+28834,"Jacksonville, NC",2014,5.9
+28847,"Jacksonville, NC",2013,6.8
+28860,"Jacksonville, NC",2012,8.2
+28873,"Jacksonville, NC",2011,8.3
+28886,"Jacksonville, NC",2010,8.2
+28899,"New Bern, NC",2018,4.3
+28912,"New Bern, NC",2017,4.6
+28925,"New Bern, NC",2016,5.2
+28938,"New Bern, NC",2015,5.9
+28951,"New Bern, NC",2014,6.7
+28964,"New Bern, NC",2013,8.4
+28977,"New Bern, NC",2012,9.7
+28990,"New Bern, NC",2011,10.5
+29003,"New Bern, NC",2010,10.6
+29016,"Raleigh, NC",2018,3.5
+29029,"Raleigh, NC",2017,4.0
+29042,"Raleigh, NC",2016,4.4
+29055,"Raleigh, NC",2015,4.8
+29068,"Raleigh, NC",2014,4.9
+29081,"Raleigh, NC",2013,6.1
+29094,"Raleigh, NC",2012,7.6
+29107,"Raleigh, NC",2011,8.2
+29120,"Raleigh, NC",2010,8.5
+29133,"Rocky Mount, NC",2018,5.8
+29146,"Rocky Mount, NC",2017,6.6
+29159,"Rocky Mount, NC",2016,7.3
+29172,"Rocky Mount, NC",2015,8.0
+29185,"Rocky Mount, NC",2014,8.5
+29198,"Rocky Mount, NC",2013,10.9
+29211,"Rocky Mount, NC",2012,12.8
+29224,"Rocky Mount, NC",2011,13.5
+29237,"Rocky Mount, NC",2010,13.5
+29250,"Wilmington, NC",2018,3.9
+29263,"Wilmington, NC",2017,4.2
+29276,"Wilmington, NC",2016,4.8
+29289,"Wilmington, NC",2015,5.4
+29302,"Wilmington, NC",2014,6.0
+29315,"Wilmington, NC",2013,7.6
+29328,"Wilmington, NC",2012,9.2
+29341,"Wilmington, NC",2011,9.9
+29354,"Wilmington, NC",2010,9.9
+29367,"Winston-Salem, NC",2018,3.8
+29380,"Winston-Salem, NC",2017,4.3
+29393,"Winston-Salem, NC",2016,4.8
+29406,"Winston-Salem, NC",2015,5.4
+29419,"Winston-Salem, NC",2014,5.9
+29432,"Winston-Salem, NC",2013,7.5
+29445,"Winston-Salem, NC",2012,9.4
+29458,"Winston-Salem, NC",2011,10.2
+29471,"Winston-Salem, NC",2010,10.8
+29484,"Bismarck, ND",2018,2.6
+29497,"Bismarck, ND",2017,2.6
+29510,"Bismarck, ND",2016,2.8
+29523,"Bismarck, ND",2015,2.6
+29536,"Bismarck, ND",2014,2.7
+29549,"Bismarck, ND",2013,2.8
+29562,"Bismarck, ND",2012,3.0
+29575,"Bismarck, ND",2011,3.4
+29588,"Bismarck, ND",2010,3.8
+29601,"Fargo, ND-MN",2018,2.3
+29614,"Fargo, ND-MN",2017,2.4
+29627,"Fargo, ND-MN",2016,2.6
+29640,"Fargo, ND-MN",2015,2.5
+29653,"Fargo, ND-MN",2014,2.7
+29666,"Fargo, ND-MN",2013,3.2
+29679,"Fargo, ND-MN",2012,3.4
+29692,"Fargo, ND-MN",2011,3.8
+29705,"Fargo, ND-MN",2010,4.0
+29718,"Grand Forks, ND-MN",2018,2.6
+29731,"Grand Forks, ND-MN",2017,2.8
+29744,"Grand Forks, ND-MN",2016,3.0
+29757,"Grand Forks, ND-MN",2015,3.0
+29770,"Grand Forks, ND-MN",2014,3.4
+29783,"Grand Forks, ND-MN",2013,3.8
+29796,"Grand Forks, ND-MN",2012,4.2
+29809,"Grand Forks, ND-MN",2011,4.7
+29822,"Grand Forks, ND-MN",2010,4.4
+29835,"Akron, OH",2018,4.6
+29848,"Akron, OH",2017,5.0
+29861,"Akron, OH",2016,5.1
+29874,"Akron, OH",2015,5.0
+29887,"Akron, OH",2014,5.9
+29900,"Akron, OH",2013,7.6
+29913,"Akron, OH",2012,7.4
+29926,"Akron, OH",2011,9.0
+29939,"Akron, OH",2010,10.6
+29952,"Canton-Massillon, OH",2018,4.9
+29965,"Canton-Massillon, OH",2017,5.2
+29978,"Canton-Massillon, OH",2016,5.6
+29991,"Canton-Massillon, OH",2015,5.4
+30004,"Canton-Massillon, OH",2014,5.8
+30017,"Canton-Massillon, OH",2013,7.6
+30030,"Canton-Massillon, OH",2012,7.5
+30043,"Canton-Massillon, OH",2011,9.4
+30056,"Canton-Massillon, OH",2010,11.5
+30069,"Cincinnati, OH-KY-IN",2018,3.9
+30082,"Cincinnati, OH-KY-IN",2017,4.3
+30095,"Cincinnati, OH-KY-IN",2016,4.4
+30108,"Cincinnati, OH-KY-IN",2015,4.5
+30121,"Cincinnati, OH-KY-IN",2014,5.5
+30134,"Cincinnati, OH-KY-IN",2013,7.2
+30147,"Cincinnati, OH-KY-IN",2012,7.4
+30160,"Cincinnati, OH-KY-IN",2011,8.8
+30173,"Cincinnati, OH-KY-IN",2010,9.9
+30186,"Cleveland-Elyria, OH",2018,4.7
+30199,"Cleveland-Elyria, OH",2017,5.6
+30212,"Cleveland-Elyria, OH",2016,5.4
+30225,"Cleveland-Elyria, OH",2015,5.0
+30238,"Cleveland-Elyria, OH",2014,6.0
+30251,"Cleveland-Elyria, OH",2013,6.8
+30264,"Cleveland-Elyria, OH",2012,6.6
+30277,"Cleveland-Elyria, OH",2011,7.4
+30290,"Cleveland-Elyria, OH",2010,8.4
+30303,"Columbus, OH",2018,3.9
+30316,"Columbus, OH",2017,4.1
+30329,"Columbus, OH",2016,4.2
+30342,"Columbus, OH",2015,4.2
+30355,"Columbus, OH",2014,4.9
+30368,"Columbus, OH",2013,6.5
+30381,"Columbus, OH",2012,6.5
+30394,"Columbus, OH",2011,7.8
+30407,"Columbus, OH",2010,9.0
+30420,"Dayton, OH",2018,4.3
+30433,"Dayton, OH",2017,4.7
+30446,"Dayton, OH",2016,4.8
+30459,"Dayton, OH",2015,4.8
+30472,"Dayton, OH",2014,5.8
+30485,"Dayton, OH",2013,7.9
+30498,"Dayton, OH",2012,7.8
+30511,"Dayton, OH",2011,9.3
+30524,"Dayton, OH",2010,11.0
+30537,"Lima, OH",2018,4.5
+30550,"Lima, OH",2017,5.0
+30563,"Lima, OH",2016,5.0
+30576,"Lima, OH",2015,4.9
+30589,"Lima, OH",2014,5.8
+30602,"Lima, OH",2013,7.8
+30615,"Lima, OH",2012,7.7
+30628,"Lima, OH",2011,9.5
+30641,"Lima, OH",2010,10.7
+30654,"Mansfield, OH",2018,4.9
+30667,"Mansfield, OH",2017,5.4
+30680,"Mansfield, OH",2016,5.6
+30693,"Mansfield, OH",2015,5.6
+30706,"Mansfield, OH",2014,6.5
+30719,"Mansfield, OH",2013,8.6
+30732,"Mansfield, OH",2012,8.7
+30745,"Mansfield, OH",2011,10.6
+30758,"Mansfield, OH",2010,12.2
+30771,"Springfield, OH",2018,4.6
+30784,"Springfield, OH",2017,4.8
+30797,"Springfield, OH",2016,5.3
+30810,"Springfield, OH",2015,5.1
+30823,"Springfield, OH",2014,5.8
+30836,"Springfield, OH",2013,7.5
+30849,"Springfield, OH",2012,7.8
+30862,"Springfield, OH",2011,9.5
+30875,"Springfield, OH",2010,11.1
+30888,"Toledo, OH",2018,4.9
+30901,"Toledo, OH",2017,5.5
+30914,"Toledo, OH",2016,4.9
+30927,"Toledo, OH",2015,5.1
+30940,"Toledo, OH",2014,6.1
+30953,"Toledo, OH",2013,8.2
+30966,"Toledo, OH",2012,7.9
+30979,"Toledo, OH",2011,9.5
+30992,"Toledo, OH",2010,11.2
+31005,"Weirton-Steubenville, WV-OH",2018,6.1
+31018,"Weirton-Steubenville, WV-OH",2017,6.8
+31031,"Weirton-Steubenville, WV-OH",2016,7.8
+31044,"Weirton-Steubenville, WV-OH",2015,7.5
+31057,"Weirton-Steubenville, WV-OH",2014,7.9
+31070,"Weirton-Steubenville, WV-OH",2013,9.5
+31083,"Weirton-Steubenville, WV-OH",2012,9.9
+31096,"Weirton-Steubenville, WV-OH",2011,11.1
+31109,"Weirton-Steubenville, WV-OH",2010,13.4
+31122,"Youngstown-Warren-Boardman, OH-PA",2018,5.8
+31135,"Youngstown-Warren-Boardman, OH-PA",2017,6.7
+31148,"Youngstown-Warren-Boardman, OH-PA",2016,6.5
+31161,"Youngstown-Warren-Boardman, OH-PA",2015,6.2
+31174,"Youngstown-Warren-Boardman, OH-PA",2014,6.7
+31187,"Youngstown-Warren-Boardman, OH-PA",2013,8.5
+31200,"Youngstown-Warren-Boardman, OH-PA",2012,8.4
+31213,"Youngstown-Warren-Boardman, OH-PA",2011,9.7
+31226,"Youngstown-Warren-Boardman, OH-PA",2010,11.8
+31239,"Enid, OK",2018,2.9
+31252,"Enid, OK",2017,3.7
+31265,"Enid, OK",2016,4.2
+31278,"Enid, OK",2015,3.8
+31291,"Enid, OK",2014,3.4
+31304,"Enid, OK",2013,4.0
+31317,"Enid, OK",2012,3.9
+31330,"Enid, OK",2011,4.2
+31343,"Enid, OK",2010,5.3
+31356,"Lawton, OK",2018,3.7
+31369,"Lawton, OK",2017,4.2
+31382,"Lawton, OK",2016,4.5
+31395,"Lawton, OK",2015,4.2
+31408,"Lawton, OK",2014,4.5
+31421,"Lawton, OK",2013,5.6
+31434,"Lawton, OK",2012,5.7
+31447,"Lawton, OK",2011,5.5
+31460,"Lawton, OK",2010,5.6
+31473,"Oklahoma City, OK",2018,3.0
+31486,"Oklahoma City, OK",2017,3.6
+31499,"Oklahoma City, OK",2016,4.0
+31512,"Oklahoma City, OK",2015,3.8
+31525,"Oklahoma City, OK",2014,3.9
+31538,"Oklahoma City, OK",2013,4.5
+31551,"Oklahoma City, OK",2012,4.4
+31564,"Oklahoma City, OK",2011,4.8
+31577,"Oklahoma City, OK",2010,5.6
+31590,"Tulsa, OK",2018,3.3
+31603,"Tulsa, OK",2017,4.2
+31616,"Tulsa, OK",2016,4.8
+31629,"Tulsa, OK",2015,4.3
+31642,"Tulsa, OK",2014,4.3
+31655,"Tulsa, OK",2013,5.1
+31668,"Tulsa, OK",2012,5.2
+31681,"Tulsa, OK",2011,5.9
+31694,"Tulsa, OK",2010,7.0
+31707,"Albany, OR",2018,4.6
+31720,"Albany, OR",2017,4.7
+31733,"Albany, OR",2016,5.6
+31746,"Albany, OR",2015,6.6
+31759,"Albany, OR",2014,8.0
+31772,"Albany, OR",2013,9.5
+31785,"Albany, OR",2012,10.7
+31798,"Albany, OR",2011,11.5
+31811,"Albany, OR",2010,12.9
+31824,"Bend-Redmond, OR",2018,4.1
+31837,"Bend-Redmond, OR",2017,4.2
+31850,"Bend-Redmond, OR",2016,4.8
+31863,"Bend-Redmond, OR",2015,5.7
+31876,"Bend-Redmond, OR",2014,7.6
+31889,"Bend-Redmond, OR",2013,9.4
+31902,"Bend-Redmond, OR",2012,11.2
+31915,"Bend-Redmond, OR",2011,12.4
+31928,"Bend-Redmond, OR",2010,13.9
+31941,"Corvallis, OR",2018,3.1
+31954,"Corvallis, OR",2017,3.2
+31967,"Corvallis, OR",2016,3.9
+31980,"Corvallis, OR",2015,4.1
+31993,"Corvallis, OR",2014,5.0
+32006,"Corvallis, OR",2013,5.6
+32019,"Corvallis, OR",2012,6.0
+32032,"Corvallis, OR",2011,6.5
+32045,"Corvallis, OR",2010,7.2
+32058,"Eugene, OR",2018,4.3
+32071,"Eugene, OR",2017,4.4
+32084,"Eugene, OR",2016,5.0
+32097,"Eugene, OR",2015,5.7
+32110,"Eugene, OR",2014,6.8
+32123,"Eugene, OR",2013,7.9
+32136,"Eugene, OR",2012,8.9
+32149,"Eugene, OR",2011,9.8
+32162,"Eugene, OR",2010,11.1
+32175,"Grants Pass, OR",2018,5.4
+32188,"Grants Pass, OR",2017,5.3
+32201,"Grants Pass, OR",2016,6.4
+32214,"Grants Pass, OR",2015,7.5
+32227,"Grants Pass, OR",2014,9.2
+32240,"Grants Pass, OR",2013,10.9
+32253,"Grants Pass, OR",2012,12.1
+32266,"Grants Pass, OR",2011,12.8
+32279,"Grants Pass, OR",2010,14.1
+32292,"Medford, OR",2018,4.6
+32305,"Medford, OR",2017,4.7
+32318,"Medford, OR",2016,5.6
+32331,"Medford, OR",2015,6.6
+32344,"Medford, OR",2014,8.3
+32357,"Medford, OR",2013,9.6
+32370,"Medford, OR",2012,11.1
+32383,"Medford, OR",2011,11.8
+32396,"Medford, OR",2010,12.6
+32409,"Portland-Vancouver-Hillsboro, OR-WA",2018,3.8
+32422,"Portland-Vancouver-Hillsboro, OR-WA",2017,3.9
+32435,"Portland-Vancouver-Hillsboro, OR-WA",2016,4.5
+32448,"Portland-Vancouver-Hillsboro, OR-WA",2015,5.1
+32461,"Portland-Vancouver-Hillsboro, OR-WA",2014,6.0
+32474,"Portland-Vancouver-Hillsboro, OR-WA",2013,7.0
+32487,"Portland-Vancouver-Hillsboro, OR-WA",2012,7.8
+32500,"Portland-Vancouver-Hillsboro, OR-WA",2011,8.8
+32513,"Portland-Vancouver-Hillsboro, OR-WA",2010,10.1
+32526,"Salem, OR",2018,4.2
+32539,"Salem, OR",2017,4.3
+32552,"Salem, OR",2016,5.0
+32565,"Salem, OR",2015,5.8
+32578,"Salem, OR",2014,7.1
+32591,"Salem, OR",2013,8.6
+32604,"Salem, OR",2012,9.8
+32617,"Salem, OR",2011,10.3
+32630,"Salem, OR",2010,10.9
+32643,"Allentown-Bethlehem-Easton, PA-NJ",2018,4.6
+32656,"Allentown-Bethlehem-Easton, PA-NJ",2017,5.0
+32669,"Allentown-Bethlehem-Easton, PA-NJ",2016,5.2
+32682,"Allentown-Bethlehem-Easton, PA-NJ",2015,5.4
+32695,"Allentown-Bethlehem-Easton, PA-NJ",2014,6.2
+32708,"Allentown-Bethlehem-Easton, PA-NJ",2013,7.6
+32721,"Allentown-Bethlehem-Easton, PA-NJ",2012,8.3
+32734,"Allentown-Bethlehem-Easton, PA-NJ",2011,8.5
+32747,"Allentown-Bethlehem-Easton, PA-NJ",2010,9.0
+32760,"Altoona, PA",2018,4.4
+32773,"Altoona, PA",2017,4.9
+32786,"Altoona, PA",2016,5.2
+32799,"Altoona, PA",2015,5.2
+32812,"Altoona, PA",2014,5.8
+32825,"Altoona, PA",2013,6.7
+32838,"Altoona, PA",2012,7.3
+32851,"Altoona, PA",2011,7.1
+32864,"Altoona, PA",2010,7.8
+32877,"Bloomsburg-Berwick, PA",2018,4.6
+32890,"Bloomsburg-Berwick, PA",2017,5.0
+32903,"Bloomsburg-Berwick, PA",2016,5.2
+32916,"Bloomsburg-Berwick, PA",2015,5.5
+32929,"Bloomsburg-Berwick, PA",2014,6.0
+32942,"Bloomsburg-Berwick, PA",2013,7.0
+32955,"Bloomsburg-Berwick, PA",2012,7.6
+32968,"Bloomsburg-Berwick, PA",2011,8.0
+32981,"Bloomsburg-Berwick, PA",2010,8.5
+32994,"Chambersburg-Waynesboro, PA",2018,3.8
+33007,"Chambersburg-Waynesboro, PA",2017,4.5
+33020,"Chambersburg-Waynesboro, PA",2016,5.1
+33033,"Chambersburg-Waynesboro, PA",2015,5.1
+33046,"Chambersburg-Waynesboro, PA",2014,5.5
+33059,"Chambersburg-Waynesboro, PA",2013,6.4
+33072,"Chambersburg-Waynesboro, PA",2012,6.9
+33085,"Chambersburg-Waynesboro, PA",2011,7.2
+33098,"Chambersburg-Waynesboro, PA",2010,8.3
+33111,"East Stroudsburg, PA",2018,5.6
+33124,"East Stroudsburg, PA",2017,6.0
+33137,"East Stroudsburg, PA",2016,6.2
+33150,"East Stroudsburg, PA",2015,6.6
+33163,"East Stroudsburg, PA",2014,7.6
+33176,"East Stroudsburg, PA",2013,9.1
+33189,"East Stroudsburg, PA",2012,9.6
+33202,"East Stroudsburg, PA",2011,9.5
+33215,"East Stroudsburg, PA",2010,9.4
+33228,"Erie, PA",2018,4.9
+33241,"Erie, PA",2017,5.9
+33254,"Erie, PA",2016,6.4
+33267,"Erie, PA",2015,5.6
+33280,"Erie, PA",2014,6.3
+33293,"Erie, PA",2013,7.2
+33306,"Erie, PA",2012,7.6
+33319,"Erie, PA",2011,8.0
+33332,"Erie, PA",2010,9.0
+33345,"Gettysburg, PA",2018,3.4
+33358,"Gettysburg, PA",2017,3.7
+33371,"Gettysburg, PA",2016,3.9
+33384,"Gettysburg, PA",2015,4.3
+33397,"Gettysburg, PA",2014,4.6
+33410,"Gettysburg, PA",2013,5.7
+33423,"Gettysburg, PA",2012,6.3
+33436,"Gettysburg, PA",2011,6.5
+33449,"Gettysburg, PA",2010,7.5
+33462,"Harrisburg-Carlisle, PA",2018,3.8
+33475,"Harrisburg-Carlisle, PA",2017,4.3
+33488,"Harrisburg-Carlisle, PA",2016,4.4
+33501,"Harrisburg-Carlisle, PA",2015,4.4
+33514,"Harrisburg-Carlisle, PA",2014,5.0
+33527,"Harrisburg-Carlisle, PA",2013,6.1
+33540,"Harrisburg-Carlisle, PA",2012,6.7
+33553,"Harrisburg-Carlisle, PA",2011,6.9
+33566,"Harrisburg-Carlisle, PA",2010,7.3
+33579,"Johnstown, PA",2018,5.4
+33592,"Johnstown, PA",2017,6.1
+33605,"Johnstown, PA",2016,6.7
+33618,"Johnstown, PA",2015,6.7
+33631,"Johnstown, PA",2014,7.1
+33644,"Johnstown, PA",2013,8.4
+33657,"Johnstown, PA",2012,8.6
+33670,"Johnstown, PA",2011,8.5
+33683,"Johnstown, PA",2010,9.2
+33696,"Lancaster, PA",2018,3.5
+33709,"Lancaster, PA",2017,3.9
+33722,"Lancaster, PA",2016,4.1
+33735,"Lancaster, PA",2015,4.2
+33748,"Lancaster, PA",2014,4.7
+33761,"Lancaster, PA",2013,5.8
+33774,"Lancaster, PA",2012,6.4
+33787,"Lancaster, PA",2011,6.7
+33800,"Lancaster, PA",2010,7.3
+33813,"Lebanon, PA",2018,3.9
+33826,"Lebanon, PA",2017,4.2
+33839,"Lebanon, PA",2016,4.4
+33852,"Lebanon, PA",2015,4.6
+33865,"Lebanon, PA",2014,5.0
+33878,"Lebanon, PA",2013,6.0
+33891,"Lebanon, PA",2012,6.5
+33904,"Lebanon, PA",2011,6.8
+33917,"Lebanon, PA",2010,7.2
+33930,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018,4.3
+33943,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017,4.8
+33956,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2016,5.0
+33969,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2015,5.5
+33982,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2014,6.3
+33995,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2013,7.6
+34008,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2012,8.3
+34021,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2011,8.4
+34034,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2010,8.7
+34047,"Pittsburgh, PA",2018,4.4
+34060,"Pittsburgh, PA",2017,5.1
+34073,"Pittsburgh, PA",2016,5.6
+34086,"Pittsburgh, PA",2015,5.4
+34099,"Pittsburgh, PA",2014,5.7
+34112,"Pittsburgh, PA",2013,6.6
+34125,"Pittsburgh, PA",2012,7.1
+34138,"Pittsburgh, PA",2011,7.2
+34151,"Pittsburgh, PA",2010,7.7
+34164,"Reading, PA",2018,4.3
+34177,"Reading, PA",2017,4.7
+34190,"Reading, PA",2016,4.9
+34203,"Reading, PA",2015,5.0
+34216,"Reading, PA",2014,5.6
+34229,"Reading, PA",2013,6.9
+34242,"Reading, PA",2012,7.5
+34255,"Reading, PA",2011,7.7
+34268,"Reading, PA",2010,8.4
+34281,"Scranton--Wilkes-Barre--Hazleton, PA",2018,5.2
+34294,"Scranton--Wilkes-Barre--Hazleton, PA",2017,5.7
+34307,"Scranton--Wilkes-Barre--Hazleton, PA",2016,6.0
+34320,"Scranton--Wilkes-Barre--Hazleton, PA",2015,6.3
+34333,"Scranton--Wilkes-Barre--Hazleton, PA",2014,7.1
+34346,"Scranton--Wilkes-Barre--Hazleton, PA",2013,8.6
+34359,"Scranton--Wilkes-Barre--Hazleton, PA",2012,9.2
+34372,"Scranton--Wilkes-Barre--Hazleton, PA",2011,9.1
+34385,"Scranton--Wilkes-Barre--Hazleton, PA",2010,9.2
+34398,"State College, PA",2018,3.4
+34411,"State College, PA",2017,3.8
+34424,"State College, PA",2016,4.1
+34437,"State College, PA",2015,4.0
+34450,"State College, PA",2014,4.3
+34463,"State College, PA",2013,5.1
+34476,"State College, PA",2012,5.4
+34489,"State College, PA",2011,5.3
+34502,"State College, PA",2010,5.8
+34515,"Williamsport, PA",2018,5.0
+34528,"Williamsport, PA",2017,5.7
+34541,"Williamsport, PA",2016,6.6
+34554,"Williamsport, PA",2015,6.2
+34567,"Williamsport, PA",2014,6.2
+34580,"Williamsport, PA",2013,7.6
+34593,"Williamsport, PA",2012,7.7
+34606,"Williamsport, PA",2011,7.6
+34619,"Williamsport, PA",2010,8.7
+34632,"York-Hanover, PA",2018,4.0
+34645,"York-Hanover, PA",2017,4.4
+34658,"York-Hanover, PA",2016,4.6
+34671,"York-Hanover, PA",2015,4.8
+34684,"York-Hanover, PA",2014,5.5
+34697,"York-Hanover, PA",2013,6.5
+34710,"York-Hanover, PA",2012,7.3
+34723,"York-Hanover, PA",2011,7.3
+34736,"York-Hanover, PA",2010,8.2
+34749,"Providence-Warwick, RI-MA ",2018,4.1
+34762,"Providence-Warwick, RI-MA ",2017,4.5
+34775,"Providence-Warwick, RI-MA ",2016,5.1
+34788,"Providence-Warwick, RI-MA ",2015,6.0
+34801,"Providence-Warwick, RI-MA ",2014,7.6
+34814,"Providence-Warwick, RI-MA ",2013,9.2
+34827,"Providence-Warwick, RI-MA ",2012,9.9
+34840,"Providence-Warwick, RI-MA ",2011,10.7
+34853,"Providence-Warwick, RI-MA ",2010,11.4
+34866,"Charleston-North Charleston, SC",2018,2.9
+34879,"Charleston-North Charleston, SC",2017,3.6
+34892,"Charleston-North Charleston, SC",2016,4.2
+34905,"Charleston-North Charleston, SC",2015,5.1
+34918,"Charleston-North Charleston, SC",2014,5.4
+34931,"Charleston-North Charleston, SC",2013,6.1
+34944,"Charleston-North Charleston, SC",2012,7.4
+34957,"Charleston-North Charleston, SC",2011,8.7
+34970,"Charleston-North Charleston, SC",2010,9.4
+34983,"Columbia, SC",2018,3.3
+34996,"Columbia, SC",2017,4.0
+35009,"Columbia, SC",2016,4.5
+35022,"Columbia, SC",2015,5.4
+35035,"Columbia, SC",2014,5.6
+35048,"Columbia, SC",2013,6.5
+35061,"Columbia, SC",2012,7.9
+35074,"Columbia, SC",2011,9.0
+35087,"Columbia, SC",2010,9.5
+35100,"Florence, SC",2018,3.7
+35113,"Florence, SC",2017,4.7
+35126,"Florence, SC",2016,5.5
+35139,"Florence, SC",2015,6.7
+35152,"Florence, SC",2014,7.3
+35165,"Florence, SC",2013,8.4
+35178,"Florence, SC",2012,9.9
+35191,"Florence, SC",2011,11.6
+35204,"Florence, SC",2010,12.1
+35217,"Greenville-Anderson-Mauldin, SC",2018,3.0
+35230,"Greenville-Anderson-Mauldin, SC",2017,3.8
+35243,"Greenville-Anderson-Mauldin, SC",2016,4.4
+35256,"Greenville-Anderson-Mauldin, SC",2015,5.2
+35269,"Greenville-Anderson-Mauldin, SC",2014,5.6
+35282,"Greenville-Anderson-Mauldin, SC",2013,6.5
+35295,"Greenville-Anderson-Mauldin, SC",2012,8.0
+35308,"Greenville-Anderson-Mauldin, SC",2011,9.3
+35321,"Greenville-Anderson-Mauldin, SC",2010,10.6
+35334,"Hilton Head Island-Bluffton-Beaufort, SC",2018,3.2
+35347,"Hilton Head Island-Bluffton-Beaufort, SC",2017,4.0
+35360,"Hilton Head Island-Bluffton-Beaufort, SC",2016,4.6
+35373,"Hilton Head Island-Bluffton-Beaufort, SC",2015,5.4
+35386,"Hilton Head Island-Bluffton-Beaufort, SC",2014,5.5
+35399,"Hilton Head Island-Bluffton-Beaufort, SC",2013,6.3
+35412,"Hilton Head Island-Bluffton-Beaufort, SC",2012,7.5
+35425,"Hilton Head Island-Bluffton-Beaufort, SC",2011,8.7
+35438,"Hilton Head Island-Bluffton-Beaufort, SC",2010,8.9
+35451,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2018,4.5
+35464,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2017,5.1
+35477,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2016,5.9
+35490,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2015,7.1
+35503,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2014,7.3
+35516,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2013,8.7
+35529,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2012,10.5
+35542,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2011,11.9
+35555,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2010,12.4
+35568,"Spartanburg, SC",2018,3.1
+35581,"Spartanburg, SC",2017,4.1
+35594,"Spartanburg, SC",2016,4.7
+35607,"Spartanburg, SC",2015,5.8
+35620,"Spartanburg, SC",2014,6.3
+35633,"Spartanburg, SC",2013,7.8
+35646,"Spartanburg, SC",2012,9.6
+35659,"Spartanburg, SC",2011,11.2
+35672,"Spartanburg, SC",2010,12.5
+35685,"Sumter, SC",2018,4.0
+35698,"Sumter, SC",2017,5.1
+35711,"Sumter, SC",2016,5.8
+35724,"Sumter, SC",2015,6.8
+35737,"Sumter, SC",2014,7.1
+35750,"Sumter, SC",2013,8.5
+35763,"Sumter, SC",2012,10.4
+35776,"Sumter, SC",2011,11.9
+35789,"Sumter, SC",2010,12.6
+35802,"Rapid City, SD",2018,2.9
+35815,"Rapid City, SD",2017,3.2
+35828,"Rapid City, SD",2016,3.2
+35841,"Rapid City, SD",2015,3.2
+35854,"Rapid City, SD",2014,3.4
+35867,"Rapid City, SD",2013,3.9
+35880,"Rapid City, SD",2012,4.2
+35893,"Rapid City, SD",2011,4.7
+35906,"Rapid City, SD",2010,5.2
+35919,"Sioux Falls, SD",2018,2.4
+35932,"Sioux Falls, SD",2017,2.6
+35945,"Sioux Falls, SD",2016,2.5
+35958,"Sioux Falls, SD",2015,2.6
+35971,"Sioux Falls, SD",2014,2.8
+35984,"Sioux Falls, SD",2013,3.1
+35997,"Sioux Falls, SD",2012,3.6
+36010,"Sioux Falls, SD",2011,4.2
+36023,"Sioux Falls, SD",2010,4.7
+36036,"Chattanooga, TN-GA",2018,3.5
+36049,"Chattanooga, TN-GA",2017,3.9
+36062,"Chattanooga, TN-GA",2016,4.9
+36075,"Chattanooga, TN-GA",2015,5.5
+36088,"Chattanooga, TN-GA",2014,6.4
+36101,"Chattanooga, TN-GA",2013,7.3
+36114,"Chattanooga, TN-GA",2012,7.4
+36127,"Chattanooga, TN-GA",2011,8.3
+36140,"Chattanooga, TN-GA",2010,9.0
+36153,"Clarksville, TN-KY",2018,4.2
+36166,"Clarksville, TN-KY",2017,4.6
+36179,"Clarksville, TN-KY",2016,5.3
+36192,"Clarksville, TN-KY",2015,5.9
+36205,"Clarksville, TN-KY",2014,6.9
+36218,"Clarksville, TN-KY",2013,8.0
+36231,"Clarksville, TN-KY",2012,8.2
+36244,"Clarksville, TN-KY",2011,9.3
+36257,"Clarksville, TN-KY",2010,9.8
+36270,"Cleveland, TN",2018,3.7
+36283,"Cleveland, TN",2017,3.8
+36296,"Cleveland, TN",2016,4.6
+36309,"Cleveland, TN",2015,5.4
+36322,"Cleveland, TN",2014,6.3
+36335,"Cleveland, TN",2013,7.4
+36348,"Cleveland, TN",2012,7.8
+36361,"Cleveland, TN",2011,9.3
+36374,"Cleveland, TN",2010,9.8
+36387,"Jackson, TN",2018,3.8
+36400,"Jackson, TN",2017,4.0
+36413,"Jackson, TN",2016,4.9
+36426,"Jackson, TN",2015,5.9
+36439,"Jackson, TN",2014,6.9
+36452,"Jackson, TN",2013,8.2
+36465,"Jackson, TN",2012,8.4
+36478,"Jackson, TN",2011,9.6
+36491,"Jackson, TN",2010,10.4
+36504,"Johnson City, TN",2018,3.8
+36517,"Johnson City, TN",2017,4.1
+36530,"Johnson City, TN",2016,5.2
+36543,"Johnson City, TN",2015,5.9
+36556,"Johnson City, TN",2014,6.9
+36569,"Johnson City, TN",2013,8.0
+36582,"Johnson City, TN",2012,8.0
+36595,"Johnson City, TN",2011,9.0
+36608,"Johnson City, TN",2010,9.8
+36621,"Kingsport-Bristol-Bristol, TN-VA",2018,3.6
+36634,"Kingsport-Bristol-Bristol, TN-VA",2017,4.1
+36647,"Kingsport-Bristol-Bristol, TN-VA",2016,5.0
+36660,"Kingsport-Bristol-Bristol, TN-VA",2015,5.6
+36673,"Kingsport-Bristol-Bristol, TN-VA",2014,6.5
+36686,"Kingsport-Bristol-Bristol, TN-VA",2013,7.4
+36699,"Kingsport-Bristol-Bristol, TN-VA",2012,7.6
+36712,"Kingsport-Bristol-Bristol, TN-VA",2011,8.4
+36725,"Kingsport-Bristol-Bristol, TN-VA",2010,9.3
+36738,"Knoxville, TN",2018,3.3
+36751,"Knoxville, TN",2017,3.5
+36764,"Knoxville, TN",2016,4.5
+36777,"Knoxville, TN",2015,5.2
+36790,"Knoxville, TN",2014,6.2
+36803,"Knoxville, TN",2013,7.2
+36816,"Knoxville, TN",2012,7.2
+36829,"Knoxville, TN",2011,8.0
+36842,"Knoxville, TN",2010,8.6
+36855,"Memphis, TN-MS-AR",2018,4.2
+36868,"Memphis, TN-MS-AR",2017,4.3
+36881,"Memphis, TN-MS-AR",2016,5.2
+36894,"Memphis, TN-MS-AR",2015,6.2
+36907,"Memphis, TN-MS-AR",2014,7.4
+36920,"Memphis, TN-MS-AR",2013,8.5
+36933,"Memphis, TN-MS-AR",2012,8.5
+36946,"Memphis, TN-MS-AR",2011,9.5
+36959,"Memphis, TN-MS-AR",2010,9.8
+36972,"Morristown, TN",2018,3.8
+36985,"Morristown, TN",2017,4.0
+36998,"Morristown, TN",2016,5.2
+37011,"Morristown, TN",2015,6.2
+37024,"Morristown, TN",2014,7.4
+37037,"Morristown, TN",2013,9.1
+37050,"Morristown, TN",2012,9.5
+37063,"Morristown, TN",2011,10.8
+37076,"Morristown, TN",2010,11.7
+37089,"Nashville-Davidson--Murfreesboro--Franklin, TN",2018,2.7
+37102,"Nashville-Davidson--Murfreesboro--Franklin, TN",2017,2.9
+37115,"Nashville-Davidson--Murfreesboro--Franklin, TN",2016,3.8
+37128,"Nashville-Davidson--Murfreesboro--Franklin, TN",2015,4.5
+37141,"Nashville-Davidson--Murfreesboro--Franklin, TN",2014,5.2
+37154,"Nashville-Davidson--Murfreesboro--Franklin, TN",2013,6.2
+37167,"Nashville-Davidson--Murfreesboro--Franklin, TN",2012,6.6
+37180,"Nashville-Davidson--Murfreesboro--Franklin, TN",2011,7.9
+37193,"Nashville-Davidson--Murfreesboro--Franklin, TN",2010,8.8
+37206,"Abilene, TX",2018,3.3
+37219,"Abilene, TX",2017,3.7
+37232,"Abilene, TX",2016,3.9
+37245,"Abilene, TX",2015,3.9
+37258,"Abilene, TX",2014,4.4
+37271,"Abilene, TX",2013,5.5
+37284,"Abilene, TX",2012,5.8
+37297,"Abilene, TX",2011,7.0
+37310,"Abilene, TX",2010,7.0
+37323,"Amarillo, TX",2018,2.8
+37336,"Amarillo, TX",2017,3.0
+37349,"Amarillo, TX",2016,3.1
+37362,"Amarillo, TX",2015,3.1
+37375,"Amarillo, TX",2014,3.7
+37388,"Amarillo, TX",2013,4.7
+37401,"Amarillo, TX",2012,4.8
+37414,"Amarillo, TX",2011,5.6
+37427,"Amarillo, TX",2010,5.7
+37440,"Austin-Round Rock, TX",2018,3.0
+37453,"Austin-Round Rock, TX",2017,3.2
+37466,"Austin-Round Rock, TX",2016,3.3
+37479,"Austin-Round Rock, TX",2015,3.4
+37492,"Austin-Round Rock, TX",2014,4.3
+37505,"Austin-Round Rock, TX",2013,5.2
+37518,"Austin-Round Rock, TX",2012,5.6
+37531,"Austin-Round Rock, TX",2011,6.8
+37544,"Austin-Round Rock, TX",2010,7.0
+37557,"Beaumont-Port Arthur, TX",2018,6.1
+37570,"Beaumont-Port Arthur, TX",2017,7.2
+37583,"Beaumont-Port Arthur, TX",2016,6.8
+37596,"Beaumont-Port Arthur, TX",2015,6.8
+37609,"Beaumont-Port Arthur, TX",2014,8.0
+37622,"Beaumont-Port Arthur, TX",2013,10.4
+37635,"Beaumont-Port Arthur, TX",2012,10.5
+37648,"Beaumont-Port Arthur, TX",2011,11.6
+37661,"Beaumont-Port Arthur, TX",2010,11.3
+37674,"Brownsville-Harlingen, TX",2018,6.2
+37687,"Brownsville-Harlingen, TX",2017,7.0
+37700,"Brownsville-Harlingen, TX",2016,7.2
+37713,"Brownsville-Harlingen, TX",2015,7.2
+37726,"Brownsville-Harlingen, TX",2014,8.4
+37739,"Brownsville-Harlingen, TX",2013,10.0
+37752,"Brownsville-Harlingen, TX",2012,10.2
+37765,"Brownsville-Harlingen, TX",2011,11.8
+37778,"Brownsville-Harlingen, TX",2010,11.2
+37791,"College Station-Bryan, TX",2018,3.0
+37804,"College Station-Bryan, TX",2017,3.3
+37817,"College Station-Bryan, TX",2016,3.6
+37830,"College Station-Bryan, TX",2015,3.5
+37843,"College Station-Bryan, TX",2014,4.2
+37856,"College Station-Bryan, TX",2013,5.2
+37869,"College Station-Bryan, TX",2012,5.5
+37882,"College Station-Bryan, TX",2011,6.5
+37895,"College Station-Bryan, TX",2010,6.6
+37908,"Corpus Christi, TX",2018,5.0
+37921,"Corpus Christi, TX",2017,5.9
+37934,"Corpus Christi, TX",2016,5.9
+37947,"Corpus Christi, TX",2015,5.2
+37960,"Corpus Christi, TX",2014,5.4
+37973,"Corpus Christi, TX",2013,6.3
+37986,"Corpus Christi, TX",2012,6.7
+37999,"Corpus Christi, TX",2011,8.5
+38012,"Corpus Christi, TX",2010,8.6
+38025,"Dallas-Fort Worth-Arlington, TX",2018,3.6
+38038,"Dallas-Fort Worth-Arlington, TX",2017,3.7
+38051,"Dallas-Fort Worth-Arlington, TX",2016,3.9
+38064,"Dallas-Fort Worth-Arlington, TX",2015,4.1
+38077,"Dallas-Fort Worth-Arlington, TX",2014,5.1
+38090,"Dallas-Fort Worth-Arlington, TX",2013,6.2
+38103,"Dallas-Fort Worth-Arlington, TX",2012,6.5
+38116,"Dallas-Fort Worth-Arlington, TX",2011,7.8
+38129,"Dallas-Fort Worth-Arlington, TX",2010,8.1
+38142,"El Paso, TX",2018,4.3
+38155,"El Paso, TX",2017,4.7
+38168,"El Paso, TX",2016,5.0
+38181,"El Paso, TX",2015,5.2
+38194,"El Paso, TX",2014,6.5
+38207,"El Paso, TX",2013,8.0
+38220,"El Paso, TX",2012,8.5
+38233,"El Paso, TX",2011,9.8
+38246,"El Paso, TX",2010,9.2
+38259,"Houston-The Woodlands-Sugar Land, TX",2018,4.4
+38272,"Houston-The Woodlands-Sugar Land, TX",2017,5.1
+38285,"Houston-The Woodlands-Sugar Land, TX",2016,5.3
+38298,"Houston-The Woodlands-Sugar Land, TX",2015,4.6
+38311,"Houston-The Woodlands-Sugar Land, TX",2014,5.0
+38324,"Houston-The Woodlands-Sugar Land, TX",2013,6.1
+38337,"Houston-The Woodlands-Sugar Land, TX",2012,6.6
+38350,"Houston-The Woodlands-Sugar Land, TX",2011,8.1
+38363,"Houston-The Woodlands-Sugar Land, TX",2010,8.3
+38376,"Killeen-Temple, TX",2018,4.2
+38389,"Killeen-Temple, TX",2017,4.3
+38402,"Killeen-Temple, TX",2016,4.5
+38415,"Killeen-Temple, TX",2015,4.7
+38428,"Killeen-Temple, TX",2014,5.9
+38441,"Killeen-Temple, TX",2013,7.0
+38454,"Killeen-Temple, TX",2012,7.3
+38467,"Killeen-Temple, TX",2011,8.2
+38480,"Killeen-Temple, TX",2010,7.7
+38493,"Laredo, TX",2018,3.8
+38506,"Laredo, TX",2017,4.2
+38519,"Laredo, TX",2016,4.9
+38532,"Laredo, TX",2015,4.8
+38545,"Laredo, TX",2014,5.2
+38558,"Laredo, TX",2013,6.2
+38571,"Laredo, TX",2012,6.4
+38584,"Laredo, TX",2011,7.7
+38597,"Laredo, TX",2010,8.3
+38610,"Longview, TX",2018,4.2
+38623,"Longview, TX",2017,5.2
+38636,"Longview, TX",2016,6.1
+38649,"Longview, TX",2015,5.0
+38662,"Longview, TX",2014,5.0
+38675,"Longview, TX",2013,6.1
+38688,"Longview, TX",2012,6.3
+38701,"Longview, TX",2011,7.5
+38714,"Longview, TX",2010,8.1
+38727,"Lubbock, TX",2018,3.1
+38740,"Lubbock, TX",2017,3.2
+38753,"Lubbock, TX",2016,3.4
+38766,"Lubbock, TX",2015,3.5
+38779,"Lubbock, TX",2014,4.0
+38792,"Lubbock, TX",2013,5.0
+38805,"Lubbock, TX",2012,5.4
+38818,"Lubbock, TX",2011,6.3
+38831,"Lubbock, TX",2010,6.3
+38844,"McAllen-Edinburg-Mission, TX",2018,6.6
+38857,"McAllen-Edinburg-Mission, TX",2017,7.5
+38870,"McAllen-Edinburg-Mission, TX",2016,7.8
+38883,"McAllen-Edinburg-Mission, TX",2015,8.0
+38896,"McAllen-Edinburg-Mission, TX",2014,8.9
+38909,"McAllen-Edinburg-Mission, TX",2013,10.4
+38922,"McAllen-Edinburg-Mission, TX",2012,10.5
+38935,"McAllen-Edinburg-Mission, TX",2011,11.9
+38948,"McAllen-Edinburg-Mission, TX",2010,11.8
+38961,"Midland, TX",2018,2.2
+38974,"Midland, TX",2017,3.0
+38987,"Midland, TX",2016,4.4
+39000,"Midland, TX",2015,3.5
+39013,"Midland, TX",2014,2.9
+39026,"Midland, TX",2013,3.7
+39039,"Midland, TX",2012,3.9
+39052,"Midland, TX",2011,4.9
+39065,"Midland, TX",2010,5.9
+39078,"Odessa, TX",2018,2.7
+39091,"Odessa, TX",2017,4.1
+39104,"Odessa, TX",2016,6.4
+39117,"Odessa, TX",2015,4.7
+39130,"Odessa, TX",2014,3.5
+39143,"Odessa, TX",2013,4.4
+39156,"Odessa, TX",2012,4.6
+39169,"Odessa, TX",2011,6.3
+39182,"Odessa, TX",2010,8.4
+39195,"San Angelo, TX",2018,3.2
+39208,"San Angelo, TX",2017,3.7
+39221,"San Angelo, TX",2016,4.5
+39234,"San Angelo, TX",2015,4.1
+39247,"San Angelo, TX",2014,4.1
+39260,"San Angelo, TX",2013,5.2
+39273,"San Angelo, TX",2012,5.3
+39286,"San Angelo, TX",2011,6.4
+39299,"San Angelo, TX",2010,6.6
+39312,"San Antonio-New Braunfels, TX",2018,3.3
+39325,"San Antonio-New Braunfels, TX",2017,3.6
+39338,"San Antonio-New Braunfels, TX",2016,3.8
+39351,"San Antonio-New Braunfels, TX",2015,3.8
+39364,"San Antonio-New Braunfels, TX",2014,4.7
+39377,"San Antonio-New Braunfels, TX",2013,5.8
+39390,"San Antonio-New Braunfels, TX",2012,6.2
+39403,"San Antonio-New Braunfels, TX",2011,7.4
+39416,"San Antonio-New Braunfels, TX",2010,7.3
+39429,"Sherman-Denison, TX",2018,3.3
+39442,"Sherman-Denison, TX",2017,3.6
+39455,"Sherman-Denison, TX",2016,3.9
+39468,"Sherman-Denison, TX",2015,4.1
+39481,"Sherman-Denison, TX",2014,4.9
+39494,"Sherman-Denison, TX",2013,6.3
+39507,"Sherman-Denison, TX",2012,6.8
+39520,"Sherman-Denison, TX",2011,8.1
+39533,"Sherman-Denison, TX",2010,8.2
+39546,"Texarkana, TX-AR",2018,4.9
+39559,"Texarkana, TX-AR",2017,4.6
+39572,"Texarkana, TX-AR",2016,4.6
+39585,"Texarkana, TX-AR",2015,4.9
+39598,"Texarkana, TX-AR",2014,6.2
+39611,"Texarkana, TX-AR",2013,7.2
+39624,"Texarkana, TX-AR",2012,6.9
+39637,"Texarkana, TX-AR",2011,7.7
+39650,"Texarkana, TX-AR",2010,7.5
+39663,"Tyler, TX",2018,3.7
+39676,"Tyler, TX",2017,4.1
+39689,"Tyler, TX",2016,4.5
+39702,"Tyler, TX",2015,4.5
+39715,"Tyler, TX",2014,5.3
+39728,"Tyler, TX",2013,6.6
+39741,"Tyler, TX",2012,7.0
+39754,"Tyler, TX",2011,8.0
+39767,"Tyler, TX",2010,8.0
+39780,"Victoria, TX",2018,3.9
+39793,"Victoria, TX",2017,4.9
+39806,"Victoria, TX",2016,5.5
+39819,"Victoria, TX",2015,4.2
+39832,"Victoria, TX",2014,4.2
+39845,"Victoria, TX",2013,5.4
+39858,"Victoria, TX",2012,5.5
+39871,"Victoria, TX",2011,7.0
+39884,"Victoria, TX",2010,7.7
+39897,"Waco, TX",2018,3.6
+39910,"Waco, TX",2017,3.9
+39923,"Waco, TX",2016,4.0
+39936,"Waco, TX",2015,4.1
+39949,"Waco, TX",2014,5.1
+39962,"Waco, TX",2013,6.3
+39975,"Waco, TX",2012,6.6
+39988,"Waco, TX",2011,7.7
+40001,"Waco, TX",2010,7.5
+40014,"Wichita Falls, TX",2018,3.4
+40027,"Wichita Falls, TX",2017,3.7
+40040,"Wichita Falls, TX",2016,4.4
+40053,"Wichita Falls, TX",2015,4.3
+40066,"Wichita Falls, TX",2014,4.9
+40079,"Wichita Falls, TX",2013,5.8
+40092,"Wichita Falls, TX",2012,6.0
+40105,"Wichita Falls, TX",2011,7.0
+40118,"Wichita Falls, TX",2010,7.7
+40131,"Logan, UT-ID",2018,2.5
+40144,"Logan, UT-ID",2017,2.6
+40157,"Logan, UT-ID",2016,3.0
+40170,"Logan, UT-ID",2015,3.0
+40183,"Logan, UT-ID",2014,3.1
+40196,"Logan, UT-ID",2013,3.7
+40209,"Logan, UT-ID",2012,4.0
+40222,"Logan, UT-ID",2011,5.5
+40235,"Logan, UT-ID",2010,6.1
+40248,"Ogden-Clearfield, UT",2018,3.0
+40261,"Ogden-Clearfield, UT",2017,3.2
+40274,"Ogden-Clearfield, UT",2016,3.3
+40287,"Ogden-Clearfield, UT",2015,3.6
+40300,"Ogden-Clearfield, UT",2014,3.7
+40313,"Ogden-Clearfield, UT",2013,4.4
+40326,"Ogden-Clearfield, UT",2012,4.9
+40339,"Ogden-Clearfield, UT",2011,7.2
+40352,"Ogden-Clearfield, UT",2010,7.9
+40365,"Provo-Orem, UT",2018,2.7
+40378,"Provo-Orem, UT",2017,2.8
+40391,"Provo-Orem, UT",2016,3.0
+40404,"Provo-Orem, UT",2015,3.2
+40417,"Provo-Orem, UT",2014,3.3
+40430,"Provo-Orem, UT",2013,3.9
+40443,"Provo-Orem, UT",2012,4.4
+40456,"Provo-Orem, UT",2011,6.6
+40469,"Provo-Orem, UT",2010,7.6
+40482,"St. George, UT",2018,3.2
+40495,"St. George, UT",2017,3.4
+40508,"St. George, UT",2016,3.6
+40521,"St. George, UT",2015,4.0
+40534,"St. George, UT",2014,4.2
+40547,"St. George, UT",2013,5.1
+40560,"St. George, UT",2012,6.1
+40573,"St. George, UT",2011,9.3
+40586,"St. George, UT",2010,10.6
+40599,"Salt Lake City, UT",2018,2.9
+40612,"Salt Lake City, UT",2017,3.0
+40625,"Salt Lake City, UT",2016,3.1
+40638,"Salt Lake City, UT",2015,3.4
+40651,"Salt Lake City, UT",2014,3.6
+40664,"Salt Lake City, UT",2013,4.1
+40677,"Salt Lake City, UT",2012,4.7
+40690,"Salt Lake City, UT",2011,7.0
+40703,"Salt Lake City, UT",2010,7.8
+40716,"Vermont Burlington-South Burlington, VT ",2018,2.1
+40729,"Vermont Burlington-South Burlington, VT ",2017,2.4
+40742,"Vermont Burlington-South Burlington, VT ",2016,2.5
+40755,"Vermont Burlington-South Burlington, VT ",2015,2.8
+40768,"Vermont Burlington-South Burlington, VT ",2014,3.2
+40781,"Vermont Burlington-South Burlington, VT ",2013,3.6
+40794,"Vermont Burlington-South Burlington, VT ",2012,3.8
+40807,"Vermont Burlington-South Burlington, VT ",2011,4.4
+40820,"Vermont Burlington-South Burlington, VT ",2010,5.2
+40833,"Blacksburg-Christiansburg-Radford, VA",2018,3.1
+40846,"Blacksburg-Christiansburg-Radford, VA",2017,4.2
+40859,"Blacksburg-Christiansburg-Radford, VA",2016,4.6
+40872,"Blacksburg-Christiansburg-Radford, VA",2015,4.6
+40885,"Blacksburg-Christiansburg-Radford, VA",2014,5.4
+40898,"Blacksburg-Christiansburg-Radford, VA",2013,6.1
+40911,"Blacksburg-Christiansburg-Radford, VA",2012,6.4
+40924,"Blacksburg-Christiansburg-Radford, VA",2011,7.1
+40937,"Blacksburg-Christiansburg-Radford, VA",2010,8.4
+40950,"Charlottesville, VA",2018,2.7
+40963,"Charlottesville, VA",2017,3.3
+40976,"Charlottesville, VA",2016,3.5
+40989,"Charlottesville, VA",2015,3.9
+41002,"Charlottesville, VA",2014,4.5
+41015,"Charlottesville, VA",2013,4.9
+41028,"Charlottesville, VA",2012,5.4
+41041,"Charlottesville, VA",2011,5.9
+41054,"Charlottesville, VA",2010,6.6
+41067,"Harrisonburg, VA",2018,2.9
+41080,"Harrisonburg, VA",2017,3.7
+41093,"Harrisonburg, VA",2016,3.9
+41106,"Harrisonburg, VA",2015,4.5
+41119,"Harrisonburg, VA",2014,5.1
+41132,"Harrisonburg, VA",2013,5.6
+41145,"Harrisonburg, VA",2012,6.2
+41158,"Harrisonburg, VA",2011,6.7
+41171,"Harrisonburg, VA",2010,7.5
+41184,"Lynchburg, VA",2018,3.4
+41197,"Lynchburg, VA",2017,4.2
+41210,"Lynchburg, VA",2016,4.5
+41223,"Lynchburg, VA",2015,4.8
+41236,"Lynchburg, VA",2014,5.5
+41249,"Lynchburg, VA",2013,6.1
+41262,"Lynchburg, VA",2012,6.6
+41275,"Lynchburg, VA",2011,7.2
+41288,"Lynchburg, VA",2010,8.0
+41301,"Richmond, VA",2018,3.1
+41314,"Richmond, VA",2017,3.8
+41327,"Richmond, VA",2016,4.1
+41340,"Richmond, VA",2015,4.6
+41353,"Richmond, VA",2014,5.4
+41366,"Richmond, VA",2013,5.9
+41379,"Richmond, VA",2012,6.5
+41392,"Richmond, VA",2011,7.3
+41405,"Richmond, VA",2010,8.2
+41418,"Roanoke, VA",2018,2.9
+41431,"Roanoke, VA",2017,3.7
+41444,"Roanoke, VA",2016,3.9
+41457,"Roanoke, VA",2015,4.4
+41470,"Roanoke, VA",2014,5.1
+41483,"Roanoke, VA",2013,5.7
+41496,"Roanoke, VA",2012,6.1
+41509,"Roanoke, VA",2011,6.8
+41522,"Roanoke, VA",2010,7.7
+41535,"Staunton-Waynesboro, VA",2018,2.8
+41548,"Staunton-Waynesboro, VA",2017,3.5
+41561,"Staunton-Waynesboro, VA",2016,3.7
+41574,"Staunton-Waynesboro, VA",2015,4.2
+41587,"Staunton-Waynesboro, VA",2014,4.8
+41600,"Staunton-Waynesboro, VA",2013,5.4
+41613,"Staunton-Waynesboro, VA",2012,6.0
+41626,"Staunton-Waynesboro, VA",2011,6.8
+41639,"Staunton-Waynesboro, VA",2010,7.8
+41652,"Virginia Beach-Norfolk-Newport News, VA-NC",2018,3.2
+41665,"Virginia Beach-Norfolk-Newport News, VA-NC",2017,4.1
+41678,"Virginia Beach-Norfolk-Newport News, VA-NC",2016,4.5
+41691,"Virginia Beach-Norfolk-Newport News, VA-NC",2015,4.9
+41704,"Virginia Beach-Norfolk-Newport News, VA-NC",2014,5.6
+41717,"Virginia Beach-Norfolk-Newport News, VA-NC",2013,6.1
+41730,"Virginia Beach-Norfolk-Newport News, VA-NC",2012,6.7
+41743,"Virginia Beach-Norfolk-Newport News, VA-NC",2011,7.3
+41756,"Virginia Beach-Norfolk-Newport News, VA-NC",2010,7.8
+41769,"Winchester, VA-WV",2018,2.9
+41782,"Winchester, VA-WV",2017,3.4
+41795,"Winchester, VA-WV",2016,3.7
+41808,"Winchester, VA-WV",2015,4.2
+41821,"Winchester, VA-WV",2014,4.9
+41834,"Winchester, VA-WV",2013,5.5
+41847,"Winchester, VA-WV",2012,6.1
+41860,"Winchester, VA-WV",2011,7.0
+41873,"Winchester, VA-WV",2010,8.0
+41886,"Bellingham, WA",2018,4.7
+41899,"Bellingham, WA",2017,4.9
+41912,"Bellingham, WA",2016,5.7
+41925,"Bellingham, WA",2015,5.8
+41938,"Bellingham, WA",2014,6.4
+41951,"Bellingham, WA",2013,7.3
+41964,"Bellingham, WA",2012,7.5
+41977,"Bellingham, WA",2011,8.1
+41990,"Bellingham, WA",2010,8.6
+42003,"Bremerton-Silverdale, WA",2018,4.6
+42016,"Bremerton-Silverdale, WA",2017,4.8
+42029,"Bremerton-Silverdale, WA",2016,5.5
+42042,"Bremerton-Silverdale, WA",2015,5.4
+42055,"Bremerton-Silverdale, WA",2014,5.9
+42068,"Bremerton-Silverdale, WA",2013,7.1
+42081,"Bremerton-Silverdale, WA",2012,7.2
+42094,"Bremerton-Silverdale, WA",2011,7.5
+42107,"Bremerton-Silverdale, WA",2010,7.8
+42120,"Kennewick-Richland, WA",2018,5.5
+42133,"Kennewick-Richland, WA",2017,5.7
+42146,"Kennewick-Richland, WA",2016,6.5
+42159,"Kennewick-Richland, WA",2015,6.7
+42172,"Kennewick-Richland, WA",2014,7.5
+42185,"Kennewick-Richland, WA",2013,8.9
+42198,"Kennewick-Richland, WA",2012,8.6
+42211,"Kennewick-Richland, WA",2011,7.6
+42224,"Kennewick-Richland, WA",2010,7.3
+42237,"Longview, WA",2018,5.9
+42250,"Longview, WA",2017,6.0
+42263,"Longview, WA",2016,7.1
+42276,"Longview, WA",2015,7.5
+42289,"Longview, WA",2014,7.8
+42302,"Longview, WA",2013,9.6
+42315,"Longview, WA",2012,9.8
+42328,"Longview, WA",2011,10.7
+42341,"Longview, WA",2010,11.7
+42354,"Mount Vernon-Anacortes, WA",2018,5.2
+42367,"Mount Vernon-Anacortes, WA",2017,5.4
+42380,"Mount Vernon-Anacortes, WA",2016,6.4
+42393,"Mount Vernon-Anacortes, WA",2015,6.6
+42406,"Mount Vernon-Anacortes, WA",2014,7.0
+42419,"Mount Vernon-Anacortes, WA",2013,8.4
+42432,"Mount Vernon-Anacortes, WA",2012,8.8
+42445,"Mount Vernon-Anacortes, WA",2011,9.5
+42458,"Mount Vernon-Anacortes, WA",2010,9.9
+42471,"Olympia-Tumwater, WA",2018,4.7
+42484,"Olympia-Tumwater, WA",2017,4.9
+42497,"Olympia-Tumwater, WA",2016,5.6
+42510,"Olympia-Tumwater, WA",2015,5.8
+42523,"Olympia-Tumwater, WA",2014,6.3
+42536,"Olympia-Tumwater, WA",2013,7.4
+42549,"Olympia-Tumwater, WA",2012,7.7
+42562,"Olympia-Tumwater, WA",2011,8.1
+42575,"Olympia-Tumwater, WA",2010,8.1
+42588,"Seattle-Tacoma-Bellevue, WA",2018,3.8
+42601,"Seattle-Tacoma-Bellevue, WA",2017,4.0
+42614,"Seattle-Tacoma-Bellevue, WA",2016,4.3
+42627,"Seattle-Tacoma-Bellevue, WA",2015,4.6
+42640,"Seattle-Tacoma-Bellevue, WA",2014,5.1
+42653,"Seattle-Tacoma-Bellevue, WA",2013,5.3
+42666,"Seattle-Tacoma-Bellevue, WA",2012,7.0
+42679,"Seattle-Tacoma-Bellevue, WA",2011,8.2
+42692,"Seattle-Tacoma-Bellevue, WA",2010,8.9
+42705,"Spokane-Spokane Valley, WA",2018,5.3
+42718,"Spokane-Spokane Valley, WA",2017,5.5
+42731,"Spokane-Spokane Valley, WA",2016,6.2
+42744,"Spokane-Spokane Valley, WA",2015,6.5
+42757,"Spokane-Spokane Valley, WA",2014,7.0
+42770,"Spokane-Spokane Valley, WA",2013,8.2
+42783,"Spokane-Spokane Valley, WA",2012,8.5
+42796,"Spokane-Spokane Valley, WA",2011,8.9
+42809,"Spokane-Spokane Valley, WA",2010,9.4
+42822,"Walla Walla, WA",2018,4.7
+42835,"Walla Walla, WA",2017,4.9
+42848,"Walla Walla, WA",2016,5.4
+42861,"Walla Walla, WA",2015,5.7
+42874,"Walla Walla, WA",2014,6.0
+42887,"Walla Walla, WA",2013,7.0
+42900,"Walla Walla, WA",2012,6.9
+42913,"Walla Walla, WA",2011,7.2
+42926,"Walla Walla, WA",2010,7.3
+42939,"Wenatchee, WA",2018,4.8
+42952,"Wenatchee, WA",2017,5.0
+42965,"Wenatchee, WA",2016,6.0
+42978,"Wenatchee, WA",2015,5.7
+42991,"Wenatchee, WA",2014,6.3
+43004,"Wenatchee, WA",2013,7.4
+43017,"Wenatchee, WA",2012,7.6
+43030,"Wenatchee, WA",2011,7.9
+43043,"Wenatchee, WA",2010,8.3
+43056,"Yakima, WA",2018,6.3
+43069,"Yakima, WA",2017,6.7
+43082,"Yakima, WA",2016,7.4
+43095,"Yakima, WA",2015,7.8
+43108,"Yakima, WA",2014,8.4
+43121,"Yakima, WA",2013,9.8
+43134,"Yakima, WA",2012,9.7
+43147,"Yakima, WA",2011,9.7
+43160,"Yakima, WA",2010,9.6
+43173,"Beckley, WV",2018,5.5
+43186,"Beckley, WV",2017,5.7
+43199,"Beckley, WV",2016,7.3
+43212,"Beckley, WV",2015,7.6
+43225,"Beckley, WV",2014,7.5
+43238,"Beckley, WV",2013,7.7
+43251,"Beckley, WV",2012,7.5
+43264,"Beckley, WV",2011,7.6
+43277,"Beckley, WV",2010,8.8
+43290,"Charleston, WV",2018,5.3
+43303,"Charleston, WV",2017,5.3
+43316,"Charleston, WV",2016,5.9
+43329,"Charleston, WV",2015,6.3
+43342,"Charleston, WV",2014,6.2
+43355,"Charleston, WV",2013,6.4
+43368,"Charleston, WV",2012,6.9
+43381,"Charleston, WV",2011,7.2
+43394,"Charleston, WV",2010,7.7
+43407,"Huntington-Ashland, WV-KY-OH",2018,5.4
+43420,"Huntington-Ashland, WV-KY-OH",2017,5.6
+43433,"Huntington-Ashland, WV-KY-OH",2016,6.2
+43446,"Huntington-Ashland, WV-KY-OH",2015,6.2
+43459,"Huntington-Ashland, WV-KY-OH",2014,6.5
+43472,"Huntington-Ashland, WV-KY-OH",2013,7.4
+43485,"Huntington-Ashland, WV-KY-OH",2012,7.7
+43498,"Huntington-Ashland, WV-KY-OH",2011,8.5
+43511,"Huntington-Ashland, WV-KY-OH",2010,9.0
+43524,"Morgantown, WV",2018,4.3
+43537,"Morgantown, WV",2017,4.0
+43550,"Morgantown, WV",2016,4.7
+43563,"Morgantown, WV",2015,4.9
+43576,"Morgantown, WV",2014,4.7
+43589,"Morgantown, WV",2013,4.9
+43602,"Morgantown, WV",2012,5.4
+43615,"Morgantown, WV",2011,5.9
+43628,"Morgantown, WV",2010,6.2
+43641,"Parkersburg-Vienna, WV",2018,5.5
+43654,"Parkersburg-Vienna, WV",2017,5.6
+43667,"Parkersburg-Vienna, WV",2016,5.9
+43680,"Parkersburg-Vienna, WV",2015,6.4
+43693,"Parkersburg-Vienna, WV",2014,6.0
+43706,"Parkersburg-Vienna, WV",2013,6.4
+43719,"Parkersburg-Vienna, WV",2012,7.2
+43732,"Parkersburg-Vienna, WV",2011,8.2
+43745,"Parkersburg-Vienna, WV",2010,9.1
+43758,"Wheeling, WV-OH",2018,5.2
+43771,"Wheeling, WV-OH",2017,5.7
+43784,"Wheeling, WV-OH",2016,7.0
+43797,"Wheeling, WV-OH",2015,6.5
+43810,"Wheeling, WV-OH",2014,6.5
+43823,"Wheeling, WV-OH",2013,7.2
+43836,"Wheeling, WV-OH",2012,7.5
+43849,"Wheeling, WV-OH",2011,8.6
+43862,"Wheeling, WV-OH",2010,9.9
+43875,"Appleton, WI",2018,2.7
+43888,"Appleton, WI",2017,2.9
+43901,"Appleton, WI",2016,3.4
+43914,"Appleton, WI",2015,3.8
+43927,"Appleton, WI",2014,4.6
+43940,"Appleton, WI",2013,5.9
+43953,"Appleton, WI",2012,6.1
+43966,"Appleton, WI",2011,6.6
+43979,"Appleton, WI",2010,7.7
+43992,"Eau Claire, WI",2018,2.8
+44005,"Eau Claire, WI",2017,3.1
+44018,"Eau Claire, WI",2016,3.6
+44031,"Eau Claire, WI",2015,4.0
+44044,"Eau Claire, WI",2014,4.7
+44057,"Eau Claire, WI",2013,6.0
+44070,"Eau Claire, WI",2012,6.1
+44083,"Eau Claire, WI",2011,6.7
+44096,"Eau Claire, WI",2010,7.4
+44109,"Fond du Lac, WI",2018,2.6
+44122,"Fond du Lac, WI",2017,2.8
+44135,"Fond du Lac, WI",2016,3.4
+44148,"Fond du Lac, WI",2015,4.0
+44161,"Fond du Lac, WI",2014,4.8
+44174,"Fond du Lac, WI",2013,6.1
+44187,"Fond du Lac, WI",2012,6.4
+44200,"Fond du Lac, WI",2011,7.1
+44213,"Fond du Lac, WI",2010,8.3
+44226,"Green Bay, WI",2018,2.8
+44239,"Green Bay, WI",2017,3.0
+44252,"Green Bay, WI",2016,3.6
+44265,"Green Bay, WI",2015,4.1
+44278,"Green Bay, WI",2014,4.9
+44291,"Green Bay, WI",2013,6.3
+44304,"Green Bay, WI",2012,6.7
+44317,"Green Bay, WI",2011,7.3
+44330,"Green Bay, WI",2010,8.1
+44343,"Janesville-Beloit, WI",2018,3.2
+44356,"Janesville-Beloit, WI",2017,3.7
+44369,"Janesville-Beloit, WI",2016,4.3
+44382,"Janesville-Beloit, WI",2015,5.1
+44395,"Janesville-Beloit, WI",2014,6.0
+44408,"Janesville-Beloit, WI",2013,7.7
+44421,"Janesville-Beloit, WI",2012,8.2
+44434,"Janesville-Beloit, WI",2011,9.3
+44447,"Janesville-Beloit, WI",2010,11.1
+44460,"La Crosse-On, WI-MN",2018,2.7
+44473,"La Crosse-On, WI-MN",2017,3.0
+44486,"La Crosse-On, WI-MN",2016,3.6
+44499,"La Crosse-On, WI-MN",2015,3.8
+44512,"La Crosse-On, WI-MN",2014,4.3
+44525,"La Crosse-On, WI-MN",2013,5.2
+44538,"La Crosse-On, WI-MN",2012,5.4
+44551,"La Crosse-On, WI-MN",2011,6.0
+44564,"La Crosse-On, WI-MN",2010,6.7
+44577,"Madison, WI",2018,2.3
+44590,"Madison, WI",2017,2.5
+44603,"Madison, WI",2016,2.9
+44616,"Madison, WI",2015,3.3
+44629,"Madison, WI",2014,3.9
+44642,"Madison, WI",2013,4.9
+44655,"Madison, WI",2012,5.1
+44668,"Madison, WI",2011,5.6
+44681,"Madison, WI",2010,6.3
+44694,"Milwaukee-Waukesha-West Allis, WI",2018,3.2
+44707,"Milwaukee-Waukesha-West Allis, WI",2017,3.5
+44720,"Milwaukee-Waukesha-West Allis, WI",2016,4.2
+44733,"Milwaukee-Waukesha-West Allis, WI",2015,4.8
+44746,"Milwaukee-Waukesha-West Allis, WI",2014,5.8
+44759,"Milwaukee-Waukesha-West Allis, WI",2013,7.1
+44772,"Milwaukee-Waukesha-West Allis, WI",2012,7.3
+44785,"Milwaukee-Waukesha-West Allis, WI",2011,7.9
+44798,"Milwaukee-Waukesha-West Allis, WI",2010,8.8
+44811,"Oshkosh-Neenah, WI",2018,2.7
+44824,"Oshkosh-Neenah, WI",2017,3.0
+44837,"Oshkosh-Neenah, WI",2016,3.5
+44850,"Oshkosh-Neenah, WI",2015,4.1
+44863,"Oshkosh-Neenah, WI",2014,5.1
+44876,"Oshkosh-Neenah, WI",2013,6.3
+44889,"Oshkosh-Neenah, WI",2012,6.6
+44902,"Oshkosh-Neenah, WI",2011,6.9
+44915,"Oshkosh-Neenah, WI",2010,7.6
+44928,"Racine, WI",2018,3.6
+44941,"Racine, WI",2017,4.0
+44954,"Racine, WI",2016,4.8
+44967,"Racine, WI",2015,5.5
+44980,"Racine, WI",2014,6.5
+44993,"Racine, WI",2013,8.3
+45006,"Racine, WI",2012,8.2
+45019,"Racine, WI",2011,8.8
+45032,"Racine, WI",2010,10.0
+45045,"Sheboygan, WI",2018,2.5
+45058,"Sheboygan, WI",2017,2.8
+45071,"Sheboygan, WI",2016,3.3
+45084,"Sheboygan, WI",2015,3.7
+45097,"Sheboygan, WI",2014,4.5
+45110,"Sheboygan, WI",2013,6.0
+45123,"Sheboygan, WI",2012,6.7
+45136,"Sheboygan, WI",2011,8.0
+45149,"Sheboygan, WI",2010,9.1
+45162,"Wausau, WI",2018,2.6
+45175,"Wausau, WI",2017,2.9
+45188,"Wausau, WI",2016,3.5
+45201,"Wausau, WI",2015,3.9
+45214,"Wausau, WI",2014,5.0
+45227,"Wausau, WI",2013,6.7
+45240,"Wausau, WI",2012,7.2
+45253,"Wausau, WI",2011,7.7
+45266,"Wausau, WI",2010,9.1
+45279,"Casper, WY",2018,4.6
+45292,"Casper, WY",2017,5.4
+45305,"Casper, WY",2016,7.2
+45318,"Casper, WY",2015,4.8
+45331,"Casper, WY",2014,4.2
+45344,"Casper, WY",2013,4.6
+45357,"Casper, WY",2012,5.2
+45370,"Casper, WY",2011,6.4
+45383,"Casper, WY",2010,7.5
+45396,"Cheyenne, WY",2018,3.9
+45409,"Cheyenne, WY",2017,3.8
+45422,"Cheyenne, WY",2016,4.2
+45435,"Cheyenne, WY",2015,3.9
+45448,"Cheyenne, WY",2014,4.5
+45461,"Cheyenne, WY",2013,4.8
+45474,"Cheyenne, WY",2012,5.9
+45487,"Cheyenne, WY",2011,6.6
+45500,"Cheyenne, WY",2010,7.2
+45513,"Aguadilla-Isabela, PR",2018,12.2
+45526,"Aguadilla-Isabela, PR",2017,14.7
+45539,"Aguadilla-Isabela, PR",2016,15.5
+45552,"Aguadilla-Isabela, PR",2015,15.4
+45565,"Aguadilla-Isabela, PR",2014,18.4
+45578,"Aguadilla-Isabela, PR",2013,19.7
+45591,"Aguadilla-Isabela, PR",2012,19.0
+45604,"Aguadilla-Isabela, PR",2011,20.2
+45617,"Aguadilla-Isabela, PR",2010,20.2
+45630,"Arecibo, PR",2018,11.3
+45643,"Arecibo, PR",2017,12.7
+45656,"Arecibo, PR",2016,13.9
+45669,"Arecibo, PR",2015,14.5
+45682,"Arecibo, PR",2014,15.9
+45695,"Arecibo, PR",2013,16.0
+45708,"Arecibo, PR",2012,16.0
+45721,"Arecibo, PR",2011,17.4
+45734,"Arecibo, PR",2010,17.5
+45747,"Guayama, PR",2018,14.3
+45760,"Guayama, PR",2017,17.0
+45773,"Guayama, PR",2016,17.8
+45786,"Guayama, PR",2015,18.4
+45799,"Guayama, PR",2014,21.8
+45812,"Guayama, PR",2013,23.2
+45825,"Guayama, PR",2012,22.2
+45838,"Guayama, PR",2011,23.5
+45851,"Guayama, PR",2010,24.0
+45864,"Mayaguez, PR",2018,11.1
+45877,"Mayaguez, PR",2017,13.7
+45890,"Mayaguez, PR",2016,13.4
+45903,"Mayaguez, PR",2015,13.1
+45916,"Mayaguez, PR",2014,16.6
+45929,"Mayaguez, PR",2013,18.7
+45942,"Mayaguez, PR",2012,16.4
+45955,"Mayaguez, PR",2011,18.0
+45968,"Mayaguez, PR",2010,18.3
+45981,"Ponce, PR",2018,11.7
+45994,"Ponce, PR",2017,14.0
+46007,"Ponce, PR",2016,15.4
+46020,"Ponce, PR",2015,15.9
+46033,"Ponce, PR",2014,17.8
+46046,"Ponce, PR",2013,18.0
+46059,"Ponce, PR",2012,17.9
+46072,"Ponce, PR",2011,18.9
+46085,"Ponce, PR",2010,19.4
+46098,"San German, PR",2018,12.3
+46111,"San German, PR",2017,15.7
+46124,"San German, PR",2016,14.8
+46137,"San German, PR",2015,14.1
+46150,"San German, PR",2014,18.7
+46163,"San German, PR",2013,21.4
+46176,"San German, PR",2012,18.4
+46189,"San German, PR",2011,19.2
+46202,"San German, PR",2010,19.0
+46215,"San Juan-Carolina-Caguas, PR",2018,7.8
+46228,"San Juan-Carolina-Caguas, PR",2017,9.0
+46241,"San Juan-Carolina-Caguas, PR",2016,10.0
+46254,"San Juan-Carolina-Caguas, PR",2015,10.2
+46267,"San Juan-Carolina-Caguas, PR",2014,11.7
+46280,"San Juan-Carolina-Caguas, PR",2013,11.8
+46293,"San Juan-Carolina-Caguas, PR",2012,12.5
+46306,"San Juan-Carolina-Caguas, PR",2011,14.1
+46319,"San Juan-Carolina-Caguas, PR",2010,14.7
